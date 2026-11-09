@@ -1,0 +1,8 @@
+[
+  {
+    "id": "STG_sov_commune_state",
+    "status": "blocked",
+    "reason": "Image generator rejected output with moderation_blocked, safety_violations=[abuse]. No asset produced.",
+    "request_id": "a74b0506-9115-4a73-b062-74b5b9b80463"
+  }
+]

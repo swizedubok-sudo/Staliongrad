@@ -1,9 +1,47 @@
 {
   "status": "in_progress",
-  "completed_files": 11,
+  "completed_files": 20,
   "total_required_files": 153,
   "frame": "masters/STG_focus_frame.png",
   "assets": [
+    {
+      "id": "STG_disc_cotton_case",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Fluffy white cotton boll with gold coin hidden inside.",
+      "master": "masters/focus/STG_disc_cotton_case.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_cotton_case.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "87a5e21ccf564f7969e8bb4852195df4be6d720b89ebcf38887d2d44871e2df7"
+    },
+    {
+      "id": "STG_disc_truancy_raids",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Cinema hall in daylight with lights suddenly on, militia pony at door.",
+      "master": "masters/focus/STG_disc_truancy_raids.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_truancy_raids.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b08a1855938ede516ac83b9f70b50ef727f5e8af66a52ffeafa79c9c36f3f6a0"
+    },
     {
       "id": "STG_dz_communism",
       "type": "focus",
@@ -138,6 +176,44 @@
       "sha256": "c30f1df2e7a127f770a34c0e4dd5169ee2a482dd041ab4d866851de0c26b547e"
     },
     {
+      "id": "STG_mil_active_defense",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Shield made of logs and concrete set into snow, rifle slit glowing.",
+      "master": "masters/focus/STG_mil_active_defense.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_active_defense.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "bb267281763196ec1eb0c9ec11c8ddbab38e230d04d3dca35dd356744b2ef0fa"
+    },
+    {
+      "id": "STG_mil_brain_of_army",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Thin grey book on staff map with compasses and coloured pencils, lamp.",
+      "master": "masters/focus/STG_mil_brain_of_army.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_brain_of_army.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7875f4dee86373ad9ca07ba29b8dfba83b4b10e182eac6670d6db4e67d304a3e"
+    },
+    {
       "id": "STG_mil_deep_battle",
       "type": "focus",
       "priority": "A",
@@ -193,6 +269,109 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "a7dfa3e833cc9798ae4dfdc8630c19632dddfafd55c2476fcfbe8c3884d64ecb"
+    },
+    {
+      "id": "STG_mil_no_retreat",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Soldier pony planting flag in frozen river bank, burning city skyline behind.",
+      "master": "masters/focus/STG_mil_no_retreat.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_no_retreat.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3c7a7e45e31bd3a8a58b84c43f4957fa55999a890ff17a394f32cba10a9cab87"
+    },
+    {
+      "id": "STG_sov_congress",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Vast congress hall seen from back, thousands of raised voting cards.",
+      "master": "masters/focus/STG_sov_congress.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_congress.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "130f8951eb9bf6c2abcb5a7b6cde2b83998e46393e629f218ec57146fc6f461b"
+    },
+    {
+      "id": "STG_sov_federation",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Many small red flags on poles forming ring around larger flag.",
+      "master": "masters/focus/STG_sov_federation.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_federation.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1c19deba2982eb35deeafecdddb8e2d3771d21e86345f90b82c6886837c6c4e7"
+    },
+    {
+      "id": "STG_sov_red_guard",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Worker pony in flat cap with rifle and red armband, factory chimneys behind.",
+      "master": "masters/focus/STG_sov_red_guard.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_red_guard.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "256b654500841b79c9d4424838d69e6c3ec197777cac3be62ab1b294e7169a08"
+    },
+    {
+      "id": "STG_sov_self_management",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Factory gate with crowd of worker ponies raising hooves in vote.",
+      "master": "masters/focus/STG_sov_self_management.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_self_management.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "25741ced48858e7d63701853036f5f828085c987ff8a7699e62c158f1073273a"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "STG_sov_commune_state",
+      "status": "blocked",
+      "reason": "Image generator rejected output with moderation_blocked, safety_violations=[abuse]. No asset produced.",
+      "request_id": "a74b0506-9115-4a73-b062-74b5b9b80463"
     }
   ],
   "pending": [
@@ -208,32 +387,22 @@
     "STG_mil_mech_corps",
     "STG_mil_airborne",
     "STG_mil_god_of_war",
-    "STG_mil_active_defense",
     "STG_mil_northern_rampart",
     "STG_mil_people_avengers",
     "STG_mil_all_for_front",
     "STG_mil_defense_in_depth",
-    "STG_mil_no_retreat",
-    "STG_mil_brain_of_army",
     "STG_mil_hawks",
     "STG_mil_northern_yard",
-    "STG_sov_self_management",
     "STG_sov_village_soviets",
     "STG_sov_chervonets",
-    "STG_sov_federation",
     "STG_sov_open_sessions",
     "STG_sov_free_press",
     "STG_sov_rotation",
-    "STG_sov_red_guard",
     "STG_sov_elected_commanders",
     "STG_sov_peoples_army",
-    "STG_sov_congress",
-    "STG_sov_commune_state",
     "STG_disc_labour_norms",
-    "STG_disc_truancy_raids",
     "STG_disc_subbotnik",
     "STG_disc_honor_board",
-    "STG_disc_cotton_case",
     "STG_disc_gastronom",
     "STG_disc_zheglov",
     "STG_disc_people_control",

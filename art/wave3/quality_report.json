@@ -1,7 +1,7 @@
 {
   "status": "passed",
   "scope": "generated files only",
-  "checked_game_files": 10,
+  "checked_game_files": 19,
   "required_game_files": 152,
   "frame_size": [
     1024,
