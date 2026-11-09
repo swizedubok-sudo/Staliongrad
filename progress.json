@@ -1,7 +1,7 @@
 {
   "total_required": 101,
-  "completed": 80,
-  "pending": 21,
+  "completed": 83,
+  "pending": 18,
   "completed_batches": [
     "01",
     "02",
@@ -12,7 +12,8 @@
     "07",
     "08",
     "09",
-    "10"
+    "10",
+    "11"
   ],
   "assets": [
     {
@@ -491,13 +492,17 @@
       "id": "STG_event_ilyich_lamp",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "11",
+      "path": "art/wave2/batch11/game/gfx/event_pictures/STG_event_ilyich_lamp.dds"
     },
     {
       "id": "STG_event_vzglyad",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "11",
+      "path": "art/wave2/batch11/game/gfx/event_pictures/STG_event_vzglyad.dds"
     },
     {
       "id": "STG_event_swan_lake",
@@ -519,7 +524,9 @@
       "id": "STG_event_union_treaty",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "11",
+      "path": "art/wave2/batch11/game/gfx/event_pictures/STG_event_union_treaty.dds"
     },
     {
       "id": "STG_event_orbit_handshake",

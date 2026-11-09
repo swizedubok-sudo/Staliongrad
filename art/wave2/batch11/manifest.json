@@ -1,0 +1,65 @@
+{
+  "batch": "11",
+  "priority": "B",
+  "completed_files_in_batch": 3,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_event_ilyich_lamp",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_ilyich_lamp.png",
+      "game": "game/gfx/event_pictures/STG_event_ilyich_lamp.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "cb5639b75ba998f51f0da639319ef57cf78a084360e29d740f3d3e31ba36db71"
+    },
+    {
+      "id": "STG_event_vzglyad",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_vzglyad.png",
+      "game": "game/gfx/event_pictures/STG_event_vzglyad.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "f95f925934e0fd2ee426569d9ee18f02339d2d991a8c45020514790f5b7ab4b3"
+    },
+    {
+      "id": "STG_event_union_treaty",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_union_treaty.png",
+      "game": "game/gfx/event_pictures/STG_event_union_treaty.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "2f18a0dfb5d8a8918fad9f5fd7b9cca9a94b93207611f98d3b07cb59fb824244"
+    }
+  ]
+}

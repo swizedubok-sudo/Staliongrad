@@ -1,0 +1,23 @@
+[
+  {
+    "id": "STG_event_ilyich_lamp",
+    "type": "event",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One event picture for Hearts of Iron IV Equestria at War STG. Reference sheet is visual style only: painted cartoon ponies embedded in a convincing archival documentary scene, short equine muzzles, expressive large eyes, pony ears, quadruped proportions. Period photograph look, sepia or faded desaturated colour as the scene requires, film grain, subtle vignette, clear composition readable at 210x176. Full bleed rectangular landscape aspect 210:176, target 1050x880, no tilted borders or labels. ALL figures are ponies (earth ponies, pegasi, unicorns) unless the scene names another creature, NEVER humans, no fingers. All characters original. No captions, lettering, text, numbers, logos, watermark.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: Old peasant ponies in a log cottage staring at a single electric bulb under the ceiling, a stove behind them. 1920s photo.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_event_vzglyad",
+    "type": "event",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One event picture for Hearts of Iron IV Equestria at War STG. Reference sheet is visual style only: painted cartoon ponies embedded in a convincing archival documentary scene, short equine muzzles, expressive large eyes, pony ears, quadruped proportions. Period photograph look, sepia or faded desaturated colour as the scene requires, film grain, subtle vignette, clear composition readable at 210x176. Full bleed rectangular landscape aspect 210:176, target 1050x880, no tilted borders or labels. ALL figures are ponies (earth ponies, pegasi, unicorns) unless the scene names another creature, NEVER humans, no fingers. All characters original. No captions, lettering, text, numbers, logos, watermark.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A TV studio set like a kitchen, young presenters in sweaters interviewing a sweating official, a rock band behind them. 1988 colour photo.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_event_union_treaty",
+    "type": "event",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One event picture for Hearts of Iron IV Equestria at War STG. Reference sheet is visual style only: painted cartoon ponies embedded in a convincing archival documentary scene, short equine muzzles, expressive large eyes, pony ears, quadruped proportions. Period photograph look, sepia or faded desaturated colour as the scene requires, film grain, subtle vignette, clear composition readable at 210x176. Full bleed rectangular landscape aspect 210:176, target 1050x880, no tilted borders or labels. ALL figures are ponies (earth ponies, pegasi, unicorns) unless the scene names another creature, NEVER humans, no fingers. All characters original. No captions, lettering, text, numbers, logos, watermark.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: Leaders of several republics signing a treaty at a long table in a country residence, a photographer. 1991 colour photo.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  }
+]
