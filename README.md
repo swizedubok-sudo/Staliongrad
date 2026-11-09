@@ -1,12 +1,26 @@
-# Stalliongrad Rework — art
+# Stalliongrad Rework — арт второй очереди
 
-Assets for the Equestria at War Stalliongrad Rework submod.
+Графика для сабмода Equestria at War (HOI4), страна Сталлионград.
 
-Wave 2 specification: 101 game assets. Delivery proceeds in priority A batches, then B.
+## Готовность: 9 / 101 игровых файлов
 
-## Progress
+Первая пачка приоритета A: **7 портретов лидеров и 2 версии советников**. Остальные **92 файла ещё не созданы**.
 
-- Batch 01: 1 leader portrait (`STG_succ_chekist`), in `art/wave2/batch01/`.
-- Total completed: **1 / 101**. The remaining 100 assets are pending.
+[Открыть первую пачку](art/wave2/batch01/) · [Техническое задание](art/wave2/batch01/art_spec_wave2.md)
 
-Each batch contains PNG masters, game-ready DDS, previews, manifest and exact prompts. Copy the contents of `game/` into the mod. Sprite registration is handled separately.
+![Портреты лидеров: крупно и в игровом размере](art/wave2/batch01/preview_leaders.jpg)
+
+![Версии советников: крупно и в игровом размере](art/wave2/batch01/preview_advisers.jpg)
+
+## Содержимое пачки
+
+- `game/` — игровые DDS BC3/DXT5 с альфа-каналом, без мипмапов.
+- `masters/` — PNG: лидеры 780×1050, советники 650×670.
+- `preview_*.jpg` — обзорные листы с игровыми размерами 1:1.
+- `manifest.json` — имена, размеры, пути и SHA-256 игровых файлов.
+- `prompts.json` — точные промпты image_gen и сведения о преобразовании.
+- `README.txt` — краткая инструкция.
+
+Для установки скопируйте содержимое `art/wave2/batch01/game/` в папку мода. Регистрация спрайтов не включена — её выполняет отдельный скрипт проекта.
+
+Портреты созданы встроенным image_gen. Darkwing из EaW использован как ориентир стиля; персонажи оригинальные. Версии советников Любимова и Кржинского получены кадрированием соответствующих портретов лидеров.

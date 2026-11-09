@@ -1,0 +1,178 @@
+{
+  "status": "partial_wave2",
+  "completed_files": 9,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_succ_chekist",
+      "type": "leader",
+      "priority": "A",
+      "master": "masters/leaders/STG_succ_chekist.png",
+      "game": "game/gfx/leaders/STG/STG_succ_chekist.dds",
+      "master_size": [
+        780,
+        1050
+      ],
+      "game_size": [
+        156,
+        210
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "82e8022c804e6eaf1ecda9eb0a5f7f7dbae3ec9d4ba2928bf89125c842b6e768"
+    },
+    {
+      "id": "STG_succ_apparatchik",
+      "type": "leader",
+      "priority": "A",
+      "master": "masters/leaders/STG_succ_apparatchik.png",
+      "game": "game/gfx/leaders/STG/STG_succ_apparatchik.dds",
+      "master_size": [
+        780,
+        1050
+      ],
+      "game_size": [
+        156,
+        210
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "2395f3902359852f9a110a0e2e8c44f9a14b787f925127ae94f141940c3aecf8"
+    },
+    {
+      "id": "STG_succ_technocrat",
+      "type": "leader",
+      "priority": "A",
+      "master": "masters/leaders/STG_succ_technocrat.png",
+      "game": "game/gfx/leaders/STG/STG_succ_technocrat.dds",
+      "master_size": [
+        780,
+        1050
+      ],
+      "game_size": [
+        156,
+        210
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "135a72e46a350fd089d14e8712499521cc9e357f46a7c67e5efe92f93e6133d9"
+    },
+    {
+      "id": "STG_succ_reformer",
+      "type": "leader",
+      "priority": "A",
+      "master": "masters/leaders/STG_succ_reformer.png",
+      "game": "game/gfx/leaders/STG/STG_succ_reformer.dds",
+      "master_size": [
+        780,
+        1050
+      ],
+      "game_size": [
+        156,
+        210
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "3e199c31f84644ed000c0c33e5f12f5f701bef0fb0f65dc6cc80612252b5094c"
+    },
+    {
+      "id": "STG_alt_succ_sovetova",
+      "type": "leader",
+      "priority": "A",
+      "master": "masters/leaders/STG_alt_succ_sovetova.png",
+      "game": "game/gfx/leaders/STG/STG_alt_succ_sovetova.dds",
+      "master_size": [
+        780,
+        1050
+      ],
+      "game_size": [
+        156,
+        210
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "526d0daaedc314fa90846fa089cca8c28eeb056ec6baa60287fa24afee193d44"
+    },
+    {
+      "id": "STG_alt_succ_lyubimov",
+      "type": "leader",
+      "priority": "A",
+      "master": "masters/leaders/STG_alt_succ_lyubimov.png",
+      "game": "game/gfx/leaders/STG/STG_alt_succ_lyubimov.dds",
+      "master_size": [
+        780,
+        1050
+      ],
+      "game_size": [
+        156,
+        210
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "3525f88d1f38595b2942664bfbebcc4676c072702fe78f8126bfcda736ece78d"
+    },
+    {
+      "id": "STG_alt_succ_lyubimov",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_alt_succ_lyubimov.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_alt_succ_lyubimov.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "43c5478ec28c60f69909dc98eff641ea12cf75cf7d05d2a5f0ff92ed2900a1fb"
+    },
+    {
+      "id": "STG_alt_succ_krzhinsky",
+      "type": "leader",
+      "priority": "A",
+      "master": "masters/leaders/STG_alt_succ_krzhinsky.png",
+      "game": "game/gfx/leaders/STG/STG_alt_succ_krzhinsky.dds",
+      "master_size": [
+        780,
+        1050
+      ],
+      "game_size": [
+        156,
+        210
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "8639d78e37562297c0f84cd399c63451cc206343c2750461bfb908fbb0dacaac"
+    },
+    {
+      "id": "STG_alt_succ_krzhinsky",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_alt_succ_krzhinsky.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_alt_succ_krzhinsky.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "3b95db1a97f1364084454b49352bda0ecc7380d6c6816c24ded00c9fc4ba9c27"
+    }
+  ]
+}

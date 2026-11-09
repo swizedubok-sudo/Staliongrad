@@ -1,0 +1,74 @@
+[
+  {
+    "id": "STG_succ_chekist",
+    "type": "leader",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, insignia text, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. All characters original, equine neck and shoulders. Subject: An elderly earth pony stallion, grey coat, thinning dark mane combed back, rimless glasses, cold intelligent eyes, dark suit and tie. Early 1980s official portrait.",
+    "postprocessing": "Resize to required dimensions; DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  },
+  {
+    "id": "STG_succ_apparatchik",
+    "type": "leader",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. Equine neck and shoulders. Subject: A very old, frail earth pony stallion, pale grey coat, white mane, tired puffy eyes, heavy dark coat with medals. Early 1980s official portrait.",
+    "postprocessing": "Resize to required dimensions; DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  },
+  {
+    "id": "STG_succ_technocrat",
+    "type": "leader",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. Equine neck and shoulders. Subject: A unicorn mare in her 40s, light blue coat, short neat dark mane, thoughtful sharp eyes, white blouse and dark jacket, small slide rule pin. 1980s portrait.",
+    "postprocessing": "Resize to required dimensions; DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  },
+  {
+    "id": "STG_succ_reformer",
+    "type": "leader",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. Equine neck and shoulders. Subject: A middle-aged earth pony stallion, warm brown coat, high forehead with a faint birthmark-like coat marking, energetic open smile, modern suit. Mid-1980s portrait.",
+    "postprocessing": "Resize to required dimensions; DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  },
+  {
+    "id": "STG_alt_succ_sovetova",
+    "type": "leader",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. Equine neck and shoulders. Subject: A pegasus mare in her 30s, soft cream coat, red mane in a bun, steady eyes, plain dark dress with a red armband. 1920s portrait.",
+    "postprocessing": "Resize to required dimensions; DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  },
+  {
+    "id": "STG_alt_succ_lyubimov",
+    "type": "leader",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. Equine neck and shoulders. Subject: A young earth pony stallion, sandy coat, small goatee-like chin tuft, lively smiling eyes, Russian-style tunic shirt. 1920s portrait.",
+    "postprocessing": "Resize to required dimensions; DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  },
+  {
+    "id": "STG_alt_succ_lyubimov",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. Equine neck and shoulders. Subject: A young earth pony stallion, sandy coat, small goatee-like chin tuft, lively smiling eyes, Russian-style tunic shirt. 1920s portrait.",
+    "postprocessing": "Upper portrait crop of matching leader; resize and DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  },
+  {
+    "id": "STG_alt_succ_krzhinsky",
+    "type": "leader",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. Equine neck and shoulders. Subject: A unicorn stallion in his 50s, grey coat, neat beard-like muzzle tuft, pince-nez, engineer's jacket, electric arc faintly around his horn. 1920s portrait.",
+    "postprocessing": "Resize to required dimensions; DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  },
+  {
+    "id": "STG_alt_succ_krzhinsky",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony leader portrait for Equestria at War STG. Input image is STYLE REFERENCE ONLY, not the character to copy. Match its polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, hands, fingers or copied canon character. Official portrait manner of the era named in subject, muted colours, plain dark gradient backdrop, no text, letters, numbers, watermark or frame. Vertical aspect 156:210, target 780x1050. Head and shoulders filling frame, ears fully visible. Equine neck and shoulders. Subject: A unicorn stallion in his 50s, grey coat, neat beard-like muzzle tuft, pince-nez, engineer's jacket, electric arc faintly around his horn. 1920s portrait.",
+    "postprocessing": "Upper portrait crop of matching leader; resize and DXT5 conversion",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga"
+  }
+]
