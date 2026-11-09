@@ -1,6 +1,6 @@
 {
   "status": "in_progress",
-  "completed_files": 35,
+  "completed_files": 50,
   "total_required_files": 153,
   "frame": "masters/STG_focus_frame.png",
   "assets": [
@@ -252,6 +252,25 @@
       "sha256": "9e2584c745fab398ce786c6481a0c3ac8746fa523e4ce097107677fcb818b2f6"
     },
     {
+      "id": "STG_ind_quality",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Rounded 1960s refrigerator with small embossed pentagon quality mark on door, no letters.",
+      "master": "masters/focus/STG_ind_quality.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_quality.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "0a0a59b68149c659977fbb4863b9ec6e88ee42039f0d2667a3411033616bc9fc"
+    },
+    {
       "id": "STG_int_collective_leadership",
       "type": "focus",
       "priority": "A",
@@ -461,6 +480,44 @@
       "sha256": "3c7a7e45e31bd3a8a58b84c43f4957fa55999a890ff17a394f32cba10a9cab87"
     },
     {
+      "id": "STG_ogas",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Glowing map of North covered with computing centres joined by bright network lines, red star at centre node.",
+      "master": "masters/focus/STG_ogas.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "957c1c10e82669272a9b21d27754e0d7f36e4e3cc33a80323cfeb03a183f4e7b"
+    },
+    {
+      "id": "STG_ogas_all_seeing",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Huge glowing eye made of computer lights over city of identical blocks, searchlights.",
+      "master": "masters/focus/STG_ogas_all_seeing.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_all_seeing.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "56f716b689b6774233ccdd534a8cfda498018b6442b0b57a596809839e92dcb6"
+    },
+    {
       "id": "STG_ogas_crystal",
       "type": "focus",
       "priority": "A",
@@ -478,6 +535,44 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "7d7b40be0a7c3cd1df86041d20433a879df146cf79738a10708bdaa5f9c022dc"
+    },
+    {
+      "id": "STG_ogas_optimal_planning",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Factory chimney rising out of glowing network of lines and nodes, red star on top.",
+      "master": "masters/focus/STG_ogas_optimal_planning.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_optimal_planning.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b28235f30fda0847fd7bb1298b0d145c88cc2f2671c8f2031574140702dfbdf0"
+    },
+    {
+      "id": "STG_ogas_red_book",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Red book with military star on cover, radar dish rising behind.",
+      "master": "masters/focus/STG_ogas_red_book.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_red_book.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "cc2aafe7f577b1877ec72a5779d86ca802302a5360af416cbbc436f79e3de6ee"
     },
     {
       "id": "STG_ogas_red_plenty",
@@ -516,6 +611,25 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "b0749daae246c01555c210fbef21fe48d8deeb2f1f15bca87811c8d95d9a385b"
+    },
+    {
+      "id": "STG_ogas_who_controls",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Big red switch lever, half background bright and open, half dark with watching eye.",
+      "master": "masters/focus/STG_ogas_who_controls.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_who_controls.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ad90aa667de2ba497352e69d3c4b4416a722a19e0b1a4618d3dc7daeb474b59b"
     },
     {
       "id": "STG_perestroika",
@@ -573,6 +687,25 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "5cf37a6867bf236b1c8ca26e1c1deacb91f0f275c13305b847b7e8d67cc9776d"
+    },
+    {
+      "id": "STG_sin_permanent_revolution",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Flaming torch whose fire spirals upward in endless red helix.",
+      "master": "masters/focus/STG_sin_permanent_revolution.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_permanent_revolution.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1135f8e1d3c36ad6ff2e71402352566bdeaff092a8d6b41bd21264d5b7e6260d"
     },
     {
       "id": "STG_sov_congress",
@@ -649,6 +782,158 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "25741ced48858e7d63701853036f5f828085c987ff8a7699e62c158f1073273a"
+    },
+    {
+      "id": "STG_vas_anadyr",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Long missile under canvas tarpaulin on cargo ship deck at night, spray.",
+      "master": "masters/focus/STG_vas_anadyr.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_anadyr.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d68976bb958fbf2d34b3d56e8bb786b7bcf22325d063bc12fe824d7143e3b982"
+    },
+    {
+      "id": "STG_vas_dear_comrade",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Dark suit jacket chest completely covered with medals and five golden hero stars.",
+      "master": "masters/focus/STG_vas_dear_comrade.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_dear_comrade.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2737839d8e7e91584ebf83e4d5618f56b8f36704b9f14653165ad0a8cc006e62"
+    },
+    {
+      "id": "STG_vas_projects",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Railway cutting straight through dense taiga toward low mountains, tent and red flag beside rails.",
+      "master": "masters/focus/STG_vas_projects.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_projects.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "32fed0bc726f0211f26bc493d57741613127a21d8189bbf14691d9507111c21d"
+    },
+    {
+      "id": "STG_vas_socialist_camp",
+      "type": "focus",
+      "priority": "A",
+      "subject": "One large red banner surrounded by five smaller red banners on poles in fan arrangement.",
+      "master": "masters/focus/STG_vas_socialist_camp.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_socialist_camp.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ea572ebc386f0c4758a34a9e380035dd86c029bcd2c69f51e087db523dd4051a"
+    },
+    {
+      "id": "STG_wr_comintern",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Globe-shaped lectern draped red banner, three small flags with pony griffon feather zebra stripe motifs.",
+      "master": "masters/focus/STG_wr_comintern.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_comintern.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "0c820b51e92d482251e1d0407e3930a6185106faf14bb1120e97a7f9d15c2f54"
+    },
+    {
+      "id": "STG_wr_doomsday",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Plain clock face without numerals, both hands almost at top, faint mushroom cloud behind.",
+      "master": "masters/focus/STG_wr_doomsday.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_doomsday.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "01d8dded3d8b07ae85fe81eb35ad8cb4be83862892250993a00f63664f1fcb4c"
+    },
+    {
+      "id": "STG_wr_liberation",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Landing ship bow ramp dropping onto foreign palm-lined beach, red pennant on mast.",
+      "master": "masters/focus/STG_wr_liberation.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_liberation.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f9a21f2d75cc3b9c7d8aa37a0701cc96f377be7d3231bcbe3f0658b07bf8e0f0"
+    },
+    {
+      "id": "STG_wr_world_soviets",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Globe with three continents glowing red, red star orbiting like satellite.",
+      "master": "masters/focus/STG_wr_world_soviets.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_world_soviets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "660bd0777002f50783f05f642dc2966e965722e22bfdde11fab6c74be4a205ba"
     }
   ],
   "blocked": [
@@ -698,30 +983,15 @@
     "STG_ogas_besm",
     "STG_ogas_setun",
     "STG_ogas_cemi",
-    "STG_ogas_optimal_planning",
     "STG_ogas_gosplan",
     "STG_ogas_cashless",
-    "STG_ogas_red_book",
-    "STG_ogas_who_controls",
-    "STG_ogas_all_seeing",
-    "STG_ogas",
     "STG_gig_two_plus_two",
     "STG_bas_northern_forge",
-    "STG_ind_quality",
     "STG_q_science_towns",
-    "STG_wr_comintern",
     "STG_wr_coups",
-    "STG_wr_liberation",
-    "STG_wr_doomsday",
-    "STG_wr_world_soviets",
-    "STG_vas_socialist_camp",
     "STG_vas_comecon",
     "STG_vas_pact",
-    "STG_vas_anadyr",
-    "STG_vas_projects",
     "STG_vas_psychiatry",
-    "STG_vas_dear_comrade",
-    "STG_sin_permanent_revolution",
     "STG_sin_labour_armies",
     "STG_sin_armored_train",
     "STG_sin_bunker",
