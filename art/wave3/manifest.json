@@ -1,6 +1,6 @@
 {
   "status": "in_progress",
-  "completed_files": 20,
+  "completed_files": 35,
   "total_required_files": 153,
   "frame": "masters/STG_focus_frame.png",
   "assets": [
@@ -24,6 +24,44 @@
       "sha256": "87a5e21ccf564f7969e8bb4852195df4be6d720b89ebcf38887d2d44871e2df7"
     },
     {
+      "id": "STG_disc_gastronom",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Delicatessen counter with hidden back-room door ajar, tin of caviar glowing.",
+      "master": "masters/focus/STG_disc_gastronom.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_gastronom.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1a469493acb659dc7505014cb0d1875b6265dbf0e2d075bd391d9085ff896a45"
+    },
+    {
+      "id": "STG_disc_iron_order",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Iron gauntlet-shaped HORSESHOE gripping red star, no hand or fingers.",
+      "master": "masters/focus/STG_disc_iron_order.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_iron_order.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d073154a1c7435ea9a23255155734497a7a42112979a8207a53835d984dccfd4"
+    },
+    {
       "id": "STG_disc_truancy_raids",
       "type": "focus",
       "priority": "A",
@@ -41,6 +79,44 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "b08a1855938ede516ac83b9f70b50ef727f5e8af66a52ffeafa79c9c36f3f6a0"
+    },
+    {
+      "id": "STG_disc_zheglov",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Detective's leather coat and wide-brim hat on hook, pistol holster beside.",
+      "master": "masters/focus/STG_disc_zheglov.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_zheglov.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1ed4cb0e3ce23c3ff87f43c734f307cfe532332ebb04edaa4160b527fd3536b4"
+    },
+    {
+      "id": "STG_discipline",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Big stopwatch without numbers with red star, militia cap resting against it.",
+      "master": "masters/focus/STG_discipline.png",
+      "game": "game/gfx/interface/goals/STG/STG_discipline.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7ff040c786de9a75e4fcbf206e4e40e4df6376460e70410f15fef7710c20bfa1"
     },
     {
       "id": "STG_dz_communism",
@@ -119,6 +195,63 @@
       "sha256": "98ed7e21fc76a393a864ef6e96e2618d682338e3c4a170801e0831f5daf3c3d3"
     },
     {
+      "id": "STG_free_soviets",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Many raised hooves holding red voting cards, big red banner rising above, politically neutral.",
+      "master": "masters/focus/STG_free_soviets.png",
+      "game": "game/gfx/interface/goals/STG/STG_free_soviets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "40669fdef49535d8b54583a8cbe2e92f88abcb346f8a2ac6159fb0e625ede565"
+    },
+    {
+      "id": "STG_ind_bases",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Massive armoured door set in snowy mountainside, factory light spilling from gap, pines.",
+      "master": "masters/focus/STG_ind_bases.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_bases.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "19e26ccae4239b9c5f2d11a27b9eefd7b52cdb4ea5741c2d5e02c62a287e6e0a"
+    },
+    {
+      "id": "STG_ind_giganto",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Colossal blast furnace and factory chimneys above tiny steppe settlement, red glow from furnace mouth.",
+      "master": "masters/focus/STG_ind_giganto.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_giganto.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "9e2584c745fab398ce786c6481a0c3ac8746fa523e4ce097107677fcb818b2f6"
+    },
+    {
       "id": "STG_int_collective_leadership",
       "type": "focus",
       "priority": "A",
@@ -174,6 +307,44 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "c30f1df2e7a127f770a34c0e4dd5169ee2a482dd041ab4d866851de0c26b547e"
+    },
+    {
+      "id": "STG_kosygin_reform",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Wooden abacus over factory ledger with rising golden arrow, gear behind.",
+      "master": "masters/focus/STG_kosygin_reform.png",
+      "game": "game/gfx/interface/goals/STG/STG_kosygin_reform.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3203b630142321a28ecac0a0f5c1a8f97f07d1a12121c8b5c33a65487c554d63"
+    },
+    {
+      "id": "STG_market_socialism",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Market stall with red awning, crates of apples and bread, golden coin with horseshoe.",
+      "master": "masters/focus/STG_market_socialism.png",
+      "game": "game/gfx/interface/goals/STG/STG_market_socialism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f10329b68ac7ed50737d5cc2c4443f9d0ba04406529b3c743077c09b13d9ff82"
     },
     {
       "id": "STG_mil_active_defense",
@@ -290,6 +461,120 @@
       "sha256": "3c7a7e45e31bd3a8a58b84c43f4957fa55999a890ff17a394f32cba10a9cab87"
     },
     {
+      "id": "STG_ogas_crystal",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Unicorn horn shooting blue sparks into glowing purple crystals wired into computer.",
+      "master": "masters/focus/STG_ogas_crystal.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_crystal.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7d7b40be0a7c3cd1df86041d20433a879df146cf79738a10708bdaa5f9c022dc"
+    },
+    {
+      "id": "STG_ogas_red_plenty",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Overflowing cornucopia of bread apples and gears pouring out of glowing computer, red banner above.",
+      "master": "masters/focus/STG_ogas_red_plenty.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_red_plenty.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f02d1f1cdb94ca5863f280d518592a78c772b495ddaf37637af9df1da5529a11"
+    },
+    {
+      "id": "STG_ogas_situation_room",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Seven armchairs in semicircle facing glowing wall screens with charts without numbers.",
+      "master": "masters/focus/STG_ogas_situation_room.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_situation_room.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b0749daae246c01555c210fbef21fe48d8deeb2f1f15bca87811c8d95d9a385b"
+    },
+    {
+      "id": "STG_perestroika",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Grand old palace wrapped in scaffolding, heavy door swinging open with warm light pouring out.",
+      "master": "masters/focus/STG_perestroika.png",
+      "game": "game/gfx/interface/goals/STG/STG_perestroika.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "cb80ee692b24e3c6a7ec6044b8a216a2ac254b6184d07f525d77d18817b84392"
+    },
+    {
+      "id": "STG_pio_artek",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Tents and bonfire on seashore under mountains, bugle hanging on pole.",
+      "master": "masters/focus/STG_pio_artek.png",
+      "game": "game/gfx/interface/goals/STG/STG_pio_artek.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "33bb747801b6be76759fce970a06857d9fd02f25369e8869be9b93d532328f44"
+    },
+    {
+      "id": "STG_pio_palaces",
+      "type": "focus",
+      "priority": "A",
+      "subject": "White-columned palace of pioneers with fountain, red neckerchief on gate.",
+      "master": "masters/focus/STG_pio_palaces.png",
+      "game": "game/gfx/interface/goals/STG/STG_pio_palaces.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "5cf37a6867bf236b1c8ca26e1c1deacb91f0f275c13305b847b7e8d67cc9776d"
+    },
+    {
       "id": "STG_sov_congress",
       "type": "focus",
       "priority": "A",
@@ -403,39 +688,24 @@
     "STG_disc_labour_norms",
     "STG_disc_subbotnik",
     "STG_disc_honor_board",
-    "STG_disc_gastronom",
-    "STG_disc_zheglov",
     "STG_disc_people_control",
     "STG_disc_fifth_directorate",
     "STG_disc_jamming",
     "STG_disc_closed_cities",
-    "STG_disc_iron_order",
-    "STG_pio_palaces",
     "STG_pio_young_technicians",
     "STG_pio_zarnitsa",
     "STG_pio_suvorov",
-    "STG_pio_artek",
     "STG_ogas_besm",
     "STG_ogas_setun",
-    "STG_ogas_crystal",
     "STG_ogas_cemi",
     "STG_ogas_optimal_planning",
     "STG_ogas_gosplan",
     "STG_ogas_cashless",
     "STG_ogas_red_book",
     "STG_ogas_who_controls",
-    "STG_ogas_situation_room",
-    "STG_ogas_red_plenty",
     "STG_ogas_all_seeing",
     "STG_ogas",
-    "STG_perestroika",
-    "STG_market_socialism",
-    "STG_kosygin_reform",
-    "STG_discipline",
-    "STG_free_soviets",
-    "STG_ind_giganto",
     "STG_gig_two_plus_two",
-    "STG_ind_bases",
     "STG_bas_northern_forge",
     "STG_ind_quality",
     "STG_q_science_towns",

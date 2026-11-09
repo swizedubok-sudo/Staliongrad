@@ -168,5 +168,140 @@
       "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
     ],
     "tool": "image_gen"
+  },
+  {
+    "id": "STG_discipline",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Big stopwatch without numbers with red star, militia cap resting against it. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_disc_gastronom",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Delicatessen counter with hidden back-room door ajar, tin of caviar glowing. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_disc_iron_order",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Iron gauntlet-shaped HORSESHOE gripping red star, no hand or fingers. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_disc_zheglov",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Detective's leather coat and wide-brim hat on hook, pistol holster beside. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_free_soviets",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Many raised hooves holding red voting cards, big red banner rising above, politically neutral. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_ind_bases",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Massive armoured door set in snowy mountainside, factory light spilling from gap, pines. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_ind_giganto",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Colossal blast furnace and factory chimneys above tiny steppe settlement, red glow from furnace mouth. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_kosygin_reform",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Wooden abacus over factory ledger with rising golden arrow, gear behind. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_market_socialism",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Market stall with red awning, crates of apples and bread, golden coin with horseshoe. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_ogas_crystal",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Unicorn horn shooting blue sparks into glowing purple crystals wired into computer. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "tool": "image_gen",
+    "reference_images": [
+      "reference screenshot",
+      "STG_focus_frame.png"
+    ]
+  },
+  {
+    "id": "STG_ogas_red_plenty",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Overflowing cornucopia of bread apples and gears pouring out of glowing computer, red banner above. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_ogas_situation_room",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Seven armchairs in semicircle facing glowing wall screens with charts without numbers. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_perestroika",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Grand old palace wrapped in scaffolding, heavy door swinging open with warm light pouring out. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_pio_artek",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: Tents and bonfire on seashore under mountains, bugle hanging on pole. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "tool": "image_gen",
+    "reference_images": [
+      "reference screenshot",
+      "STG_focus_frame.png"
+    ]
+  },
+  {
+    "id": "STG_pio_palaces",
+    "prompt": "Use case: stylized-concept. Asset: central illustration layer for ONE HOI4 Equestria at War national focus icon. Image 1 is STYLE ONLY, never copy its subjects. Image 2 is immutable frame composited separately. DO NOT DRAW ANY FRAME, wheat, ribbons, border or disc. Draw only this subject on genuinely transparent background: White-columned palace of pioneers with fountain, red neckerchief on gate. Bold SATURATED CARTOON game illustration, thick clean dark outlines and soft volume shading; vivid red and gold, warm oranges and restrained blue or purple glow. Large simple silhouette with 2-3 main objects, must read at 89x80. Central 75% of square canvas, tall parts rising upwards, clean lower silhouette. Square 1024x1024. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/work/pdf/page-1-Image1.jpg",
+      "C:/Users/Boorkman/Documents/Codex/2026-11-09/x20/outputs/wave3/masters/STG_focus_frame.png"
+    ],
+    "tool": "image_gen"
   }
 ]
