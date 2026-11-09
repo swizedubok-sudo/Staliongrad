@@ -1,0 +1,46 @@
+{
+  "batch": "05",
+  "priority": "A",
+  "completed_files_in_batch": 2,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_dw_new_thinking",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_dw_new_thinking.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_new_thinking.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "beb74791285816be56988d0e56a139bdbdc196ce4ab39250b4c18724a9e832bf"
+    },
+    {
+      "id": "STG_dw_union_treaty",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_dw_union_treaty.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_union_treaty.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "d7c60746ccd5b5bcad603bb95ee8f062edfa4419fbc34e77c7f62808f5dfe816"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
 {
   "total_required": 101,
-  "completed": 38,
-  "pending": 63,
+  "completed": 40,
+  "pending": 61,
   "completed_batches": [
     "01",
     "02",
     "03",
-    "04"
+    "04",
+    "05"
   ],
   "assets": [
     {
@@ -263,13 +264,17 @@
       "id": "STG_dw_new_thinking",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "05",
+      "path": "art/wave2/batch05/game/gfx/interface/goals/STG/STG_dw_new_thinking.dds"
     },
     {
       "id": "STG_dw_union_treaty",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "05",
+      "path": "art/wave2/batch05/game/gfx/interface/goals/STG/STG_dw_union_treaty.dds"
     },
     {
       "id": "STG_event_foundation_pit",
