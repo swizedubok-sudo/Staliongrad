@@ -1,0 +1,198 @@
+{
+  "batch": "06",
+  "priority": "A",
+  "completed_files_in_batch": 10,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_event_foundation_pit",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_foundation_pit.png",
+      "game": "game/gfx/event_pictures/STG_event_foundation_pit.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "bbb52f591b099e9550831c8c67e3ea292fb058607070f49887e923784eb41656"
+    },
+    {
+      "id": "STG_event_comintern_hall",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_comintern_hall.png",
+      "game": "game/gfx/event_pictures/STG_event_comintern_hall.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "e6a9d3052f130f60a4ee47803c748cd24509140ae1edd30a6c09f28f8901cde0"
+    },
+    {
+      "id": "STG_event_white_waste_test",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_white_waste_test.png",
+      "game": "game/gfx/event_pictures/STG_event_white_waste_test.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "3ff6b4b59d493223ba480df50f8f3f722be2b9e1680945988577396d926637fc"
+    },
+    {
+      "id": "STG_event_tanks_spring",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_tanks_spring.png",
+      "game": "game/gfx/event_pictures/STG_event_tanks_spring.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "7a338d4e0985e967f1f9541c4ee3f78059dfc384be03644dde84a9226759753f"
+    },
+    {
+      "id": "STG_event_blockade",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_blockade.png",
+      "game": "game/gfx/event_pictures/STG_event_blockade.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "8ba3d35267ae30be69b0fee260588c0359777347e041f1134b354d8d1ff3f457"
+    },
+    {
+      "id": "STG_event_gun_carriage",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_gun_carriage.png",
+      "game": "game/gfx/event_pictures/STG_event_gun_carriage.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "65f4b9d655f4679f12fadb26ef6a94135a40d6cabf5193c1df458907de2cb7af"
+    },
+    {
+      "id": "STG_event_plenum_debate",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_plenum_debate.png",
+      "game": "game/gfx/event_pictures/STG_event_plenum_debate.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "266a70851328f13763a3a1091692dbdd6a748d24c579e73a4801621c1b60c926"
+    },
+    {
+      "id": "STG_event_armored_train",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_armored_train.png",
+      "game": "game/gfx/event_pictures/STG_event_armored_train.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "ee6036bdc9ba6332b55ad1067fdbf1505e21263704a523fcdd5f7ae46dcc7acf"
+    },
+    {
+      "id": "STG_event_kronstadt",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_kronstadt.png",
+      "game": "game/gfx/event_pictures/STG_event_kronstadt.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "ab4554b0ea903b57b0eb3568ea609039e3cda5dba73e45ee2ca7d475cc9ace16"
+    },
+    {
+      "id": "STG_event_armored_car_speech",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_armored_car_speech.png",
+      "game": "game/gfx/event_pictures/STG_event_armored_car_speech.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "c0961be62180e64fd0cfcc688e7be424954fc8b2ab39a089d4c3540e01389dab"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 Графика для сабмода Equestria at War (HOI4).
 
-## Готово 40 / 101 игровых файлов
+## Готово 50 / 101 игровых файлов
 
 [Полный список и статусы](progress.json) · [Техническое задание](art/wave2/batch01/art_spec_wave2.md)
 
@@ -13,6 +13,7 @@
 | [03](art/wave2/batch03/) | 10 | 10 focus |
 | [04](art/wave2/batch04/) | 10 | 10 focus |
 | [05](art/wave2/batch05/) | 2 | 2 focus |
+| [06](art/wave2/batch06/) | 10 | 10 event |
 
 ## Установка
 

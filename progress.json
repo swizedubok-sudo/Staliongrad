@@ -1,13 +1,14 @@
 {
   "total_required": 101,
-  "completed": 40,
-  "pending": 61,
+  "completed": 50,
+  "pending": 51,
   "completed_batches": [
     "01",
     "02",
     "03",
     "04",
-    "05"
+    "05",
+    "06"
   ],
   "assets": [
     {
@@ -280,7 +281,9 @@
       "id": "STG_event_foundation_pit",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_foundation_pit.dds"
     },
     {
       "id": "STG_event_rewritten_archive",
@@ -292,13 +295,17 @@
       "id": "STG_event_comintern_hall",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_comintern_hall.dds"
     },
     {
       "id": "STG_event_white_waste_test",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_white_waste_test.dds"
     },
     {
       "id": "STG_event_midnight",
@@ -310,7 +317,9 @@
       "id": "STG_event_tanks_spring",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_tanks_spring.dds"
     },
     {
       "id": "STG_event_granma",
@@ -322,7 +331,9 @@
       "id": "STG_event_blockade",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_blockade.dds"
     },
     {
       "id": "STG_event_golden_link",
@@ -334,7 +345,9 @@
       "id": "STG_event_gun_carriage",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_gun_carriage.dds"
     },
     {
       "id": "STG_event_tyorkin",
@@ -352,19 +365,25 @@
       "id": "STG_event_plenum_debate",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_plenum_debate.dds"
     },
     {
       "id": "STG_event_armored_train",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_armored_train.dds"
     },
     {
       "id": "STG_event_kronstadt",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_kronstadt.dds"
     },
     {
       "id": "STG_event_villa_by_the_sea",
@@ -388,7 +407,9 @@
       "id": "STG_event_armored_car_speech",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "06",
+      "path": "art/wave2/batch06/game/gfx/event_pictures/STG_event_armored_car_speech.dds"
     },
     {
       "id": "STG_event_black_magic_seance",
