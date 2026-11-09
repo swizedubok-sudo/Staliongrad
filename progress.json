@@ -1,7 +1,7 @@
 {
   "total_required": 101,
-  "completed": 65,
-  "pending": 36,
+  "completed": 70,
+  "pending": 31,
   "completed_batches": [
     "01",
     "02",
@@ -10,7 +10,8 @@
     "05",
     "06",
     "07",
-    "08"
+    "08",
+    "09"
   ],
   "assets": [
     {
@@ -233,19 +234,25 @@
       "id": "STG_alt_tenth_congress",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "09",
+      "path": "art/wave2/batch09/game/gfx/interface/goals/STG/STG_alt_tenth_congress.dds"
     },
     {
       "id": "STG_alt_kitchen_maid",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "09",
+      "path": "art/wave2/batch09/game/gfx/interface/goals/STG/STG_alt_kitchen_maid.dds"
     },
     {
       "id": "STG_alt_niichavo",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "09",
+      "path": "art/wave2/batch09/game/gfx/interface/goals/STG/STG_alt_niichavo.dds"
     },
     {
       "id": "STG_alt_letter_to_congress",
@@ -275,13 +282,17 @@
       "id": "STG_dw_archipelago",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "09",
+      "path": "art/wave2/batch09/game/gfx/interface/goals/STG/STG_dw_archipelago.dds"
     },
     {
       "id": "STG_dw_free_elections",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "09",
+      "path": "art/wave2/batch09/game/gfx/interface/goals/STG/STG_dw_free_elections.dds"
     },
     {
       "id": "STG_dw_new_thinking",

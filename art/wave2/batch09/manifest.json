@@ -1,0 +1,103 @@
+{
+  "batch": "09",
+  "priority": "B",
+  "completed_files_in_batch": 5,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_alt_tenth_congress",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_alt_tenth_congress.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_tenth_congress.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "3f7dca54409eb21beb7152a08d9070aa7490889d609fef61fe454d2d7fa83a88"
+    },
+    {
+      "id": "STG_alt_kitchen_maid",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_alt_kitchen_maid.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_kitchen_maid.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "3ac52d19d1849cfd99dd430fb769bf93800f61db5bc42cb80ac0da23af6d93c5"
+    },
+    {
+      "id": "STG_alt_niichavo",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_alt_niichavo.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_niichavo.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "cb88023d1dc504678cbd34e97f8165fe36d95b2cbe57bc54fb239ff90949964a"
+    },
+    {
+      "id": "STG_dw_archipelago",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_dw_archipelago.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_archipelago.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "cc79fe8b0b2bc585aec28d18daf7536149dc61f59dc6177853dc6b69cfd798cd"
+    },
+    {
+      "id": "STG_dw_free_elections",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_dw_free_elections.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_free_elections.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "394385d3b04f2895aa898a23839c6c1c58604432a78d1b6c147ceb33bb19fc7b"
+    }
+  ]
+}
