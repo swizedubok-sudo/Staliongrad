@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "game_files": 101,
+  "png_masters": 101,
+  "format": "BC3/DXT5 RGBA",
+  "mipmaps": 0,
+  "dimensions": "all exact",
+  "focus_transparency": "all 37 have >=8% transparent margins",
+  "sha256": "all game files match manifests",
+  "counts": {
+    "leader": 7,
+    "adviser": 19,
+    "focus": 37,
+    "event": 28,
+    "decision": 10
+  }
+}

@@ -2,6 +2,8 @@
 
 Графика для сабмода Equestria at War (HOI4).
 
+![Stalliongrad Rework (EaW) — Steam preview](thumbnail.png)
+
 ## Готово 101 / 101 игровых файлов
 
 [Полный список и статусы](progress.json) · [Техническое задание](art/wave2/batch01/art_spec_wave2.md)
@@ -27,3 +29,11 @@
 Скопируйте содержимое `game/` из каждой пачки в папку мода. Регистрацию спрайтов выполняет отдельный скрипт проекта.
 
 В каждой пачке: PNG-мастера, игровые DDS BC3/DXT5 с альфа-каналом без мипмапов, обзорные листы с игровым размером 1:1, `manifest.json`, точные промпты `prompts.json`, `README.txt`. Графика создана встроенным image_gen.
+
+## Полный набор и Steam-превью
+
+[Общий manifest](art/wave2/manifest.json) · [Все промпты image_gen](art/wave2/prompts.json) · [Проверка размеров и DDS](art/wave2/quality_report.json)
+
+[Превью PNG 500×500](thumbnail.png) · [Мастер PNG 1024×1024](art/steam-preview/thumbnail-1024.png) · [Превью JPEG](art/steam-preview/thumbnail.jpg) · [Промпты превью](art/steam-preview/prompts.json)
+
+Steam-превью с ярким красным акцентом создано на основе `STG_event_tanks_spring`. Оно идёт дополнительно к 101 игровому файлу.
