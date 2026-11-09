@@ -1,0 +1,342 @@
+{
+  "status": "in_progress",
+  "completed_files": 11,
+  "total_required_files": 153,
+  "frame": "masters/STG_focus_frame.png",
+  "assets": [
+    {
+      "id": "STG_dz_communism",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Shining white tower of future rising out of scaffolding, red banner on top, fireworks.",
+      "master": "masters/focus/STG_dz_communism.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_communism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ee55c02694ca2c5b2ac0d391f0f19a87a6b804fd1eacc0fcd1a84f2b7da0fb79"
+    },
+    {
+      "id": "STG_dz_corn",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Giant ear of corn robed like queen, standing in snowfield with small polar station behind.",
+      "master": "masters/focus/STG_dz_corn.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_corn.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a27e19524573e6ebbc5b1284742a3a8596ada183f49c1c2417bc6e488201b286"
+    },
+    {
+      "id": "STG_dz_dizzy",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Steep red arrow graph spiralling upward into a whirl.",
+      "master": "masters/focus/STG_dz_dizzy.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_dizzy.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3d1d173b25a0b7ac8541465ef898192b88b7ed2928e09f27a91bd73246a8a8d3"
+    },
+    {
+      "id": "STG_dz_virgin_lands",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Tractor ploughing endless steppe beneath huge sky, tent and red pennant behind.",
+      "master": "masters/focus/STG_dz_virgin_lands.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_virgin_lands.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "98ed7e21fc76a393a864ef6e96e2618d682338e3c4a170801e0831f5daf3c3d3"
+    },
+    {
+      "id": "STG_int_collective_leadership",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Three chairs at a long red-clothed table, central high-backed chair empty, single desk lamp.",
+      "master": "masters/focus/STG_int_collective_leadership.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_collective_leadership.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "e2d71ddf94435c955529f89a8d46712c414947059792cc92c05e8d376d37fc8e"
+    },
+    {
+      "id": "STG_int_platforms",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Three newspaper columns pinned side by side on board, only grey lines without letters, red pin on one.",
+      "master": "masters/focus/STG_int_platforms.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_platforms.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3419728334b06f8cac675710c9ec1ab30086859ccba9e3ff123791a70d41bceb"
+    },
+    {
+      "id": "STG_int_security_chief",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Thick dossier tied with string, rimless glasses lying on it, soldier's shadow falling across.",
+      "master": "masters/focus/STG_int_security_chief.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_security_chief.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "c30f1df2e7a127f770a34c0e4dd5169ee2a482dd041ab4d866851de0c26b547e"
+    },
+    {
+      "id": "STG_mil_deep_battle",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Tanks and pegasus paratroopers flowing through breach in barbed wire, red arrows on ground.",
+      "master": "masters/focus/STG_mil_deep_battle.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_deep_battle.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "4d8e176aa46b77d8f46cfe6f8555aaa90c760bf0acb3a8843bf496bbf570b693"
+    },
+    {
+      "id": "STG_mil_doctrine_debate",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Classroom blackboard with two opposing chalk arrows, one deep one curved defensive, pointer stick.",
+      "master": "masters/focus/STG_mil_doctrine_debate.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_doctrine_debate.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "bcfd0e12f921c96aaec0fa93e0019b9c5e016a2b7fcce47200cde10b6887cf4e"
+    },
+    {
+      "id": "STG_mil_if_war_tomorrow",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Cinema screen showing tanks in silhouette, audience of ponies in front, projector beam.",
+      "master": "masters/focus/STG_mil_if_war_tomorrow.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_if_war_tomorrow.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a7dfa3e833cc9798ae4dfdc8630c19632dddfafd55c2476fcfbe8c3884d64ecb"
+    }
+  ],
+  "pending": [
+    "STG_int_party_enrollment",
+    "STG_int_army_outside",
+    "STG_int_amnesty",
+    "STG_int_apparatus",
+    "STG_dz_catch_up",
+    "STG_dz_ryazan",
+    "STG_dz_soft_landing",
+    "STG_dz_fix_errors",
+    "STG_mil_shock_armies",
+    "STG_mil_mech_corps",
+    "STG_mil_airborne",
+    "STG_mil_god_of_war",
+    "STG_mil_active_defense",
+    "STG_mil_northern_rampart",
+    "STG_mil_people_avengers",
+    "STG_mil_all_for_front",
+    "STG_mil_defense_in_depth",
+    "STG_mil_no_retreat",
+    "STG_mil_brain_of_army",
+    "STG_mil_hawks",
+    "STG_mil_northern_yard",
+    "STG_sov_self_management",
+    "STG_sov_village_soviets",
+    "STG_sov_chervonets",
+    "STG_sov_federation",
+    "STG_sov_open_sessions",
+    "STG_sov_free_press",
+    "STG_sov_rotation",
+    "STG_sov_red_guard",
+    "STG_sov_elected_commanders",
+    "STG_sov_peoples_army",
+    "STG_sov_congress",
+    "STG_sov_commune_state",
+    "STG_disc_labour_norms",
+    "STG_disc_truancy_raids",
+    "STG_disc_subbotnik",
+    "STG_disc_honor_board",
+    "STG_disc_cotton_case",
+    "STG_disc_gastronom",
+    "STG_disc_zheglov",
+    "STG_disc_people_control",
+    "STG_disc_fifth_directorate",
+    "STG_disc_jamming",
+    "STG_disc_closed_cities",
+    "STG_disc_iron_order",
+    "STG_pio_palaces",
+    "STG_pio_young_technicians",
+    "STG_pio_zarnitsa",
+    "STG_pio_suvorov",
+    "STG_pio_artek",
+    "STG_ogas_besm",
+    "STG_ogas_setun",
+    "STG_ogas_crystal",
+    "STG_ogas_cemi",
+    "STG_ogas_optimal_planning",
+    "STG_ogas_gosplan",
+    "STG_ogas_cashless",
+    "STG_ogas_red_book",
+    "STG_ogas_who_controls",
+    "STG_ogas_situation_room",
+    "STG_ogas_red_plenty",
+    "STG_ogas_all_seeing",
+    "STG_ogas",
+    "STG_perestroika",
+    "STG_market_socialism",
+    "STG_kosygin_reform",
+    "STG_discipline",
+    "STG_free_soviets",
+    "STG_ind_giganto",
+    "STG_gig_two_plus_two",
+    "STG_ind_bases",
+    "STG_bas_northern_forge",
+    "STG_ind_quality",
+    "STG_q_science_towns",
+    "STG_wr_comintern",
+    "STG_wr_coups",
+    "STG_wr_liberation",
+    "STG_wr_doomsday",
+    "STG_wr_world_soviets",
+    "STG_vas_socialist_camp",
+    "STG_vas_comecon",
+    "STG_vas_pact",
+    "STG_vas_anadyr",
+    "STG_vas_projects",
+    "STG_vas_psychiatry",
+    "STG_vas_dear_comrade",
+    "STG_sin_permanent_revolution",
+    "STG_sin_labour_armies",
+    "STG_sin_armored_train",
+    "STG_sin_bunker",
+    "STG_sin_equisnuism",
+    "STG_sin_posadism",
+    "STG_sin_red_north",
+    "STG_alt_state_and_revolution",
+    "STG_alt_goelro",
+    "STG_alt_tenth_congress",
+    "STG_alt_kitchen_maid",
+    "STG_alt_niichavo",
+    "STG_alt_letter_to_congress",
+    "STG_dw_process",
+    "STG_dw_glasnost",
+    "STG_dw_archipelago",
+    "STG_dw_free_elections",
+    "STG_dw_new_thinking",
+    "STG_dw_union_treaty",
+    "STG_event_troika",
+    "STG_event_security_chief",
+    "STG_event_cold_summer",
+    "STG_event_portraits",
+    "STG_event_records",
+    "STG_event_ryazan",
+    "STG_event_this_generation",
+    "STG_event_hangover",
+    "STG_event_general_call",
+    "STG_event_famine_map",
+    "STG_event_seed_dispute",
+    "STG_event_academy_debate",
+    "STG_event_if_war_tomorrow",
+    "STG_event_nowhere_to_retreat",
+    "STG_event_congress_of_soviets",
+    "STG_event_factory_committee",
+    "STG_event_truancy_raid",
+    "STG_event_gastronom_arrest",
+    "STG_event_zheglov",
+    "STG_event_closed_city",
+    "STG_event_dossier_altidiya",
+    "STG_event_dossier_nestor",
+    "STG_event_staff_of_equality",
+    "STG_konzan_heavy",
+    "STG_tupokrylov",
+    "STG_chaika",
+    "STG_glubina",
+    "STG_polar_instrument",
+    "STG_severny_molot",
+    "STG_tyl_workshops",
+    "STG_polyarny_auto",
+    "STG_yastrebok",
+    "STG_northern_yard",
+    "STG_cat_interregnum",
+    "STG_cat_dizzy",
+    "STG_cat_agroprom",
+    "STG_town_rovnya"
+  ]
+}
