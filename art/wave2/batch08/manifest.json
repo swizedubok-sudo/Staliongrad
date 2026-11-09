@@ -1,0 +1,198 @@
+{
+  "batch": "08",
+  "priority": "B",
+  "completed_files_in_batch": 10,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_gig_two_plus_two",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_gig_two_plus_two.png",
+      "game": "game/gfx/interface/goals/STG/STG_gig_two_plus_two.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "af8d790cba37b19a51d152d06c0e49b3b7ecae00e963076e0d53063a00be79ce"
+    },
+    {
+      "id": "STG_bas_northern_forge",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_bas_northern_forge.png",
+      "game": "game/gfx/interface/goals/STG/STG_bas_northern_forge.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "1b92ff0106fbfbe0ecffec05f1dd20a9288840b49aba6bcca486424bf4674451"
+    },
+    {
+      "id": "STG_q_science_towns",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_q_science_towns.png",
+      "game": "game/gfx/interface/goals/STG/STG_q_science_towns.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "23a5b627a33d49e30ff7db7d1463f12e6f83be89fc6b97098971013769890e38"
+    },
+    {
+      "id": "STG_wr_coups",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_wr_coups.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_coups.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "4576297e19ba28a7403c5c3889c8480e880265f2acfdd1ec01c06463b991a5eb"
+    },
+    {
+      "id": "STG_vas_comecon",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_vas_comecon.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_comecon.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "fa15a99b88344d5be712c9895ce287a62d4d209a60190a8aaa0871ed61bfd6a3"
+    },
+    {
+      "id": "STG_vas_pact",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_vas_pact.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_pact.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "e6a124e39ab6d5fa5970b9731e67ea1d22a1fad6fbd9c9921c0e2237dbf9ead4"
+    },
+    {
+      "id": "STG_vas_psychiatry",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_vas_psychiatry.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_psychiatry.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "5779006dc2d86523f709bbe0555f7e630c3a673c93f2d18e32894b566fa7e4ca"
+    },
+    {
+      "id": "STG_sin_labour_armies",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_sin_labour_armies.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_labour_armies.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "5ee973936e61084b20c73cc1a2a21689bd534155b9806449c906400d8b14eb3b"
+    },
+    {
+      "id": "STG_sin_bunker",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_sin_bunker.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_bunker.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "41cc91665fd891e1bdc55a32420612a7f91a30bdc90dec4a513434b1c961204d"
+    },
+    {
+      "id": "STG_sin_posadism",
+      "type": "focus",
+      "priority": "B",
+      "master": "masters/focus/STG_sin_posadism.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_posadism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "f196f73119b36bb666b2ed7fbe6eaae1c1ecacb5ba85cdec0f000ad2e786e1a4"
+    }
+  ]
+}

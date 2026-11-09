@@ -1,7 +1,7 @@
 {
   "total_required": 101,
-  "completed": 55,
-  "pending": 46,
+  "completed": 65,
+  "pending": 36,
   "completed_batches": [
     "01",
     "02",
@@ -9,7 +9,8 @@
     "04",
     "05",
     "06",
-    "07"
+    "07",
+    "08"
   ],
   "assets": [
     {
@@ -24,7 +25,9 @@
       "id": "STG_gig_two_plus_two",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_gig_two_plus_two.dds"
     },
     {
       "id": "STG_ind_bases",
@@ -38,7 +41,9 @@
       "id": "STG_bas_northern_forge",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_bas_northern_forge.dds"
     },
     {
       "id": "STG_ind_quality",
@@ -52,7 +57,9 @@
       "id": "STG_q_science_towns",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_q_science_towns.dds"
     },
     {
       "id": "STG_wr_comintern",
@@ -66,7 +73,9 @@
       "id": "STG_wr_coups",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_wr_coups.dds"
     },
     {
       "id": "STG_wr_liberation",
@@ -104,13 +113,17 @@
       "id": "STG_vas_comecon",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_vas_comecon.dds"
     },
     {
       "id": "STG_vas_pact",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_vas_pact.dds"
     },
     {
       "id": "STG_vas_anadyr",
@@ -132,7 +145,9 @@
       "id": "STG_vas_psychiatry",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_vas_psychiatry.dds"
     },
     {
       "id": "STG_vas_dear_comrade",
@@ -154,7 +169,9 @@
       "id": "STG_sin_labour_armies",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_sin_labour_armies.dds"
     },
     {
       "id": "STG_sin_armored_train",
@@ -168,7 +185,9 @@
       "id": "STG_sin_bunker",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_sin_bunker.dds"
     },
     {
       "id": "STG_sin_equusianism",
@@ -182,7 +201,9 @@
       "id": "STG_sin_posadism",
       "type": "focus",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "08",
+      "path": "art/wave2/batch08/game/gfx/interface/goals/STG/STG_sin_posadism.dds"
     },
     {
       "id": "STG_sin_red_north",
