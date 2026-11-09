@@ -1,0 +1,103 @@
+{
+  "batch": "07",
+  "priority": "A",
+  "completed_files_in_batch": 5,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_event_black_magic_seance",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_black_magic_seance.png",
+      "game": "game/gfx/event_pictures/STG_event_black_magic_seance.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "bd1dc227884df2ae6aafba09fedbcdb6ac052882f0f2758266ad5736350e8bb4"
+    },
+    {
+      "id": "STG_event_funeral_train",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_funeral_train.png",
+      "game": "game/gfx/event_pictures/STG_event_funeral_train.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "12665ecde7340336147aa44093c444a04af71305d34fdd44a82837ba865fbe8c"
+    },
+    {
+      "id": "STG_event_swan_lake",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_swan_lake.png",
+      "game": "game/gfx/event_pictures/STG_event_swan_lake.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "f57572075484342391f68de23e655896cf3f43a7647e38c210c2ed79ad3f74d3"
+    },
+    {
+      "id": "STG_event_barricades",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_barricades.png",
+      "game": "game/gfx/event_pictures/STG_event_barricades.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "a08bc1982f70eca8bc6cde29c52b170a63559d618fb4c382d8855fb12a49ae1f"
+    },
+    {
+      "id": "STG_event_orbit_handshake",
+      "type": "event",
+      "priority": "A",
+      "master": "masters/event/STG_event_orbit_handshake.png",
+      "game": "game/gfx/event_pictures/STG_event_orbit_handshake.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "2dffe248109a54472f770d92c1de014391236c738f59c07e289e9686b0c8b931"
+    }
+  ]
+}

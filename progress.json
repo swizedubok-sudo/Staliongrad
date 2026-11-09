@@ -1,14 +1,15 @@
 {
   "total_required": 101,
-  "completed": 50,
-  "pending": 51,
+  "completed": 55,
+  "pending": 46,
   "completed_batches": [
     "01",
     "02",
     "03",
     "04",
     "05",
-    "06"
+    "06",
+    "07"
   ],
   "assets": [
     {
@@ -415,7 +416,9 @@
       "id": "STG_event_black_magic_seance",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "07",
+      "path": "art/wave2/batch07/game/gfx/event_pictures/STG_event_black_magic_seance.dds"
     },
     {
       "id": "STG_event_heart_of_a_dog",
@@ -427,7 +430,9 @@
       "id": "STG_event_funeral_train",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "07",
+      "path": "art/wave2/batch07/game/gfx/event_pictures/STG_event_funeral_train.dds"
     },
     {
       "id": "STG_event_ilyich_lamp",
@@ -445,13 +450,17 @@
       "id": "STG_event_swan_lake",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "07",
+      "path": "art/wave2/batch07/game/gfx/event_pictures/STG_event_swan_lake.dds"
     },
     {
       "id": "STG_event_barricades",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "07",
+      "path": "art/wave2/batch07/game/gfx/event_pictures/STG_event_barricades.dds"
     },
     {
       "id": "STG_event_union_treaty",
@@ -463,7 +472,9 @@
       "id": "STG_event_orbit_handshake",
       "type": "event",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "07",
+      "path": "art/wave2/batch07/game/gfx/event_pictures/STG_event_orbit_handshake.dds"
     },
     {
       "id": "STG_succ_chekist",
