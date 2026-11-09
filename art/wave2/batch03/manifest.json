@@ -1,0 +1,198 @@
+{
+  "batch": "03",
+  "priority": "A",
+  "completed_files_in_batch": 10,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_ind_giganto",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_ind_giganto.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_giganto.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "64b62941c4b47023a53b433f571a43e1c26c440b845cfff4a20ef3649285f9c1"
+    },
+    {
+      "id": "STG_ind_bases",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_ind_bases.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_bases.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "9c1444cbf9671f8ab6f1fd6f0babc1d03c7ee668208f4f649395ceb555c5f39c"
+    },
+    {
+      "id": "STG_ind_quality",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_ind_quality.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_quality.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "732ffe83cebbaea99ea30386a8c35b03e5e93872f4dfc4bb71af7a1670155a57"
+    },
+    {
+      "id": "STG_wr_comintern",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_wr_comintern.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_comintern.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "a0e5c73a466bae98005b1eb901d518e470bb361bf94236e0325c9b22b53c5287"
+    },
+    {
+      "id": "STG_wr_liberation",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_wr_liberation.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_liberation.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "38307fa5029f015f2c232691a3ef2e1f74ba2291e730af025a503a8e35fd8716"
+    },
+    {
+      "id": "STG_wr_doomsday",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_wr_doomsday.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_doomsday.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "cd32a8ab5fbc26dd09f9e3d1b2389d318c20f75db3f452d2cfe3868c12dd7ec6"
+    },
+    {
+      "id": "STG_wr_world_soviets",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_wr_world_soviets.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_world_soviets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "ef5501eee7a7103fa3c415cb2f7b0204962f0452054f2454333e539cd38b4f8e"
+    },
+    {
+      "id": "STG_vas_socialist_camp",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_vas_socialist_camp.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_socialist_camp.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "937cfff0d39c86c7e4b71f6efe1e37981a86123f19bdde39215f74a2aebeb77a"
+    },
+    {
+      "id": "STG_vas_anadyr",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_vas_anadyr.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_anadyr.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "31ead87c5a60ae4f5d20faa07f06c5ad763f7814559a8e2c620a2d38826e49af"
+    },
+    {
+      "id": "STG_vas_projects",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_vas_projects.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_projects.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "d176e015c03fd6bfd0246c2c861cf4c77f9b4bc3596a71ea0d520eda987e59fe"
+    }
+  ]
+}

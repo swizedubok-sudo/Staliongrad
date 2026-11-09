@@ -1,17 +1,20 @@
 {
   "total_required": 101,
-  "completed": 18,
-  "pending": 83,
+  "completed": 28,
+  "pending": 73,
   "completed_batches": [
     "01",
-    "02"
+    "02",
+    "03"
   ],
   "assets": [
     {
       "id": "STG_ind_giganto",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_ind_giganto.dds"
     },
     {
       "id": "STG_gig_two_plus_two",
@@ -23,7 +26,9 @@
       "id": "STG_ind_bases",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_ind_bases.dds"
     },
     {
       "id": "STG_bas_northern_forge",
@@ -35,7 +40,9 @@
       "id": "STG_ind_quality",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_ind_quality.dds"
     },
     {
       "id": "STG_q_science_towns",
@@ -47,7 +54,9 @@
       "id": "STG_wr_comintern",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_wr_comintern.dds"
     },
     {
       "id": "STG_wr_coups",
@@ -59,25 +68,33 @@
       "id": "STG_wr_liberation",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_wr_liberation.dds"
     },
     {
       "id": "STG_wr_doomsday",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_wr_doomsday.dds"
     },
     {
       "id": "STG_wr_world_soviets",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_wr_world_soviets.dds"
     },
     {
       "id": "STG_vas_socialist_camp",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_vas_socialist_camp.dds"
     },
     {
       "id": "STG_vas_comecon",
@@ -95,13 +112,17 @@
       "id": "STG_vas_anadyr",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_vas_anadyr.dds"
     },
     {
       "id": "STG_vas_projects",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "03",
+      "path": "art/wave2/batch03/game/gfx/interface/goals/STG/STG_vas_projects.dds"
     },
     {
       "id": "STG_vas_psychiatry",
