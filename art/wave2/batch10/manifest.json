@@ -1,0 +1,198 @@
+{
+  "batch": "10",
+  "priority": "B",
+  "completed_files_in_batch": 10,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_event_rewritten_archive",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_rewritten_archive.png",
+      "game": "game/gfx/event_pictures/STG_event_rewritten_archive.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "a9b6c326f3687c9774882ddea1ce3c501303ecb43ea6bc234228e164b65f8740"
+    },
+    {
+      "id": "STG_event_midnight",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_midnight.png",
+      "game": "game/gfx/event_pictures/STG_event_midnight.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "0ac2542d77c4d95897b2d5cd342a8069401f55e59d9efbae213270f5ee028c15"
+    },
+    {
+      "id": "STG_event_granma",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_granma.png",
+      "game": "game/gfx/event_pictures/STG_event_granma.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "40fba143a5f38a4fc12bf363896603e3f8d0824da4d5224f2238d79547d58eca"
+    },
+    {
+      "id": "STG_event_golden_link",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_golden_link.png",
+      "game": "game/gfx/event_pictures/STG_event_golden_link.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "07e713ac3eace55a75863d409d0dc841b4c107e2e047c2afdfe3cd23d3a9bf48"
+    },
+    {
+      "id": "STG_event_tyorkin",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_tyorkin.png",
+      "game": "game/gfx/event_pictures/STG_event_tyorkin.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "63e9d7443deafbc21c048972668a8e0ba0122453010ed93a4c216b6f1f5ad32d"
+    },
+    {
+      "id": "STG_event_stalker",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_stalker.png",
+      "game": "game/gfx/event_pictures/STG_event_stalker.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "2c5b5986161f11266a832b7ff423c4338408bd03e27b111e1541c0e52abbfcef"
+    },
+    {
+      "id": "STG_event_villa_by_the_sea",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_villa_by_the_sea.png",
+      "game": "game/gfx/event_pictures/STG_event_villa_by_the_sea.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "31a941c11d0268c684124ed39a22240436e71da72f80fecaed1ed121c0c94f08"
+    },
+    {
+      "id": "STG_event_lights_over_tundra",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_lights_over_tundra.png",
+      "game": "game/gfx/event_pictures/STG_event_lights_over_tundra.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "9626245330de28658a1117be465ef5ab0d8839cdf97698ef383620f1f80000ef"
+    },
+    {
+      "id": "STG_event_bunker_action",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_bunker_action.png",
+      "game": "game/gfx/event_pictures/STG_event_bunker_action.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "29cdb79a76f1f5e277d94c762f65b462b9cb313b98d1b5a327b24ade8bcf57c2"
+    },
+    {
+      "id": "STG_event_heart_of_a_dog",
+      "type": "event",
+      "priority": "B",
+      "master": "masters/event/STG_event_heart_of_a_dog.png",
+      "game": "game/gfx/event_pictures/STG_event_heart_of_a_dog.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "df55a333243f9d3f7f2da8255087fc5e83437c507f3a865f0032e9a49151cc28"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "total_required": 101,
-  "completed": 70,
-  "pending": 31,
+  "completed": 80,
+  "pending": 21,
   "completed_batches": [
     "01",
     "02",
@@ -11,7 +11,8 @@
     "06",
     "07",
     "08",
-    "09"
+    "09",
+    "10"
   ],
   "assets": [
     {
@@ -322,7 +323,9 @@
       "id": "STG_event_rewritten_archive",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_rewritten_archive.dds"
     },
     {
       "id": "STG_event_comintern_hall",
@@ -344,7 +347,9 @@
       "id": "STG_event_midnight",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_midnight.dds"
     },
     {
       "id": "STG_event_tanks_spring",
@@ -358,7 +363,9 @@
       "id": "STG_event_granma",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_granma.dds"
     },
     {
       "id": "STG_event_blockade",
@@ -372,7 +379,9 @@
       "id": "STG_event_golden_link",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_golden_link.dds"
     },
     {
       "id": "STG_event_gun_carriage",
@@ -386,13 +395,17 @@
       "id": "STG_event_tyorkin",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_tyorkin.dds"
     },
     {
       "id": "STG_event_stalker",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_stalker.dds"
     },
     {
       "id": "STG_event_plenum_debate",
@@ -422,19 +435,25 @@
       "id": "STG_event_villa_by_the_sea",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_villa_by_the_sea.dds"
     },
     {
       "id": "STG_event_lights_over_tundra",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_lights_over_tundra.dds"
     },
     {
       "id": "STG_event_bunker_action",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_bunker_action.dds"
     },
     {
       "id": "STG_event_armored_car_speech",
@@ -456,7 +475,9 @@
       "id": "STG_event_heart_of_a_dog",
       "type": "event",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "10",
+      "path": "art/wave2/batch10/game/gfx/event_pictures/STG_event_heart_of_a_dog.dds"
     },
     {
       "id": "STG_event_funeral_train",
