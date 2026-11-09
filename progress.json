@@ -1,11 +1,12 @@
 {
   "total_required": 101,
-  "completed": 28,
-  "pending": 73,
+  "completed": 38,
+  "pending": 63,
   "completed_batches": [
     "01",
     "02",
-    "03"
+    "03",
+    "04"
   ],
   "assets": [
     {
@@ -134,13 +135,17 @@
       "id": "STG_vas_dear_comrade",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_vas_dear_comrade.dds"
     },
     {
       "id": "STG_sin_permanent_revolution",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_sin_permanent_revolution.dds"
     },
     {
       "id": "STG_sin_labour_armies",
@@ -152,7 +157,9 @@
       "id": "STG_sin_armored_train",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_sin_armored_train.dds"
     },
     {
       "id": "STG_sin_bunker",
@@ -164,7 +171,9 @@
       "id": "STG_sin_equusianism",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_sin_equusianism.dds"
     },
     {
       "id": "STG_sin_posadism",
@@ -176,19 +185,25 @@
       "id": "STG_sin_red_north",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_sin_red_north.dds"
     },
     {
       "id": "STG_alt_state_and_revolution",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_alt_state_and_revolution.dds"
     },
     {
       "id": "STG_alt_goelro",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_alt_goelro.dds"
     },
     {
       "id": "STG_alt_tenth_congress",
@@ -212,19 +227,25 @@
       "id": "STG_alt_letter_to_congress",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_alt_letter_to_congress.dds"
     },
     {
       "id": "STG_dw_process",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_dw_process.dds"
     },
     {
       "id": "STG_dw_glasnost",
       "type": "focus",
       "priority": "A",
-      "status": "pending"
+      "status": "complete",
+      "batch": "04",
+      "path": "art/wave2/batch04/game/gfx/interface/goals/STG/STG_dw_glasnost.dds"
     },
     {
       "id": "STG_dw_archipelago",

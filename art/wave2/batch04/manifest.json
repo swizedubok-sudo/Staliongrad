@@ -1,0 +1,198 @@
+{
+  "batch": "04",
+  "priority": "A",
+  "completed_files_in_batch": 10,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_vas_dear_comrade",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_vas_dear_comrade.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_dear_comrade.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "5558d21c037f1c6bcd3f403a618aff6568a4a90ba1083a76788a8f4732dae60e"
+    },
+    {
+      "id": "STG_sin_permanent_revolution",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_sin_permanent_revolution.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_permanent_revolution.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "025532ce253d15f9950f1914891b002f84a4667f040e9c91b06c4427bbfd0c87"
+    },
+    {
+      "id": "STG_sin_armored_train",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_sin_armored_train.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_armored_train.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "95d5ab2efa812cd457764a51277dc993a19c5ec79a34bba1bb67b1445680352c"
+    },
+    {
+      "id": "STG_sin_equusianism",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_sin_equusianism.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_equusianism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "537bc218a2b780871c8e352a22101ce698e8cc6486deaf021369ef82c66b75f0"
+    },
+    {
+      "id": "STG_sin_red_north",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_sin_red_north.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_red_north.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "0c956ef556b8751a24eed01f4dafbd58cf1a54062da74d869a7e2d8f13c38d2e"
+    },
+    {
+      "id": "STG_alt_state_and_revolution",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_alt_state_and_revolution.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_state_and_revolution.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "b822347444116bd5026b7635913f203d5a8e2c581ec7ed813689d5c08162799c"
+    },
+    {
+      "id": "STG_alt_goelro",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_alt_goelro.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_goelro.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "eedc66b8ce519a559cb0e57e07c4121e24ca9d90a1a02a7a8528695decfd7f4c"
+    },
+    {
+      "id": "STG_alt_letter_to_congress",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_alt_letter_to_congress.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_letter_to_congress.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "f7a1458a1983bfa3704f22b350561a8eab3562cc37a271e649a4606d6f85eca6"
+    },
+    {
+      "id": "STG_dw_process",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_dw_process.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_process.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "db4b55444aa1e1d62d365833355448ed1f4e706841a7c8f76a017722b2ad039b"
+    },
+    {
+      "id": "STG_dw_glasnost",
+      "type": "focus",
+      "priority": "A",
+      "master": "masters/focus/STG_dw_glasnost.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_glasnost.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "2d96b13bbb051f2442a60d91b91b019ed60c0317d918279248da8d55f58e15a1"
+    }
+  ]
+}
