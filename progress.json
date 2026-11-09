@@ -1,7 +1,7 @@
 {
   "total_required": 101,
-  "completed": 83,
-  "pending": 18,
+  "completed": 91,
+  "pending": 10,
   "completed_batches": [
     "01",
     "02",
@@ -13,7 +13,8 @@
     "08",
     "09",
     "10",
-    "11"
+    "11",
+    "12"
   ],
   "assets": [
     {
@@ -636,13 +637,17 @@
       "id": "STG_adv_snezhneva",
       "type": "adviser",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "12",
+      "path": "art/wave2/batch12/game/gfx/interface/ideas/Advisors/STG/STG_adv_snezhneva.dds"
     },
     {
       "id": "STG_adv_vekhov",
       "type": "adviser",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "12",
+      "path": "art/wave2/batch12/game/gfx/interface/ideas/Advisors/STG/STG_adv_vekhov.dds"
     },
     {
       "id": "STG_adv_granatov",
@@ -664,7 +669,9 @@
       "id": "STG_adv_glubokiy",
       "type": "adviser",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "12",
+      "path": "art/wave2/batch12/game/gfx/interface/ideas/Advisors/STG/STG_adv_glubokiy.dds"
     },
     {
       "id": "STG_adv_posadova",
@@ -678,13 +685,17 @@
       "id": "STG_adv_kollontaeva",
       "type": "adviser",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "12",
+      "path": "art/wave2/batch12/game/gfx/interface/ideas/Advisors/STG/STG_adv_kollontaeva.dds"
     },
     {
       "id": "STG_adv_lunacharov",
       "type": "adviser",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "12",
+      "path": "art/wave2/batch12/game/gfx/interface/ideas/Advisors/STG/STG_adv_lunacharov.dds"
     },
     {
       "id": "STG_adv_zheleznyi",
@@ -706,19 +717,25 @@
       "id": "STG_adv_shevardin",
       "type": "adviser",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "12",
+      "path": "art/wave2/batch12/game/gfx/interface/ideas/Advisors/STG/STG_adv_shevardin.dds"
     },
     {
       "id": "STG_adv_korotkov",
       "type": "adviser",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "12",
+      "path": "art/wave2/batch12/game/gfx/interface/ideas/Advisors/STG/STG_adv_korotkov.dds"
     },
     {
       "id": "STG_adv_shatalov",
       "type": "adviser",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "12",
+      "path": "art/wave2/batch12/game/gfx/interface/ideas/Advisors/STG/STG_adv_shatalov.dds"
     },
     {
       "id": "STG_adv_konzansky",

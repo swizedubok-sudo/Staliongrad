@@ -1,0 +1,160 @@
+{
+  "batch": "12",
+  "priority": "B",
+  "completed_files_in_batch": 8,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_adv_snezhneva",
+      "type": "adviser",
+      "priority": "B",
+      "master": "masters/adviser/STG_adv_snezhneva.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_snezhneva.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "fde6f203327b0588af534a52f2204feb115dbfd950b27760599cca6e91605d7f"
+    },
+    {
+      "id": "STG_adv_vekhov",
+      "type": "adviser",
+      "priority": "B",
+      "master": "masters/adviser/STG_adv_vekhov.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_vekhov.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "2b5d31b9bf1b9767f5e9dc00ff5ed9a9fdb15434882081fc8e1447a3afd90646"
+    },
+    {
+      "id": "STG_adv_glubokiy",
+      "type": "adviser",
+      "priority": "B",
+      "master": "masters/adviser/STG_adv_glubokiy.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_glubokiy.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "e752b1902d7ba225818640d0b5d3613a1b0e5a4b4053fd981d48039d94e56eb9"
+    },
+    {
+      "id": "STG_adv_kollontaeva",
+      "type": "adviser",
+      "priority": "B",
+      "master": "masters/adviser/STG_adv_kollontaeva.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_kollontaeva.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "528896b2e821682da9b8e7641296621bff27227be5a4cabcbab53a18b4378792"
+    },
+    {
+      "id": "STG_adv_lunacharov",
+      "type": "adviser",
+      "priority": "B",
+      "master": "masters/adviser/STG_adv_lunacharov.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_lunacharov.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "e42d722c7ba38e08ce9dbccca56a3ab9d65235e4d9fe4697b3e6eaf773755b43"
+    },
+    {
+      "id": "STG_adv_shevardin",
+      "type": "adviser",
+      "priority": "B",
+      "master": "masters/adviser/STG_adv_shevardin.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_shevardin.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "f2c18571b0d8e9c21996084ba84e6d68fc7b2ffec01d29e072f7e721c5065404"
+    },
+    {
+      "id": "STG_adv_korotkov",
+      "type": "adviser",
+      "priority": "B",
+      "master": "masters/adviser/STG_adv_korotkov.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_korotkov.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "5875d7b9284d85d7e3f95b99154074ac6035604241009c1f90a94f74f2a7c45f"
+    },
+    {
+      "id": "STG_adv_shatalov",
+      "type": "adviser",
+      "priority": "B",
+      "master": "masters/adviser/STG_adv_shatalov.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_shatalov.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "5ccac263b3bb77a4c511bfb082b99fc096147412b52cac38d8006e20de75b445"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "STG_adv_snezhneva",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Equestria at War STG. Reference sheet is style only: match the Vasya / Darkwing portraits' polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, human hands, or copied canon character. Official portrait manner of the era named in the subject, muted colours, plain dark gradient backdrop, no text or frame. Square-ish aspect 65:67, target 650x670, head and shoulders filling frame, fully visible ears and horn, readable at 65x67. Plain dark backdrop.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Subject: Unicorn mare in her 60s, white coat, white lab coat, cold polite smile, steel-rimmed glasses.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_adv_vekhov",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Equestria at War STG. Reference sheet is style only: match the Vasya / Darkwing portraits' polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, human hands, or copied canon character. Official portrait manner of the era named in the subject, muted colours, plain dark gradient backdrop, no text or frame. Square-ish aspect 65:67, target 650x670, head and shoulders filling frame, fully visible ears and horn, readable at 65x67. Plain dark backdrop.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Subject: Earth pony stallion, \u00e9migr\u00e9 professor, tweed coat, neat moustache-like muzzle marking, pensive. 1920s.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_adv_glubokiy",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Equestria at War STG. Reference sheet is style only: match the Vasya / Darkwing portraits' polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, human hands, or copied canon character. Official portrait manner of the era named in the subject, muted colours, plain dark gradient backdrop, no text or frame. Square-ish aspect 65:67, target 650x670, head and shoulders filling frame, fully visible ears and horn, readable at 65x67. Plain dark backdrop.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Subject: Handsome earth pony stallion in his 40s, dark coat, marshal's uniform with collar diamonds, confident gaze. 1930s.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_adv_kollontaeva",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Equestria at War STG. Reference sheet is style only: match the Vasya / Darkwing portraits' polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, human hands, or copied canon character. Official portrait manner of the era named in the subject, muted colours, plain dark gradient backdrop, no text or frame. Square-ish aspect 65:67, target 650x670, head and shoulders filling frame, fully visible ears and horn, readable at 65x67. Plain dark backdrop.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Subject: Elegant pegasus mare in her 40s, dark coat, wavy mane, fur stole over a plain dress, confident smile. 1920s.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_adv_lunacharov",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Equestria at War STG. Reference sheet is style only: match the Vasya / Darkwing portraits' polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, human hands, or copied canon character. Official portrait manner of the era named in the subject, muted colours, plain dark gradient backdrop, no text or frame. Square-ish aspect 65:67, target 650x670, head and shoulders filling frame, fully visible ears and horn, readable at 65x67. Plain dark backdrop.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Subject: Unicorn stallion, pince-nez, small goatee-like tuft, scholarly jacket, book in magic grip. 1920s.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_adv_shevardin",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Equestria at War STG. Reference sheet is style only: match the Vasya / Darkwing portraits' polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, human hands, or copied canon character. Official portrait manner of the era named in the subject, muted colours, plain dark gradient backdrop, no text or frame. Square-ish aspect 65:67, target 650x670, head and shoulders filling frame, fully visible ears and horn, readable at 65x67. Plain dark backdrop.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Subject: Earth pony stallion with a full silver mane, warm smile, diplomatic suit. 1980s.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_adv_korotkov",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Equestria at War STG. Reference sheet is style only: match the Vasya / Darkwing portraits' polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, human hands, or copied canon character. Official portrait manner of the era named in the subject, muted colours, plain dark gradient backdrop, no text or frame. Square-ish aspect 65:67, target 650x670, head and shoulders filling frame, fully visible ears and horn, readable at 65x67. Plain dark backdrop.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Subject: Lively earth pony stallion in his 50s, short beard-like tuft, sweater over a shirt, stack of magazines. 1980s.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_adv_shatalov",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Equestria at War STG. Reference sheet is style only: match the Vasya / Darkwing portraits' polished painted cartoon pony anatomy, large expressive eyes, short equine muzzle, soft modeled shading and crisp silhouette. No photorealistic horse, human face, human hands, or copied canon character. Official portrait manner of the era named in the subject, muted colours, plain dark gradient backdrop, no text or frame. Square-ish aspect 65:67, target 650x670, head and shoulders filling frame, fully visible ears and horn, readable at 65x67. Plain dark backdrop.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Subject: Unicorn stallion economist in his 50s, glasses, cardigan, charts glowing faintly in his magic. 1990.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  }
+]
