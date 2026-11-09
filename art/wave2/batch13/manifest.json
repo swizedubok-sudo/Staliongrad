@@ -1,0 +1,198 @@
+{
+  "batch": "13",
+  "priority": "B",
+  "completed_files_in_batch": 10,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_cat_mega",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_mega.png",
+      "game": "game/gfx/interface/decisions/STG_cat_mega.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "b8e2ecb4e23c9f80a14c882296b44fec09f358e2fb2f6a158183ef5b4bb5f752"
+    },
+    {
+      "id": "STG_cat_bases",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_bases.png",
+      "game": "game/gfx/interface/decisions/STG_cat_bases.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "453a483d56e7a766a1dc6ecf6cd84ce40df2e399f800dd953250db032b3ffb00"
+    },
+    {
+      "id": "STG_cat_quality",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_quality.png",
+      "game": "game/gfx/interface/decisions/STG_cat_quality.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "a379de590e53cff0592e6637058e05abc32375f95083c313e1fd1f282cab5f7f"
+    },
+    {
+      "id": "STG_cat_world_revolution",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_world_revolution.png",
+      "game": "game/gfx/interface/decisions/STG_cat_world_revolution.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "035bdb27c2ab4540bfc677e1ba74b086d67efa3f47f60cfa719b74ad45a0a1d2"
+    },
+    {
+      "id": "STG_cat_socialist_camp",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_socialist_camp.png",
+      "game": "game/gfx/interface/decisions/STG_cat_socialist_camp.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "9ba6b84f670431998a0def189f6cd19b42d8a32c01e93dcd194a8ad4f91a4eca"
+    },
+    {
+      "id": "STG_cat_developed_socialism",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_developed_socialism.png",
+      "game": "game/gfx/interface/decisions/STG_cat_developed_socialism.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "85c5642e6836d94b15da4ce6ad8bd3f5a5b20fc4b1d9f56079fad623893c2691"
+    },
+    {
+      "id": "STG_cat_fervor",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_fervor.png",
+      "game": "game/gfx/interface/decisions/STG_cat_fervor.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "c85ae49c407f5d36ad34d117974b9fb4acc4999dd676f574486e757b9685f877"
+    },
+    {
+      "id": "STG_cat_altidiya_economy",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_altidiya_economy.png",
+      "game": "game/gfx/interface/decisions/STG_cat_altidiya_economy.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "c2fb8ebb79e1afc0f916917fad52e900f98557bc74f7dd212ab4f8625a2dbd0b"
+    },
+    {
+      "id": "STG_cat_reform_tempo",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_reform_tempo.png",
+      "game": "game/gfx/interface/decisions/STG_cat_reform_tempo.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "a49680cad3b8917dfeaf1c1b8f56f78174de8ad48d53f68e6ba003ba749cb9cd"
+    },
+    {
+      "id": "STG_cat_sun_and_star",
+      "type": "decision",
+      "priority": "B",
+      "master": "masters/decision/STG_cat_sun_and_star.png",
+      "game": "game/gfx/interface/decisions/STG_cat_sun_and_star.dds",
+      "master_size": [
+        1140,
+        1010
+      ],
+      "game_size": [
+        114,
+        101
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "013620c9954390bae90ce9a9e3ce1e6a9da6763bb4e161b355e4004d7bd43b69"
+    }
+  ]
+}

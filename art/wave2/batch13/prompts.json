@@ -1,0 +1,72 @@
+[
+  {
+    "id": "STG_cat_mega",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A giant construction site with cranes and a half-built furnace at sunset.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_bases",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A hidden factory entrance in a snowy pine forest, trucks driving inside.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_quality",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A department store counter with refrigerators and a queue of smiling ponies.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_world_revolution",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A world map on a war-room table with red pins on two foreign continents.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_socialist_camp",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: Leaders of fraternal countries on a reviewing stand, red flags of different designs.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_developed_socialism",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A long new railway bridge over a northern river, Komsomol banners.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_fervor",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A night rally with torches and red flags, a speaker on a high platform.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_altidiya_economy",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A busy NEP-era market square with carts of grain and a cooperative shop.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_reform_tempo",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A crowd reading newspapers posted on a street stand, 1980s.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  },
+  {
+    "id": "STG_cat_sun_and_star",
+    "type": "decision",
+    "tool": "image_gen",
+    "prompt": "Use case: illustration-story. One decision category banner picture for Hearts of Iron IV Equestria at War STG, same archival painted style as STG event pictures, ponies only, no humans, no text or numbers. Aspect 114:101, target 1140x1010, clear central motif readable at 114x101, subtle vignette.  Reference is visual style only. All characters original, never real people or canonical MLP characters. No human anatomy, no fingers. Any books, flags, posters or banknotes contain only abstract blank forms, never writing. Creature exceptions named in the scene take precedence over ponies-only: griffons, zebra, draconequus, cat, diamond dog, dove as specified. One image, no collage or panels. Scene: A northern and an Equestrian flag side by side over a joint space launch pad.",
+    "postprocessing": "Lanczos resize to specified master and game dimensions. DDS DXT5 with alpha, no mipmaps."
+  }
+]

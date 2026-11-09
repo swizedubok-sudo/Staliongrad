@@ -1,7 +1,7 @@
 {
   "total_required": 101,
-  "completed": 91,
-  "pending": 10,
+  "completed": 101,
+  "pending": 0,
   "completed_batches": [
     "01",
     "02",
@@ -14,7 +14,8 @@
     "09",
     "10",
     "11",
-    "12"
+    "12",
+    "13"
   ],
   "assets": [
     {
@@ -749,61 +750,81 @@
       "id": "STG_cat_mega",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_mega.dds"
     },
     {
       "id": "STG_cat_bases",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_bases.dds"
     },
     {
       "id": "STG_cat_quality",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_quality.dds"
     },
     {
       "id": "STG_cat_world_revolution",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_world_revolution.dds"
     },
     {
       "id": "STG_cat_socialist_camp",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_socialist_camp.dds"
     },
     {
       "id": "STG_cat_developed_socialism",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_developed_socialism.dds"
     },
     {
       "id": "STG_cat_fervor",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_fervor.dds"
     },
     {
       "id": "STG_cat_altidiya_economy",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_altidiya_economy.dds"
     },
     {
       "id": "STG_cat_reform_tempo",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_reform_tempo.dds"
     },
     {
       "id": "STG_cat_sun_and_star",
       "type": "decision",
       "priority": "B",
-      "status": "pending"
+      "status": "complete",
+      "batch": "13",
+      "path": "art/wave2/batch13/game/gfx/interface/decisions/STG_cat_sun_and_star.dds"
     }
   ]
 }
