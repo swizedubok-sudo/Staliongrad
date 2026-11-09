@@ -1,0 +1,180 @@
+{
+  "status": "partial_wave2",
+  "batch": "02",
+  "completed_files_in_batch": 9,
+  "completed_files_total": 18,
+  "total_required_files": 101,
+  "assets": [
+    {
+      "id": "STG_adv_planova",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_planova.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_planova.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "a8b77c0720a903aa218f74354f32960f86d067969cb203f261d33a6df912e4f2"
+    },
+    {
+      "id": "STG_adv_serogriv",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_serogriv.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_serogriv.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "25c7ff2b090af5679d6232990a93e99097f312fddb00a2e96ea06512ad215f15"
+    },
+    {
+      "id": "STG_adv_chief_designer",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_chief_designer.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_chief_designer.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "1bc675158cd0f421eb14c7d59302a6e67f9ee8a10e27628245f6840fbc1f7416"
+    },
+    {
+      "id": "STG_adv_granatov",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_granatov.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_granatov.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "7593005ef0d78efb49db7cfd843c3327c1b233f76c7194540dfc1e8cfa9e27d0"
+    },
+    {
+      "id": "STG_adv_soren",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_soren.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_soren.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "5d2dbd80c95446ad72c3a619aa5c571e54035b6e3dfe3bfd83ea4812c7297740"
+    },
+    {
+      "id": "STG_adv_posadova",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_posadova.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_posadova.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "87d0addb2ff0cbfd6ac60404e4dde1c89ad4cb635c094e4f5b6bfddd977f8448"
+    },
+    {
+      "id": "STG_adv_zheleznyi",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_zheleznyi.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_zheleznyi.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "c3c1b30cb2b16ccd34691000fed670deef72e4956c93059c5921ff8f3c197527"
+    },
+    {
+      "id": "STG_adv_yakovtsev",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_yakovtsev.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_yakovtsev.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "1db10773f3b0cb23307fcb9ec0352199205808eb8d222e3cb8ad29a73f9e02ed"
+    },
+    {
+      "id": "STG_adv_konzansky",
+      "type": "adviser",
+      "priority": "A",
+      "master": "masters/advisers/STG_adv_konzansky.png",
+      "game": "game/gfx/interface/ideas/Advisors/STG/STG_adv_konzansky.dds",
+      "master_size": [
+        650,
+        670
+      ],
+      "game_size": [
+        65,
+        67
+      ],
+      "format": "DDS BC3/DXT5",
+      "alpha": true,
+      "mipmaps": 0,
+      "sha256": "906e9475344a6f799ed1a5c8816a51a92958bec9f3b824bf255cd30fc9b33b2f"
+    }
+  ]
+}

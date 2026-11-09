@@ -1,0 +1,74 @@
+[
+  {
+    "id": "STG_adv_planova",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. Original cartoon pony: short equine muzzle, pony ears, equine neck and shoulders, NOT a human face or photorealistic horse. No hands or fingers. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: Earth pony mare in her 50s, grey-brown coat, severe bun, reading glasses, dark suit, folder of charts.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  },
+  {
+    "id": "STG_adv_serogriv",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. Original cartoon pony: short equine muzzle, pony ears, equine neck and shoulders, NOT a human face or photorealistic horse. No hands or fingers. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: Gaunt elderly earth pony stallion, pale grey coat, grey mane, thick glasses, grey suit, ascetic expression.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  },
+  {
+    "id": "STG_adv_chief_designer",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. Original cartoon pony: short equine muzzle, pony ears, equine neck and shoulders, NOT a human face or photorealistic horse. No hands or fingers. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: Stocky pegasus stallion in his 50s, dark coat, heavy brows, determined eyes, leather jacket, rocket blueprint behind.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  },
+  {
+    "id": "STG_adv_granatov",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. Original cartoon pony: short equine muzzle, pony ears, equine neck and shoulders, NOT a human face or photorealistic horse. No hands or fingers. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: Wiry earth pony stallion with round glasses, spiky dark mane, black leather jacket, provocative grin. 1990s look.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  },
+  {
+    "id": "STG_adv_soren",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original GRIFFON small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. This character is a GRIFFON: eagle beak, white head feathers, feathered neck, no pony muzzle, no horse ears or horn. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: An older GRIFFON (not a pony), white head feathers, beard-like chin feathers, pince-nez, 1900s French-style coat.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  },
+  {
+    "id": "STG_adv_posadova",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. Original cartoon pony: short equine muzzle, pony ears, equine neck and shoulders, NOT a human face or photorealistic horse. No hands or fingers. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: Unicorn mare in her 50s, wild silver mane, intense eyes, 1960s suit, a faint starry glow behind her.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  },
+  {
+    "id": "STG_adv_zheleznyi",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. Original cartoon pony: short equine muzzle, pony ears, equine neck and shoulders, NOT a human face or photorealistic horse. No hands or fingers. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: Thin earth pony stallion, gaunt face, pointed beard-like tuft, burning eyes, plain military tunic. 1920s.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  },
+  {
+    "id": "STG_adv_yakovtsev",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. Original cartoon pony: short equine muzzle, pony ears, equine neck and shoulders, NOT a human face or photorealistic horse. No hands or fingers. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: Heavy-set elderly earth pony stallion, bald-looking pale crown, thick glasses, kind tired eyes, grey suit. 1980s.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  },
+  {
+    "id": "STG_adv_konzansky",
+    "type": "adviser",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept. One original pony small adviser portrait for Hearts of Iron IV Equestria at War STG. Reference image is visual STYLE ONLY, do not copy its character or costume. Match the polished painted cartoon anatomy, large expressive eyes, short muzzle, soft modelled shading and crisp silhouette. Original cartoon pony: short equine muzzle, pony ears, equine neck and shoulders, NOT a human face or photorealistic horse. No hands or fingers. Official portrait of the specified era, muted colours, plain dark gradient backdrop. Small adviser portrait, square-ish aspect 65:67, target 650x670. Head and shoulders fill frame, both ears or feather crown fully visible with small margin, clear readable face at 65x67. Do not include full body. No text, letters, numbers, logos, readable diagrams, watermarks or frame. All characters original, no real person's likeness, no canon characters. Any documents only blank abstract line shapes, no writing. Subject: Big earth pony stallion with a white swept mane, strong jaw, defiant look, open coat. 1991.",
+    "style_reference": "EaW gfx/leaders/STG/Darkwing.tga (style only)",
+    "postprocessing": "Lanczos resize to 650x670 PNG master and 65x67 DDS DXT5. No mipmaps."
+  }
+]

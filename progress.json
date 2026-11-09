@@ -1,0 +1,653 @@
+{
+  "total_required": 101,
+  "completed": 18,
+  "pending": 83,
+  "completed_batches": [
+    "01",
+    "02"
+  ],
+  "assets": [
+    {
+      "id": "STG_ind_giganto",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_gig_two_plus_two",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_ind_bases",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_bas_northern_forge",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_ind_quality",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_q_science_towns",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_wr_comintern",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_wr_coups",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_wr_liberation",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_wr_doomsday",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_wr_world_soviets",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_vas_socialist_camp",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_vas_comecon",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_vas_pact",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_vas_anadyr",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_vas_projects",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_vas_psychiatry",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_vas_dear_comrade",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_sin_permanent_revolution",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_sin_labour_armies",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_sin_armored_train",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_sin_bunker",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_sin_equusianism",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_sin_posadism",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_sin_red_north",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_alt_state_and_revolution",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_alt_goelro",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_alt_tenth_congress",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_alt_kitchen_maid",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_alt_niichavo",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_alt_letter_to_congress",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_dw_process",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_dw_glasnost",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_dw_archipelago",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_dw_free_elections",
+      "type": "focus",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_dw_new_thinking",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_dw_union_treaty",
+      "type": "focus",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_foundation_pit",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_rewritten_archive",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_comintern_hall",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_white_waste_test",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_midnight",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_tanks_spring",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_granma",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_blockade",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_golden_link",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_gun_carriage",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_tyorkin",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_stalker",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_plenum_debate",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_armored_train",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_kronstadt",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_villa_by_the_sea",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_lights_over_tundra",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_bunker_action",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_armored_car_speech",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_black_magic_seance",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_heart_of_a_dog",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_funeral_train",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_ilyich_lamp",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_vzglyad",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_swan_lake",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_barricades",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_union_treaty",
+      "type": "event",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_event_orbit_handshake",
+      "type": "event",
+      "priority": "A",
+      "status": "pending"
+    },
+    {
+      "id": "STG_succ_chekist",
+      "type": "leader",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/leaders/STG/STG_succ_chekist.dds"
+    },
+    {
+      "id": "STG_succ_apparatchik",
+      "type": "leader",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/leaders/STG/STG_succ_apparatchik.dds"
+    },
+    {
+      "id": "STG_succ_technocrat",
+      "type": "leader",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/leaders/STG/STG_succ_technocrat.dds"
+    },
+    {
+      "id": "STG_succ_reformer",
+      "type": "leader",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/leaders/STG/STG_succ_reformer.dds"
+    },
+    {
+      "id": "STG_alt_succ_sovetova",
+      "type": "leader",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/leaders/STG/STG_alt_succ_sovetova.dds"
+    },
+    {
+      "id": "STG_alt_succ_lyubimov",
+      "type": "leader",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/leaders/STG/STG_alt_succ_lyubimov.dds"
+    },
+    {
+      "id": "STG_alt_succ_krzhinsky",
+      "type": "leader",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/leaders/STG/STG_alt_succ_krzhinsky.dds"
+    },
+    {
+      "id": "STG_alt_succ_lyubimov",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/interface/ideas/Advisors/STG/STG_alt_succ_lyubimov.dds"
+    },
+    {
+      "id": "STG_alt_succ_krzhinsky",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "01",
+      "path": "art/wave2/batch01/game/gfx/interface/ideas/Advisors/STG/STG_alt_succ_krzhinsky.dds"
+    },
+    {
+      "id": "STG_adv_planova",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_planova.dds"
+    },
+    {
+      "id": "STG_adv_serogriv",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_serogriv.dds"
+    },
+    {
+      "id": "STG_adv_chief_designer",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_chief_designer.dds"
+    },
+    {
+      "id": "STG_adv_snezhneva",
+      "type": "adviser",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_adv_vekhov",
+      "type": "adviser",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_adv_granatov",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_granatov.dds"
+    },
+    {
+      "id": "STG_adv_soren",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_soren.dds"
+    },
+    {
+      "id": "STG_adv_glubokiy",
+      "type": "adviser",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_adv_posadova",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_posadova.dds"
+    },
+    {
+      "id": "STG_adv_kollontaeva",
+      "type": "adviser",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_adv_lunacharov",
+      "type": "adviser",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_adv_zheleznyi",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_zheleznyi.dds"
+    },
+    {
+      "id": "STG_adv_yakovtsev",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_yakovtsev.dds"
+    },
+    {
+      "id": "STG_adv_shevardin",
+      "type": "adviser",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_adv_korotkov",
+      "type": "adviser",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_adv_shatalov",
+      "type": "adviser",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_adv_konzansky",
+      "type": "adviser",
+      "priority": "A",
+      "status": "complete",
+      "batch": "02",
+      "path": "art/wave2/batch02/game/gfx/interface/ideas/Advisors/STG/STG_adv_konzansky.dds"
+    },
+    {
+      "id": "STG_cat_mega",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_bases",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_quality",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_world_revolution",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_socialist_camp",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_developed_socialism",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_fervor",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_altidiya_economy",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_reform_tempo",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    },
+    {
+      "id": "STG_cat_sun_and_star",
+      "type": "decision",
+      "priority": "B",
+      "status": "pending"
+    }
+  ]
+}
