@@ -1,6 +1,6 @@
 {
   "status": "in_progress",
-  "completed_files": 125,
+  "completed_files": 130,
   "total_original_files": 153,
   "effective_required_files": 150,
   "frame": "masters/STG_focus_frame.png",
@@ -2473,6 +2473,101 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "a08ad366be507a9980c60e1c44c60760ed43a25f1a15fc65b25c15c0e40d541b"
+    },
+    {
+      "id": "STG_event_nowhere_to_retreat",
+      "type": "event",
+      "priority": "A",
+      "subject": "Pony soldiers in snowy trenches outside city, political officer speaking, anti-tank hedgehogs. 1941 photo.",
+      "master": "masters/event/STG_event_nowhere_to_retreat.png",
+      "game": "game/gfx/event_pictures/STG_event_nowhere_to_retreat.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "8157c21045425a31c287557f4ca36befdf1cd329b5b559cdaa7d53f6e194bc50"
+    },
+    {
+      "id": "STG_event_if_war_tomorrow",
+      "type": "event",
+      "priority": "B",
+      "subject": "Cinema audience of ponies leaving hall singing, film poster with tanks without text. 1938 photo.",
+      "master": "masters/event/STG_event_if_war_tomorrow.png",
+      "game": "game/gfx/event_pictures/STG_event_if_war_tomorrow.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "c13f14634fd3fb3953edcd4c25030f5a00a67bc43ab4e7c2df9097f831275dd6"
+    },
+    {
+      "id": "STG_event_congress_of_soviets",
+      "type": "event",
+      "priority": "A",
+      "subject": "Pony delegates in work clothes filling opera house, voting cards raised. 1918 photo.",
+      "master": "masters/event/STG_event_congress_of_soviets.png",
+      "game": "game/gfx/event_pictures/STG_event_congress_of_soviets.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "af72d4f188492e048fd1db176e44fa568fc57fef86a2f380d6fbec78d4131ded"
+    },
+    {
+      "id": "STG_event_factory_committee",
+      "type": "event",
+      "priority": "B",
+      "subject": "Workshop meeting on factory floor, ministry pony clerks in suits standing aside while workers on crates vote. 1920s photo.",
+      "master": "masters/event/STG_event_factory_committee.png",
+      "game": "game/gfx/event_pictures/STG_event_factory_committee.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d4302e5db8d42341010332be3109e792a72a753faf9ed57c44535e817b02cf73"
+    },
+    {
+      "id": "STG_event_gastronom_arrest",
+      "type": "event",
+      "priority": "A",
+      "subject": "Luxurious grocery store back room, pony investigators opening crates of caviar and cash without lettering. 1983 colour photo.",
+      "master": "masters/event/STG_event_gastronom_arrest.png",
+      "game": "game/gfx/event_pictures/STG_event_gastronom_arrest.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b00992022e8dfc4b862bd591c37f728b13d7c881f3904ed45baee2310e71975d"
     }
   ],
   "omitted_by_user": [
@@ -2501,12 +2596,7 @@
   ],
   "blocked": [],
   "pending": [
-    "STG_event_if_war_tomorrow",
-    "STG_event_nowhere_to_retreat",
-    "STG_event_congress_of_soviets",
-    "STG_event_factory_committee",
     "STG_event_truancy_raid",
-    "STG_event_gastronom_arrest",
     "STG_event_zheglov",
     "STG_event_closed_city",
     "STG_event_dossier_altidiya",

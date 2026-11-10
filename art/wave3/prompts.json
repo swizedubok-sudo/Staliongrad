@@ -1089,5 +1089,35 @@
     "prompt": "Use case: historical-scene. ONE event picture for HOI4 Equestria at War STG. Painted CARTOON ponies embedded in convincing archival documentary scene; expressive large eyes, short equine muzzles, pony ears, quadruped proportions. Period photograph look, subtle grain and vignette, sepia or faded desaturated colour matching the stated era, clear cinematic composition readable at 210x176. Full bleed landscape aspect 210:176, target1050x880. Opaque to all edges, no borders. Scene: Long session table, central chair empty, three ponies at sides not looking at each other. 1953 photo. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
     "reference_images": [],
     "tool": "image_gen"
+  },
+  {
+    "id": "STG_event_congress_of_soviets",
+    "prompt": "Use case: historical-scene. ONE event picture for HOI4 Equestria at War STG. Painted CARTOON ponies embedded in convincing archival documentary scene; expressive large eyes, short equine muzzles, pony ears, quadruped proportions. Period photograph look, subtle grain and vignette, sepia or faded desaturated colour matching the stated era, clear cinematic composition readable at 210x176. Full bleed landscape aspect 210:176, target1050x880. Opaque to all edges, no borders. Scene: Pony delegates in work clothes filling opera house, voting cards raised. 1918 photo. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_event_factory_committee",
+    "prompt": "Use case: historical-scene. ONE event picture for HOI4 Equestria at War STG. Painted CARTOON ponies embedded in convincing archival documentary scene; expressive large eyes, short equine muzzles, pony ears, quadruped proportions. Period photograph look, subtle grain and vignette, sepia or faded desaturated colour matching the stated era, clear cinematic composition readable at 210x176. Full bleed landscape aspect 210:176, target1050x880. Opaque to all edges, no borders. Scene: Workshop meeting on factory floor, ministry pony clerks in suits standing aside while workers on crates vote. 1920s photo. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_event_gastronom_arrest",
+    "prompt": "Use case: historical-scene. ONE event picture for HOI4 Equestria at War STG. Painted CARTOON ponies embedded in convincing archival documentary scene; expressive large eyes, short equine muzzles, pony ears, quadruped proportions. Period photograph look, subtle grain and vignette, sepia or faded desaturated colour matching the stated era, clear cinematic composition readable at 210x176. Full bleed landscape aspect 210:176, target1050x880. Opaque to all edges, no borders. Scene: Luxurious grocery store back room, pony investigators opening crates of caviar and cash without lettering. 1983 colour photo. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_event_if_war_tomorrow",
+    "prompt": "Use case: historical-scene. ONE event picture for HOI4 Equestria at War STG. Painted CARTOON ponies embedded in convincing archival documentary scene; expressive large eyes, short equine muzzles, pony ears, quadruped proportions. Period photograph look, subtle grain and vignette, sepia or faded desaturated colour matching the stated era, clear cinematic composition readable at 210x176. Full bleed landscape aspect 210:176, target1050x880. Opaque to all edges, no borders. Scene: Cinema audience of ponies leaving hall singing, film poster with tanks without text. 1938 photo. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [],
+    "tool": "image_gen"
+  },
+  {
+    "id": "STG_event_nowhere_to_retreat",
+    "prompt": "Use case: historical-scene. ONE event picture for HOI4 Equestria at War STG. Painted CARTOON ponies embedded in convincing archival documentary scene; expressive large eyes, short equine muzzles, pony ears, quadruped proportions. Period photograph look, subtle grain and vignette, sepia or faded desaturated colour matching the stated era, clear cinematic composition readable at 210x176. Full bleed landscape aspect 210:176, target1050x880. Opaque to all edges, no borders. Scene: Pony soldiers in snowy trenches outside city, political officer speaking, anti-tank hedgehogs. 1941 photo. Original pony characters only where required: earth ponies, pegasi, unicorns with hooves, short equine muzzle and pony ears, no humans, no human hands or fingers. No letters, numbers, text, logos or watermark, even on books, papers, clocks or screens. Any communist emblem is hammer and HORSESHOE, never sickle. No canonical characters or real historical faces.",
+    "reference_images": [],
+    "tool": "image_gen"
   }
 ]
