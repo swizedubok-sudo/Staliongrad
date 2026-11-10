@@ -1,6 +1,6 @@
 {
   "status": "in_progress",
-  "completed_files": 94,
+  "completed_files": 109,
   "total_original_files": 153,
   "effective_required_files": 152,
   "frame": "masters/STG_focus_frame.png",
@@ -1771,6 +1771,291 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "fb8afde77347951d4ddc87ae1bbfb426ebd70bce361559795b42f9d0ef53f479"
+    },
+    {
+      "id": "STG_ogas_setun",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Computer panel with three big glowing lamps red yellow green, surprised scientist pony behind.",
+      "master": "masters/focus/STG_ogas_setun.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_setun.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "454776a77985e78d16c92030ee1cec6b7b6943036859b39ce1573c5631b92726"
+    },
+    {
+      "id": "STG_ogas_besm",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Room-sized computer cabinet with glowing valves and magnetic tape reels, unicorn engineer in white coat.",
+      "master": "masters/focus/STG_ogas_besm.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_besm.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "08d69a4c5a69deb1bd43340580075be7c2d4c66ba0b399a910972741babbdf6a"
+    },
+    {
+      "id": "STG_ogas_cemi",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Blackboard-green disc with glowing golden graph lines and slide rule, professor pony with glasses.",
+      "master": "masters/focus/STG_ogas_cemi.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_cemi.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "8609d6c7ec3848433ab1bc9a35c59edcb39286856d5d0e041ac2544b9b4a8698"
+    },
+    {
+      "id": "STG_ogas_gosplan",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Thick plan folder turning into punched tape streaming into computer.",
+      "master": "masters/focus/STG_ogas_gosplan.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_gosplan.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "dab8815748e7b10af2098f0b47d90be40d834adf146989ef5be9071c207dc3cf"
+    },
+    {
+      "id": "STG_bas_northern_forge",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Anvil and hammer in rock cavern, sparks, horseshoe glowing on anvil.",
+      "master": "masters/focus/STG_bas_northern_forge.png",
+      "game": "game/gfx/interface/goals/STG/STG_bas_northern_forge.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7b584ec379612713d4b64de2360100f8a7e84a66db923288c196951f1025444c"
+    },
+    {
+      "id": "STG_gig_two_plus_two",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Monumental stepped pyramidal ministry building of white concrete, single huge watching eye-shaped window, searchlights.",
+      "master": "masters/focus/STG_gig_two_plus_two.png",
+      "game": "game/gfx/interface/goals/STG/STG_gig_two_plus_two.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f6a97e0a5649a80627c0adaf4a5d2e405699ef61f06c6c3cec9f63e3191b5079"
+    },
+    {
+      "id": "STG_ogas_cashless",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Paper banknote without text dissolving into glowing digital squares above open hoof.",
+      "master": "masters/focus/STG_ogas_cashless.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_cashless.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1e45c1c4c88831f49919871da471791e8e9b20b459d92204b906a370ec0cb89e"
+    },
+    {
+      "id": "STG_q_science_towns",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Modern laboratory towers among tall northern pines, small radio dish, glowing window.",
+      "master": "masters/focus/STG_q_science_towns.png",
+      "game": "game/gfx/interface/goals/STG/STG_q_science_towns.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2dff6718b187a2d744434e0cbf7cfa0ef4f59634c7b6bf7f2348bd1830f9d7b7"
+    },
+    {
+      "id": "STG_wr_coups",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Shadowy pegasus in grey coat at telegraph key, sealed red envelope beside.",
+      "master": "masters/focus/STG_wr_coups.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_coups.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "305707a88bd8dc08407865890084f45caadd95d6c54d3abfc3f2834aa42b473f"
+    },
+    {
+      "id": "STG_vas_pact",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Steel shield with five small red stars in circle, two crossed rifles behind.",
+      "master": "masters/focus/STG_vas_pact.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_pact.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ba80649e4b6ebecc464005780488a263b4a301fa19e910d227a8f9b15c073aca"
+    },
+    {
+      "id": "STG_vas_comecon",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Five interlocking brass cogwheels of different sizes forming ring.",
+      "master": "masters/focus/STG_vas_comecon.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_comecon.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "eda14e7d6a4893fcaff003e83540f54fef2d9672df267a922bcdb94ef8f85d73"
+    },
+    {
+      "id": "STG_vas_psychiatry",
+      "type": "focus",
+      "priority": "B",
+      "subject": "White hospital door with small barred window, hanging straitjacket beside, cold blue light.",
+      "master": "masters/focus/STG_vas_psychiatry.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_psychiatry.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "fa653ba515a94faf3da5433902331ab523145557a15608042c74ab133d116446"
+    },
+    {
+      "id": "STG_sin_labour_armies",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Shovel and rifle crossed, soldier's greatcoat hanging over them.",
+      "master": "masters/focus/STG_sin_labour_armies.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_labour_armies.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2acf20309fb5067a4fae94df3ee31c49ea5158fb2e52fbc515fc102ed13878c3"
+    },
+    {
+      "id": "STG_sin_bunker",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Basement door covered in punk paper flyers without text, original grenade-shaped red-black badge above.",
+      "master": "masters/focus/STG_sin_bunker.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_bunker.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f9aa22ca9f4d6c17fd44b1ca65d84bfd067349875bb178a0e41f0fa82b4e6e14"
+    },
+    {
+      "id": "STG_sin_posadism",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Small mushroom cloud on distant horizon, three glowing round lights hovering above.",
+      "master": "masters/focus/STG_sin_posadism.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_posadism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "0cda14075bfdb608f832b4c21613c7005c2d793594f87bf90d695e6376de7312"
     }
   ],
   "omitted_by_user": [
@@ -1790,21 +2075,6 @@
     }
   ],
   "pending": [
-    "STG_ogas_besm",
-    "STG_ogas_setun",
-    "STG_ogas_cemi",
-    "STG_ogas_gosplan",
-    "STG_ogas_cashless",
-    "STG_gig_two_plus_two",
-    "STG_bas_northern_forge",
-    "STG_q_science_towns",
-    "STG_wr_coups",
-    "STG_vas_comecon",
-    "STG_vas_pact",
-    "STG_vas_psychiatry",
-    "STG_sin_labour_armies",
-    "STG_sin_bunker",
-    "STG_sin_posadism",
     "STG_alt_tenth_congress",
     "STG_alt_kitchen_maid",
     "STG_alt_niichavo",
