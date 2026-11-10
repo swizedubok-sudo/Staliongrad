@@ -1,8 +1,8 @@
 {
   "status": "in_progress",
-  "completed_files": 114,
+  "completed_files": 125,
   "total_original_files": 153,
-  "effective_required_files": 152,
+  "effective_required_files": 150,
   "frame": "masters/STG_focus_frame.png",
   "assets": [
     {
@@ -2264,37 +2264,243 @@
       "mipmaps": 0,
       "sha256": "53b6234b9f4753fc3e5bfda7a5a1dcd1c53b5e0f048ca4cd35f55c6733c20157",
       "center": "masters/centers/STG_dw_free_elections.png"
+    },
+    {
+      "id": "STG_event_security_chief",
+      "type": "event",
+      "priority": "A",
+      "subject": "Officers entering meeting room while pony in rimless glasses rises from seat, thick folder on table. 1953 photo.",
+      "master": "masters/event/STG_event_security_chief.png",
+      "game": "game/gfx/event_pictures/STG_event_security_chief.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7fee7590d4637e19174b7f1ab7913f208108fc6d4d3e3ef2ae814de2442bac73"
+    },
+    {
+      "id": "STG_event_portraits",
+      "type": "event",
+      "priority": "B",
+      "subject": "School corridor, caretaker pony on ladder holding three framed portraits unsure which to hang. 1950s photo.",
+      "master": "masters/event/STG_event_portraits.png",
+      "game": "game/gfx/event_pictures/STG_event_portraits.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3f1946da72d79f14583b04cf5cf6c461ccb1f996d1726d7e2796d83101348bd5"
+    },
+    {
+      "id": "STG_event_troika",
+      "type": "event",
+      "priority": "A",
+      "subject": "Long session table, central chair empty, three ponies at sides not looking at each other. 1953 photo.",
+      "master": "masters/event/STG_event_troika.png",
+      "game": "game/gfx/event_pictures/STG_event_troika.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "5d4ca477351077eac8b6eeac50093d5e0c58f2996eb16a557d0a7d709808f4ea"
+    },
+    {
+      "id": "STG_event_cold_summer",
+      "type": "event",
+      "priority": "B",
+      "subject": "Small northern river village in summer, released prisoners in padded jackets walking along dirt road. 1950s photo.",
+      "master": "masters/event/STG_event_cold_summer.png",
+      "game": "game/gfx/event_pictures/STG_event_cold_summer.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "be0809305adb527b192d53924b3aa5c5df3f1112d4d3f8901d9a1c49faf0ca6c"
+    },
+    {
+      "id": "STG_event_records",
+      "type": "event",
+      "priority": "A",
+      "subject": "Rally in factory yard, huge rising-arrow poster without text, orchestra, workers cheering. 1958 colour photo.",
+      "master": "masters/event/STG_event_records.png",
+      "game": "game/gfx/event_pictures/STG_event_records.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b4224bd812292dce3195e61e136006f60c6130760407aef977a331318ee51e78"
+    },
+    {
+      "id": "STG_event_this_generation",
+      "type": "event",
+      "priority": "B",
+      "subject": "Congress hall on feet applauding, red banners and stage with giant futuristic city model. 1961 colour photo.",
+      "master": "masters/event/STG_event_this_generation.png",
+      "game": "game/gfx/event_pictures/STG_event_this_generation.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "4d2647f65f6bbb7a7eb07c950cda9e876f2ed7ab2719912dfb93401330ccff9a"
+    },
+    {
+      "id": "STG_event_hangover",
+      "type": "event",
+      "priority": "A",
+      "subject": "Empty shop shelves, long queue outside in rain, dust storm over fields seen through window. 1963 photo.",
+      "master": "masters/event/STG_event_hangover.png",
+      "game": "game/gfx/event_pictures/STG_event_hangover.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a303a650b65f0ec470223ac74f2bc1a4cc172bf7852a75a4935296aa170c84f6"
+    },
+    {
+      "id": "STG_event_ryazan",
+      "type": "event",
+      "priority": "A",
+      "subject": "Empty cowshed, single milking stool, regional secretary's car leaving in background. 1960 photo.",
+      "master": "masters/event/STG_event_ryazan.png",
+      "game": "game/gfx/event_pictures/STG_event_ryazan.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "47df34f075b7339a584bbefe7a9cfd8f6c1e31a60f680cb6765588fa491b1d78"
+    },
+    {
+      "id": "STG_event_famine_map",
+      "type": "event",
+      "priority": "A",
+      "subject": "Official pony pinning black flags to regional map, grain train loaded through window. 1932 photo.",
+      "master": "masters/event/STG_event_famine_map.png",
+      "game": "game/gfx/event_pictures/STG_event_famine_map.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d3474a261a14ed92f0b71e8393940359995a3806415a9c015efc70d3368ec006"
+    },
+    {
+      "id": "STG_event_seed_dispute",
+      "type": "event",
+      "priority": "B",
+      "subject": "Old academic pony with seed jars facing young agronomist pony with wheat sheaf across laboratory table. 1930s photo.",
+      "master": "masters/event/STG_event_seed_dispute.png",
+      "game": "game/gfx/event_pictures/STG_event_seed_dispute.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "c16769ae4be8cf954115903cdc2ed486e6f633d3af361f87601932664b68a4bd"
+    },
+    {
+      "id": "STG_event_academy_debate",
+      "type": "event",
+      "priority": "A",
+      "subject": "Amphitheatre lecture hall packed with pony officers, two speakers at blackboard covered in arrows. 1930s photo.",
+      "master": "masters/event/STG_event_academy_debate.png",
+      "game": "game/gfx/event_pictures/STG_event_academy_debate.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a08ad366be507a9980c60e1c44c60760ed43a25f1a15fc65b25c15c0e40d541b"
     }
   ],
   "omitted_by_user": [
     {
       "id": "STG_sov_commune_state",
       "status": "omitted_by_user",
-      "user_instruction": "\u0420\u045b\u0421\u0403\u0421\u201a\u0420\u00b0\u0420\u0406\u0420\u0451\u0421\u201a\u0421\u040a \u0420\u0457\u0421\u0402\u0420\u0455\u0420\u0457\u0421\u0453\u0421\u0403\u0420\u0454",
+      "user_instruction": "\u0420\u045f\u0421\u0402\u0420\u0455\u0420\u0457\u0421\u0453\u0421\u0403\u0420\u0454\u0420\u00b0\u0421\u201a\u0421\u040a \u0420\u0455\u0421\u201a\u0420\u0454\u0420\u00bb\u0420\u0455\u0420\u0405\u0421\u2018\u0420\u0405\u0420\u0405\u0421\u2039\u0420\u00b5",
       "reason": "Image generator rejected output with moderation_blocked, safety_violations=[abuse]. No asset produced.",
-      "request_id": "a74b0506-9115-4a73-b062-74b5b9b80463"
-    }
-  ],
-  "blocked": [
+      "request_id": "a74b0506-9115-4a73-b062-74b5b9b80463",
+      "authorization": "General instruction applies to current and future moderation rejections"
+    },
     {
       "id": "STG_pio_young_technicians",
-      "status": "blocked",
-      "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 80cc1480-2511-40e7-b0ae-aa69d92c4fbf. safety_violations=[violence].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")"
+      "status": "omitted_by_user",
+      "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 80cc1480-2511-40e7-b0ae-aa69d92c4fbf. safety_violations=[violence].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "user_instruction": "\u0420\u045f\u0421\u0402\u0420\u0455\u0420\u0457\u0421\u0453\u0421\u0403\u0420\u0454\u0420\u00b0\u0421\u201a\u0421\u040a \u0420\u0455\u0421\u201a\u0420\u0454\u0420\u00bb\u0420\u0455\u0420\u0405\u0421\u2018\u0420\u0405\u0420\u0405\u0421\u2039\u0420\u00b5",
+      "authorization": "General instruction applies to current and future moderation rejections"
+    },
+    {
+      "id": "STG_event_general_call",
+      "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 517c4014-41b7-4c10-a468-5991e1a46e5d. safety_violations=[abuse].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "status": "omitted_by_user",
+      "user_instruction": "\u0420\u045f\u0421\u0402\u0420\u0455\u0420\u0457\u0421\u0453\u0421\u0403\u0420\u0454\u0420\u00b0\u0421\u201a\u0421\u040a \u0420\u0455\u0421\u201a\u0420\u0454\u0420\u00bb\u0420\u0455\u0420\u0405\u0421\u2018\u0420\u0405\u0420\u0405\u0421\u2039\u0420\u00b5",
+      "authorization": "General instruction applies to current and future moderation rejections"
     }
   ],
+  "blocked": [],
   "pending": [
-    "STG_event_troika",
-    "STG_event_security_chief",
-    "STG_event_cold_summer",
-    "STG_event_portraits",
-    "STG_event_records",
-    "STG_event_ryazan",
-    "STG_event_this_generation",
-    "STG_event_hangover",
-    "STG_event_general_call",
-    "STG_event_famine_map",
-    "STG_event_seed_dispute",
-    "STG_event_academy_debate",
     "STG_event_if_war_tomorrow",
     "STG_event_nowhere_to_retreat",
     "STG_event_congress_of_soviets",
