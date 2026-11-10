@@ -1,18 +1,27 @@
-Stalliongrad Rework - Wave 3
+Stalliongrad Rework — арт третьей очереди
 
-Source: user-provided 324.pdf, 11 pages, dated 09.11.2026.
-Scope: 153 assets = 1 shared frame + 115 focus icons + 23 events + 10 MIO emblems + 3 decision category pictures + 1 adviser.
+Исходное ТЗ: 324.pdf, 11 страниц. Объём по ТЗ: 153 файла — общая рамка, 115 фокусов, 23 события, 10 значков концернов, 3 заставки решений и 1 портрет.
 
-Read manifest.json for completed and pending assets. An in_progress status means this is a partial delivery; missing assets are not represented as completed.
+Согласованный пропуск: STG_sov_commune_state. После отказа генератора пользователь прямо выбрал «Оставить пропуск». Итоговый объём остальных материалов — 152 файла. Текущий список готового и оставшегося находится в manifest.json; in_progress означает, что набор ещё пополняется.
 
-Installation: copy the contents of game/ into the mod directory. Wave 3 focus files intentionally replace earlier versions by using the same IDs. Sprite registration is handled by the project installation script and is not included here.
+Установка
+Скопируйте содержимое game/ в папку мода. Имена переделанных фокусов совпадают с прежними: при установке эти DDS заменяют старые изображения. Регистрацию спрайтов и привязку картинок к событиям выполняет отдельный скрипт проекта; в этот набор они не входят.
 
-masters/STG_focus_frame.png is the immutable common wreath overlay, 1024x1024, transparent center and exterior. The dark steel disc is added below each central drawing. Final focus masters include disc, centre and the exact same frame pixels. Separate center layers are included in masters/centers/.
+Состав папок
+masters/STG_focus_frame.png — общий неизменный венок с лентами, 1024×1024, с прозрачным центром и окружением.
+masters/focus/ — готовые фокусы: тёмный стальной круг, центральный рисунок и тот же файл рамки поверх него.
+masters/centers/ — отдельные центральные рисунки фокусов, прозрачный фон, без рамки.
+masters/event/, mio/, decision/, adviser/ — PNG-мастера остальных типов.
+game/ — игровые DDS BC3/DXT5 с альфа-каналом, без мипмапов.
+preview_*.jpg — обзорные листы: крупный мастер и декодированный DDS в точном игровом размере 1:1. Подписи есть только на листах, не на игровой графике.
 
-Game textures: DDS BC3/DXT5 RGBA, no mipmaps. Sizes: focus 89x80; event 210x176; MIO 64x64; decision 114x101; adviser 65x67. PNG master sizes are specified in manifest.json.
+Размеры
+Фокус: мастер 1024×1024, игра 89×80.
+Событие: мастер 1050×880, игра 210×176.
+Значок концерна: мастер 640×640, игра 64×64.
+Заставка решений: мастер 1140×1010, игра 114×101.
+Советник: мастер 650×670, игра 65×67.
 
-preview_*.jpg shows each asset large and decoded from DDS at exact game size. Labels appear only on preview sheets, never on game artwork.
-
-Images created individually with built-in image_gen. Exact prompts and reference roles are in prompts.json. Post-processing assembles the common frame, resizes outputs and encodes DDS. spec.json contains the complete ID, priority and subject list transcribed from the source PDF.
-
-quality_report.json covers generated files only and reports technical checks separately from completion.
+Проверки и происхождение
+Каждое изображение создано отдельно встроенным image_gen. Точные промпты записаны в prompts.json; полный список ID, приоритетов и сюжетов — в spec.json. Скриншот из ТЗ использован только как образец стиля. Сюжеты и персонажи с него не копируются.
+После генерации центральные рисунки собраны с одной рамкой, изображения приведены к заданным размерам и экспортированы в DDS. quality_report.json описывает проверку размеров, DDS, прозрачности, контрольных сумм и совпадения непрозрачных пикселей рамки. Просматривайте обзорные листы для оценки читаемости в игре.

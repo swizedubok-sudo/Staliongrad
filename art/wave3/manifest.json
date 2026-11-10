@@ -1,6 +1,6 @@
 {
   "status": "in_progress",
-  "completed_files": 65,
+  "completed_files": 80,
   "total_original_files": 153,
   "effective_required_files": 152,
   "frame": "masters/STG_focus_frame.png",
@@ -1220,6 +1220,291 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "9398904d89d00a8db199e750829da6f23950861b5e94500924df359224a0d393"
+    },
+    {
+      "id": "STG_dz_ryazan",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Butcher's hook with ribbon-decorated hero star hanging on it, empty cattle stall behind.",
+      "master": "masters/focus/STG_dz_ryazan.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_ryazan.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "8e1d1af68b1144b06456bf229c4956c933d8890e136f5e5f62f86e3fe31d1916"
+    },
+    {
+      "id": "STG_dz_soft_landing",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Parachute gently lowering a factory chimney onto a field.",
+      "master": "masters/focus/STG_dz_soft_landing.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_soft_landing.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3e7ddfa364311e216ca05928c5a09ae90cecbc2ecce15d5515b7c9095dca3d43"
+    },
+    {
+      "id": "STG_dz_fix_errors",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Red pencil crossing out soaring graph line and drawing lower honest one.",
+      "master": "masters/focus/STG_dz_fix_errors.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_fix_errors.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "517ab091017a15c19fe14bfa85207bd6511e80db37f5106a2cdac9003485154c"
+    },
+    {
+      "id": "STG_mil_mech_corps",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Tractor turning into tank, half wheels and half tracks, factory floor.",
+      "master": "masters/focus/STG_mil_mech_corps.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_mech_corps.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "aa86962594a0c6da88a196182a168ae244cde6d941c1ef5bfb7fe9689d46d719"
+    },
+    {
+      "id": "STG_mil_shock_armies",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Massed pony infantry assault with fixed bayonets behind creeping artillery barrage.",
+      "master": "masters/focus/STG_mil_shock_armies.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_shock_armies.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b90c31fbc2d4b6e29825f2bb8818a42de0fe0728eb763c3b7ecc6f08baddac56"
+    },
+    {
+      "id": "STG_mil_airborne",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Pegasus soldiers in leather helmets diving in formation from transport plane.",
+      "master": "masters/focus/STG_mil_airborne.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_airborne.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "255ff94d35332629d7867dff9d5c37f888f34e211695dc9e1a703ce49d67dad1"
+    },
+    {
+      "id": "STG_mil_god_of_war",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Row of heavy howitzers firing at night, muzzle flashes lighting snow.",
+      "master": "masters/focus/STG_mil_god_of_war.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_god_of_war.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "90e548bc3c0c11ed12503cb5b7e1f4d6309660daa9f78aa5b71389c077edae1c"
+    },
+    {
+      "id": "STG_mil_northern_rampart",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Concrete pillbox under snow with camouflage net, pine forest behind.",
+      "master": "masters/focus/STG_mil_northern_rampart.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_northern_rampart.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "9b9f0e3719b08fcb89ee98fa98dc1e01b59affc050937ee424439c996477628c"
+    },
+    {
+      "id": "STG_mil_all_for_front",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Worker ponies in factory hall pushing repaired tank toward open gate, sparks.",
+      "master": "masters/focus/STG_mil_all_for_front.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_all_for_front.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "fe16c01d097b1c5f9de7aed33dac2aff3f70bb73ddce3f3ddbfbc7200632d6c4"
+    },
+    {
+      "id": "STG_mil_defense_in_depth",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Many trench lines stacked behind one another to horizon, aerial view.",
+      "master": "masters/focus/STG_mil_defense_in_depth.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_defense_in_depth.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "c531a32549d2f9356d3afff436f7865d87589c741cc78d501e722c139a51f281"
+    },
+    {
+      "id": "STG_mil_people_avengers",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Partisan pony in fur hat with rifle among birch trees, railway explosion in distance.",
+      "master": "masters/focus/STG_mil_people_avengers.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_people_avengers.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "36ebd1d1fb2c0a93c8c7de2358955071827a0b0baf5d3837994c85e5bd682d3d"
+    },
+    {
+      "id": "STG_sov_village_soviets",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Log village hall with red flag and blank notice board, horses' carts outside.",
+      "master": "masters/focus/STG_sov_village_soviets.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_village_soviets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "46c06ed2115ba56f9c7d5b53196c904d0764fc39638344320ad9fb03c634697e"
+    },
+    {
+      "id": "STG_mil_northern_yard",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Patrol ship launching down slipway into icy water, cranes around.",
+      "master": "masters/focus/STG_mil_northern_yard.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_northern_yard.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "9b9e86a015629c66519e646dc010449bc493b19dc9af7386df827bb37e48eb38"
+    },
+    {
+      "id": "STG_mil_hawks",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Small agile fighter plane banking sharply, hawk silhouette in shadow.",
+      "master": "masters/focus/STG_mil_hawks.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_hawks.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "16cc7cfb279a3a67494178fb1e870aea5a616b8956dfdac8bb6cc45556c82fbb"
+    },
+    {
+      "id": "STG_sov_chervonets",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Gold coin embossed with horseshoe and star, no numbers, stacked on ledger.",
+      "master": "masters/focus/STG_sov_chervonets.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_chervonets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "60ee6e87d78bca907ced90a48cac2b22f9b3254107dfa10f33e5fb56a8ecac24"
     }
   ],
   "omitted_by_user": [
@@ -1233,21 +1518,6 @@
   ],
   "blocked": [],
   "pending": [
-    "STG_dz_ryazan",
-    "STG_dz_soft_landing",
-    "STG_dz_fix_errors",
-    "STG_mil_shock_armies",
-    "STG_mil_mech_corps",
-    "STG_mil_airborne",
-    "STG_mil_god_of_war",
-    "STG_mil_northern_rampart",
-    "STG_mil_people_avengers",
-    "STG_mil_all_for_front",
-    "STG_mil_defense_in_depth",
-    "STG_mil_hawks",
-    "STG_mil_northern_yard",
-    "STG_sov_village_soviets",
-    "STG_sov_chervonets",
     "STG_sov_open_sessions",
     "STG_sov_free_press",
     "STG_sov_rotation",
