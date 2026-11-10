@@ -1,0 +1,914 @@
+[
+  [
+    "focus",
+    "A",
+    "STG_int_collective_leadership",
+    "Three chairs at a long red-clothed table, central high-backed chair empty, single desk lamp."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_int_party_enrollment",
+    "Stack of small red party membership booklets without text beside a fountain pen."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_int_security_chief",
+    "Thick dossier tied with string, rimless glasses lying on it, soldier's shadow falling across."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_int_army_outside",
+    "Peaked officer's cap resting on closed map case, rifle leaning against it, back turned to red flag."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_int_amnesty",
+    "Barred prison gate half open, warm daylight and birch tree outside."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_int_apparatus",
+    "Rows of telephones on office desk, all receivers on hooks, one light still burning."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_int_platforms",
+    "Three newspaper columns pinned side by side on board, only grey lines without letters, red pin on one."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_dz_dizzy",
+    "Steep red arrow graph spiralling upward into a whirl."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_dz_catch_up",
+    "Two locomotives racing side by side on parallel rails, nearer one with red star pulling ahead."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_dz_virgin_lands",
+    "Tractor ploughing endless steppe beneath huge sky, tent and red pennant behind."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_dz_corn",
+    "Giant ear of corn robed like queen, standing in snowfield with small polar station behind."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_dz_ryazan",
+    "Butcher's hook with ribbon-decorated hero star hanging on it, empty cattle stall behind."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_dz_communism",
+    "Shining white tower of future rising out of scaffolding, red banner on top, fireworks."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_dz_soft_landing",
+    "Parachute gently lowering a factory chimney onto a field."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_dz_fix_errors",
+    "Red pencil crossing out soaring graph line and drawing lower honest one."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_mil_doctrine_debate",
+    "Classroom blackboard with two opposing chalk arrows, one deep one curved defensive, pointer stick."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_mil_deep_battle",
+    "Tanks and pegasus paratroopers flowing through breach in barbed wire, red arrows on ground."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_shock_armies",
+    "Massed pony infantry assault with fixed bayonets behind creeping artillery barrage."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_mech_corps",
+    "Tractor turning into tank, half wheels and half tracks, factory floor."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_airborne",
+    "Pegasus soldiers in leather helmets diving in formation from transport plane."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_god_of_war",
+    "Row of heavy howitzers firing at night, muzzle flashes lighting snow."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_mil_if_war_tomorrow",
+    "Cinema screen showing tanks in silhouette, audience of ponies in front, projector beam."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_mil_active_defense",
+    "Shield made of logs and concrete set into snow, rifle slit glowing."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_northern_rampart",
+    "Concrete pillbox under snow with camouflage net, pine forest behind."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_people_avengers",
+    "Partisan pony in fur hat with rifle among birch trees, railway explosion in distance."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_all_for_front",
+    "Worker ponies in factory hall pushing repaired tank toward open gate, sparks."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_defense_in_depth",
+    "Many trench lines stacked behind one another to horizon, aerial view."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_mil_no_retreat",
+    "Soldier pony planting flag in frozen river bank, burning city skyline behind."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_mil_brain_of_army",
+    "Thin grey book on staff map with compasses and coloured pencils, lamp."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_hawks",
+    "Small agile fighter plane banking sharply, hawk silhouette in shadow."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_mil_northern_yard",
+    "Patrol ship launching down slipway into icy water, cranes around."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sov_self_management",
+    "Factory gate with crowd of worker ponies raising hooves in vote."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sov_village_soviets",
+    "Log village hall with red flag and blank notice board, horses' carts outside."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sov_chervonets",
+    "Gold coin embossed with horseshoe and star, no numbers, stacked on ledger."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sov_federation",
+    "Many small red flags on poles forming ring around larger flag."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sov_open_sessions",
+    "Wide open double doors of council hall with ponies streaming in."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sov_free_press",
+    "Hand printing press with fresh sheets, grey lines only, hanging to dry."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sov_rotation",
+    "Wooden blank nameplate holder on desk turning like revolving door."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sov_red_guard",
+    "Worker pony in flat cap with rifle and red armband, factory chimneys behind."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sov_elected_commanders",
+    "Soldier ponies in greatcoats raising rifles to vote around officer pony."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sov_peoples_army",
+    "Column of pony militia in mismatched coats marching with red banner."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sov_congress",
+    "Vast congress hall seen from back, thousands of raised voting cards."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sov_commune_state",
+    "City skyline crowned with giant red star, horseshoe ring around it."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_disc_labour_norms",
+    "Stopwatch hanging over factory conveyor belt, no numbers."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_disc_truancy_raids",
+    "Cinema hall in daylight with lights suddenly on, militia pony at door."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_disc_subbotnik",
+    "Ponies carrying log together in spring yard, red banner on fence."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_disc_honor_board",
+    "Wooden honour board with rows of blank portrait frames and red star on top."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_disc_cotton_case",
+    "Fluffy white cotton boll with gold coin hidden inside."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_disc_gastronom",
+    "Delicatessen counter with hidden back-room door ajar, tin of caviar glowing."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_disc_zheglov",
+    "Detective's leather coat and wide-brim hat on hook, pistol holster beside."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_disc_people_control",
+    "Magnifying glass over warehouse ledger without text."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_disc_fifth_directorate",
+    "Typewriter under desk lamp with carbon copy sheet, dossier stamp without text."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_disc_jamming",
+    "Radio mast spraying zigzag interference waves into night sky."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_disc_closed_cities",
+    "Barrier gate on forest road before secret town of white apartment blocks."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_disc_iron_order",
+    "Iron gauntlet-shaped HORSESHOE gripping red star, no hand or fingers."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_pio_palaces",
+    "White-columned palace of pioneers with fountain, red neckerchief on gate."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_pio_young_technicians",
+    "Model rocket and radio set on workbench, soldering iron."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_pio_zarnitsa",
+    "Foals in caps playing war game in forest, toy rifles and flag."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_pio_suvorov",
+    "Cadet's black uniform cap with red band, white gloves laid beside."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_pio_artek",
+    "Tents and bonfire on seashore under mountains, bugle hanging on pole."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_ogas_besm",
+    "Room-sized computer cabinet with glowing valves and magnetic tape reels, unicorn engineer in white coat."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_ogas_setun",
+    "Computer panel with three big glowing lamps red yellow green, surprised scientist pony behind."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ogas_crystal",
+    "Unicorn horn shooting blue sparks into glowing purple crystals wired into computer."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_ogas_cemi",
+    "Blackboard-green disc with glowing golden graph lines and slide rule, professor pony with glasses."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ogas_optimal_planning",
+    "Factory chimney rising out of glowing network of lines and nodes, red star on top."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_ogas_gosplan",
+    "Thick plan folder turning into punched tape streaming into computer."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_ogas_cashless",
+    "Paper banknote without text dissolving into glowing digital squares above open hoof."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ogas_red_book",
+    "Red book with military star on cover, radar dish rising behind."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ogas_who_controls",
+    "Big red switch lever, half background bright and open, half dark with watching eye."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ogas_situation_room",
+    "Seven armchairs in semicircle facing glowing wall screens with charts without numbers."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ogas_red_plenty",
+    "Overflowing cornucopia of bread apples and gears pouring out of glowing computer, red banner above."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ogas_all_seeing",
+    "Huge glowing eye made of computer lights over city of identical blocks, searchlights."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ogas",
+    "Glowing map of North covered with computing centres joined by bright network lines, red star at centre node."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_perestroika",
+    "Grand old palace wrapped in scaffolding, heavy door swinging open with warm light pouring out."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_market_socialism",
+    "Market stall with red awning, crates of apples and bread, golden coin with horseshoe."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_kosygin_reform",
+    "Wooden abacus over factory ledger with rising golden arrow, gear behind."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_discipline",
+    "Big stopwatch without numbers with red star, militia cap resting against it."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_free_soviets",
+    "Many raised hooves holding red voting cards, big red banner rising above, politically neutral."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ind_giganto",
+    "Colossal blast furnace and factory chimneys above tiny steppe settlement, red glow from furnace mouth."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_gig_two_plus_two",
+    "Monumental stepped pyramidal ministry building of white concrete, single huge watching eye-shaped window, searchlights."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ind_bases",
+    "Massive armoured door set in snowy mountainside, factory light spilling from gap, pines."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_bas_northern_forge",
+    "Anvil and hammer in rock cavern, sparks, horseshoe glowing on anvil."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_ind_quality",
+    "Rounded 1960s refrigerator with small embossed pentagon quality mark on door, no letters."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_q_science_towns",
+    "Modern laboratory towers among tall northern pines, small radio dish, glowing window."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_wr_comintern",
+    "Globe-shaped lectern draped red banner, three small flags with pony griffon feather zebra stripe motifs."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_wr_coups",
+    "Shadowy pegasus in grey coat at telegraph key, sealed red envelope beside."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_wr_liberation",
+    "Landing ship bow ramp dropping onto foreign palm-lined beach, red pennant on mast."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_wr_doomsday",
+    "Plain clock face without numerals, both hands almost at top, faint mushroom cloud behind."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_wr_world_soviets",
+    "Globe with three continents glowing red, red star orbiting like satellite."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_vas_socialist_camp",
+    "One large red banner surrounded by five smaller red banners on poles in fan arrangement."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_vas_comecon",
+    "Five interlocking brass cogwheels of different sizes forming ring."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_vas_pact",
+    "Steel shield with five small red stars in circle, two crossed rifles behind."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_vas_anadyr",
+    "Long missile under canvas tarpaulin on cargo ship deck at night, spray."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_vas_projects",
+    "Railway cutting straight through dense taiga toward low mountains, tent and red flag beside rails."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_vas_psychiatry",
+    "White hospital door with small barred window, hanging straitjacket beside, cold blue light."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_vas_dear_comrade",
+    "Dark suit jacket chest completely covered with medals and five golden hero stars."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sin_permanent_revolution",
+    "Flaming torch whose fire spirals upward in endless red helix."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sin_labour_armies",
+    "Shovel and rifle crossed, soldier's greatcoat hanging over them."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sin_armored_train",
+    "Front of 1920s armoured train with red star on boiler, steam and searchlight."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sin_bunker",
+    "Basement door covered in punk paper flyers without text, original grenade-shaped red-black badge above."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sin_equusianism",
+    "Stylised continent map silhouette entirely in red, north star above."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_sin_posadism",
+    "Small mushroom cloud on distant horizon, three glowing round lights hovering above."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_sin_red_north",
+    "Blazing red north star over snowy mountain peaks."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_alt_state_and_revolution",
+    "Open book and oil lantern inside small reed hut by marsh."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_alt_goelro",
+    "Single glowing light bulb hanging from wire above wooden village cottage."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_alt_tenth_congress",
+    "Many raised hooves holding red voting cards in hall, seen from behind."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_alt_kitchen_maid",
+    "Kitchen ladle crossed with fountain pen over official paper without letters with red seal."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_alt_niichavo",
+    "Unicorn horn crackling with blue sparks above laboratory flask and punched tape."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_alt_letter_to_congress",
+    "Sealed envelope with large red wax seal bearing horseshoe."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_dw_process",
+    "Heavy door swinging open, warm daylight pouring into dark office."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_dw_glasnost",
+    "Megaphone with newspapers flying out, no readable text."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_dw_archipelago",
+    "Barbed wire unwinding and turning into pages of open book."
+  ],
+  [
+    "focus",
+    "B",
+    "STG_dw_free_elections",
+    "Transparent ballot box full of folded papers, different coloured ballots on top."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_dw_new_thinking",
+    "White dove perched on missile cut in half."
+  ],
+  [
+    "focus",
+    "A",
+    "STG_dw_union_treaty",
+    "Golden sun and red star intertwined above signed treaty with several wax seals, no letters."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_troika",
+    "Long session table, central chair empty, three ponies at sides not looking at each other. 1953 photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_security_chief",
+    "Officers entering meeting room while pony in rimless glasses rises from seat, thick folder on table. 1953 photo."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_cold_summer",
+    "Small northern river village in summer, released prisoners in padded jackets walking along dirt road. 1950s photo."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_portraits",
+    "School corridor, caretaker pony on ladder holding three framed portraits unsure which to hang. 1950s photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_records",
+    "Rally in factory yard, huge rising-arrow poster without text, orchestra, workers cheering. 1958 colour photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_ryazan",
+    "Empty cowshed, single milking stool, regional secretary's car leaving in background. 1960 photo."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_this_generation",
+    "Congress hall on feet applauding, red banners and stage with giant futuristic city model. 1961 colour photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_hangover",
+    "Empty shop shelves, long queue outside in rain, dust storm over fields seen through window. 1963 photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_general_call",
+    "General pony in greatcoat standing in dark office doorway, two officers behind, phone off hook. 1964 photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_famine_map",
+    "Official pony pinning black flags to regional map, grain train loaded through window. 1932 photo."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_seed_dispute",
+    "Old academic pony with seed jars facing young agronomist pony with wheat sheaf across laboratory table. 1930s photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_academy_debate",
+    "Amphitheatre lecture hall packed with pony officers, two speakers at blackboard covered in arrows. 1930s photo."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_if_war_tomorrow",
+    "Cinema audience of ponies leaving hall singing, film poster with tanks without text. 1938 photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_nowhere_to_retreat",
+    "Pony soldiers in snowy trenches outside city, political officer speaking, anti-tank hedgehogs. 1941 photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_congress_of_soviets",
+    "Pony delegates in work clothes filling opera house, voting cards raised. 1918 photo."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_factory_committee",
+    "Workshop meeting on factory floor, ministry pony clerks in suits standing aside while workers on crates vote. 1920s photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_truancy_raid",
+    "Militia checking documents of ponies in daytime cinema and bathhouse queue, plumber pony caught with toolbag. 1983 colour photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_gastronom_arrest",
+    "Luxurious grocery store back room, pony investigators opening crates of caviar and cash without lettering. 1983 colour photo."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_zheglov",
+    "Two pony detectives in smoky 1945 police office, one in leather coat leaning over suspect's photo. 1979 film-still look."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_closed_city",
+    "White snowy town of identical blocks behind barbed-wire fence, checkpoint barrier. 1970s colour photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_dossier_altidiya",
+    "Plain office, wall map of North, old kettle, elderly mare in simple jacket writing at desk, through half-open door. 1930s photo."
+  ],
+  [
+    "event",
+    "B",
+    "STG_event_dossier_nestor",
+    "General pony in greatcoat on frozen training ground, officers with field glasses behind, tanks in snow. 1930s photo."
+  ],
+  [
+    "event",
+    "A",
+    "STG_event_staff_of_equality",
+    "Dark wooden staff with crystal tip lying on office desk under lamp, quiet pony mare in plain dress beside it, identical-looking villagers through window."
+  ],
+  [
+    "mio",
+    "A",
+    "STG_konzan_heavy",
+    "Heavy tank front view with very thick turret."
+  ],
+  [
+    "mio",
+    "A",
+    "STG_tupokrylov",
+    "Four-engine bomber with stubby wings seen from below."
+  ],
+  [
+    "mio",
+    "B",
+    "STG_chaika",
+    "Seaplane with gull wings over wave."
+  ],
+  [
+    "mio",
+    "B",
+    "STG_glubina",
+    "Submarine periscope rising from dark water."
+  ],
+  [
+    "mio",
+    "B",
+    "STG_polar_instrument",
+    "Field radio with coiled antenna and compass."
+  ],
+  [
+    "mio",
+    "A",
+    "STG_severny_molot",
+    "Turretless assault gun with long cannon, hammer behind it."
+  ],
+  [
+    "mio",
+    "B",
+    "STG_tyl_workshops",
+    "Large wrench crossed with tank track link."
+  ],
+  [
+    "mio",
+    "B",
+    "STG_polyarny_auto",
+    "Four-wheel armoured car with small turret, snowflakes."
+  ],
+  [
+    "mio",
+    "A",
+    "STG_yastrebok",
+    "Small fighter plane with hawk head silhouette on nose."
+  ],
+  [
+    "mio",
+    "B",
+    "STG_northern_yard",
+    "Patrol ship bow cutting through ice floes."
+  ],
+  [
+    "decision",
+    "B",
+    "STG_cat_interregnum",
+    "Palace corridor with closed office doors, ponies whispering in small groups."
+  ],
+  [
+    "decision",
+    "B",
+    "STG_cat_dizzy",
+    "Factory yard covered in banners and giant rising-arrow chart, smoke from every chimney."
+  ],
+  [
+    "decision",
+    "B",
+    "STG_cat_agroprom",
+    "Test plots of wheat in neat rows before white institute building, pony agronomists with notebooks."
+  ],
+  [
+    "adviser",
+    "A",
+    "STG_town_rovnya",
+    "Young unicorn mare, pale lilac coat, plain straight dark mane, calm watchful eyes, simple grey village dress with equals-sign-like pin represented as two plain bars, faint crystal glow on horn. Original character, NOT Starlight Glimmer."
+  ]
+]

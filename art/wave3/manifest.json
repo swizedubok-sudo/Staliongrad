@@ -1,0 +1,2632 @@
+{
+  "status": "in_progress",
+  "completed_files": 130,
+  "total_original_files": 153,
+  "effective_required_files": 150,
+  "frame": "masters/STG_focus_frame.png",
+  "assets": [
+    {
+      "id": "STG_int_collective_leadership",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Three chairs at a long red-clothed table, central high-backed chair empty, single desk lamp.",
+      "master": "masters/focus/STG_int_collective_leadership.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_collective_leadership.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "e2d71ddf94435c955529f89a8d46712c414947059792cc92c05e8d376d37fc8e",
+      "center": "masters/centers/STG_int_collective_leadership.png"
+    },
+    {
+      "id": "STG_int_security_chief",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Thick dossier tied with string, rimless glasses lying on it, soldier's shadow falling across.",
+      "master": "masters/focus/STG_int_security_chief.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_security_chief.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "c30f1df2e7a127f770a34c0e4dd5169ee2a482dd041ab4d866851de0c26b547e",
+      "center": "masters/centers/STG_int_security_chief.png"
+    },
+    {
+      "id": "STG_int_platforms",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Three newspaper columns pinned side by side on board, only grey lines without letters, red pin on one.",
+      "master": "masters/focus/STG_int_platforms.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_platforms.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3419728334b06f8cac675710c9ec1ab30086859ccba9e3ff123791a70d41bceb",
+      "center": "masters/centers/STG_int_platforms.png"
+    },
+    {
+      "id": "STG_dz_dizzy",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Steep red arrow graph spiralling upward into a whirl.",
+      "master": "masters/focus/STG_dz_dizzy.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_dizzy.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3d1d173b25a0b7ac8541465ef898192b88b7ed2928e09f27a91bd73246a8a8d3",
+      "center": "masters/centers/STG_dz_dizzy.png"
+    },
+    {
+      "id": "STG_dz_virgin_lands",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Tractor ploughing endless steppe beneath huge sky, tent and red pennant behind.",
+      "master": "masters/focus/STG_dz_virgin_lands.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_virgin_lands.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "98ed7e21fc76a393a864ef6e96e2618d682338e3c4a170801e0831f5daf3c3d3",
+      "center": "masters/centers/STG_dz_virgin_lands.png"
+    },
+    {
+      "id": "STG_dz_corn",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Giant ear of corn robed like queen, standing in snowfield with small polar station behind.",
+      "master": "masters/focus/STG_dz_corn.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_corn.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a27e19524573e6ebbc5b1284742a3a8596ada183f49c1c2417bc6e488201b286",
+      "center": "masters/centers/STG_dz_corn.png"
+    },
+    {
+      "id": "STG_dz_communism",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Shining white tower of future rising out of scaffolding, red banner on top, fireworks.",
+      "master": "masters/focus/STG_dz_communism.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_communism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ee55c02694ca2c5b2ac0d391f0f19a87a6b804fd1eacc0fcd1a84f2b7da0fb79",
+      "center": "masters/centers/STG_dz_communism.png"
+    },
+    {
+      "id": "STG_mil_doctrine_debate",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Classroom blackboard with two opposing chalk arrows, one deep one curved defensive, pointer stick.",
+      "master": "masters/focus/STG_mil_doctrine_debate.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_doctrine_debate.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "bcfd0e12f921c96aaec0fa93e0019b9c5e016a2b7fcce47200cde10b6887cf4e",
+      "center": "masters/centers/STG_mil_doctrine_debate.png"
+    },
+    {
+      "id": "STG_mil_deep_battle",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Tanks and pegasus paratroopers flowing through breach in barbed wire, red arrows on ground.",
+      "master": "masters/focus/STG_mil_deep_battle.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_deep_battle.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "4d8e176aa46b77d8f46cfe6f8555aaa90c760bf0acb3a8843bf496bbf570b693",
+      "center": "masters/centers/STG_mil_deep_battle.png"
+    },
+    {
+      "id": "STG_mil_if_war_tomorrow",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Cinema screen showing tanks in silhouette, audience of ponies in front, projector beam.",
+      "master": "masters/focus/STG_mil_if_war_tomorrow.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_if_war_tomorrow.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a7dfa3e833cc9798ae4dfdc8630c19632dddfafd55c2476fcfbe8c3884d64ecb",
+      "center": "masters/centers/STG_mil_if_war_tomorrow.png"
+    },
+    {
+      "id": "STG_mil_no_retreat",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Soldier pony planting flag in frozen river bank, burning city skyline behind.",
+      "master": "masters/focus/STG_mil_no_retreat.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_no_retreat.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3c7a7e45e31bd3a8a58b84c43f4957fa55999a890ff17a394f32cba10a9cab87",
+      "center": "masters/centers/STG_mil_no_retreat.png"
+    },
+    {
+      "id": "STG_mil_brain_of_army",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Thin grey book on staff map with compasses and coloured pencils, lamp.",
+      "master": "masters/focus/STG_mil_brain_of_army.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_brain_of_army.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7875f4dee86373ad9ca07ba29b8dfba83b4b10e182eac6670d6db4e67d304a3e",
+      "center": "masters/centers/STG_mil_brain_of_army.png"
+    },
+    {
+      "id": "STG_sov_red_guard",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Worker pony in flat cap with rifle and red armband, factory chimneys behind.",
+      "master": "masters/focus/STG_sov_red_guard.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_red_guard.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "256b654500841b79c9d4424838d69e6c3ec197777cac3be62ab1b294e7169a08",
+      "center": "masters/centers/STG_sov_red_guard.png"
+    },
+    {
+      "id": "STG_sov_self_management",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Factory gate with crowd of worker ponies raising hooves in vote.",
+      "master": "masters/focus/STG_sov_self_management.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_self_management.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "25741ced48858e7d63701853036f5f828085c987ff8a7699e62c158f1073273a",
+      "center": "masters/centers/STG_sov_self_management.png"
+    },
+    {
+      "id": "STG_sov_congress",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Vast congress hall seen from back, thousands of raised voting cards.",
+      "master": "masters/focus/STG_sov_congress.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_congress.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "130f8951eb9bf6c2abcb5a7b6cde2b83998e46393e629f218ec57146fc6f461b",
+      "center": "masters/centers/STG_sov_congress.png"
+    },
+    {
+      "id": "STG_sov_federation",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Many small red flags on poles forming ring around larger flag.",
+      "master": "masters/focus/STG_sov_federation.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_federation.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1c19deba2982eb35deeafecdddb8e2d3771d21e86345f90b82c6886837c6c4e7",
+      "center": "masters/centers/STG_sov_federation.png"
+    },
+    {
+      "id": "STG_mil_active_defense",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Shield made of logs and concrete set into snow, rifle slit glowing.",
+      "master": "masters/focus/STG_mil_active_defense.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_active_defense.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "bb267281763196ec1eb0c9ec11c8ddbab38e230d04d3dca35dd356744b2ef0fa",
+      "center": "masters/centers/STG_mil_active_defense.png"
+    },
+    {
+      "id": "STG_disc_truancy_raids",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Cinema hall in daylight with lights suddenly on, militia pony at door.",
+      "master": "masters/focus/STG_disc_truancy_raids.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_truancy_raids.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b08a1855938ede516ac83b9f70b50ef727f5e8af66a52ffeafa79c9c36f3f6a0",
+      "center": "masters/centers/STG_disc_truancy_raids.png"
+    },
+    {
+      "id": "STG_disc_cotton_case",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Fluffy white cotton boll with gold coin hidden inside.",
+      "master": "masters/focus/STG_disc_cotton_case.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_cotton_case.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "87a5e21ccf564f7969e8bb4852195df4be6d720b89ebcf38887d2d44871e2df7",
+      "center": "masters/centers/STG_disc_cotton_case.png"
+    },
+    {
+      "id": "STG_disc_iron_order",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Iron gauntlet-shaped HORSESHOE gripping red star, no hand or fingers.",
+      "master": "masters/focus/STG_disc_iron_order.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_iron_order.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d073154a1c7435ea9a23255155734497a7a42112979a8207a53835d984dccfd4",
+      "center": "masters/centers/STG_disc_iron_order.png"
+    },
+    {
+      "id": "STG_pio_palaces",
+      "type": "focus",
+      "priority": "A",
+      "subject": "White-columned palace of pioneers with fountain, red neckerchief on gate.",
+      "master": "masters/focus/STG_pio_palaces.png",
+      "game": "game/gfx/interface/goals/STG/STG_pio_palaces.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "5cf37a6867bf236b1c8ca26e1c1deacb91f0f275c13305b847b7e8d67cc9776d",
+      "center": "masters/centers/STG_pio_palaces.png"
+    },
+    {
+      "id": "STG_ogas_red_plenty",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Overflowing cornucopia of bread apples and gears pouring out of glowing computer, red banner above.",
+      "master": "masters/focus/STG_ogas_red_plenty.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_red_plenty.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f02d1f1cdb94ca5863f280d518592a78c772b495ddaf37637af9df1da5529a11",
+      "center": "masters/centers/STG_ogas_red_plenty.png"
+    },
+    {
+      "id": "STG_disc_gastronom",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Delicatessen counter with hidden back-room door ajar, tin of caviar glowing.",
+      "master": "masters/focus/STG_disc_gastronom.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_gastronom.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1a469493acb659dc7505014cb0d1875b6265dbf0e2d075bd391d9085ff896a45",
+      "center": "masters/centers/STG_disc_gastronom.png"
+    },
+    {
+      "id": "STG_disc_zheglov",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Detective's leather coat and wide-brim hat on hook, pistol holster beside.",
+      "master": "masters/focus/STG_disc_zheglov.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_zheglov.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1ed4cb0e3ce23c3ff87f43c734f307cfe532332ebb04edaa4160b527fd3536b4",
+      "center": "masters/centers/STG_disc_zheglov.png"
+    },
+    {
+      "id": "STG_ogas_situation_room",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Seven armchairs in semicircle facing glowing wall screens with charts without numbers.",
+      "master": "masters/focus/STG_ogas_situation_room.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_situation_room.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b0749daae246c01555c210fbef21fe48d8deeb2f1f15bca87811c8d95d9a385b",
+      "center": "masters/centers/STG_ogas_situation_room.png"
+    },
+    {
+      "id": "STG_market_socialism",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Market stall with red awning, crates of apples and bread, golden coin with horseshoe.",
+      "master": "masters/focus/STG_market_socialism.png",
+      "game": "game/gfx/interface/goals/STG/STG_market_socialism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f10329b68ac7ed50737d5cc2c4443f9d0ba04406529b3c743077c09b13d9ff82",
+      "center": "masters/centers/STG_market_socialism.png"
+    },
+    {
+      "id": "STG_perestroika",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Grand old palace wrapped in scaffolding, heavy door swinging open with warm light pouring out.",
+      "master": "masters/focus/STG_perestroika.png",
+      "game": "game/gfx/interface/goals/STG/STG_perestroika.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "cb80ee692b24e3c6a7ec6044b8a216a2ac254b6184d07f525d77d18817b84392",
+      "center": "masters/centers/STG_perestroika.png"
+    },
+    {
+      "id": "STG_kosygin_reform",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Wooden abacus over factory ledger with rising golden arrow, gear behind.",
+      "master": "masters/focus/STG_kosygin_reform.png",
+      "game": "game/gfx/interface/goals/STG/STG_kosygin_reform.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3203b630142321a28ecac0a0f5c1a8f97f07d1a12121c8b5c33a65487c554d63",
+      "center": "masters/centers/STG_kosygin_reform.png"
+    },
+    {
+      "id": "STG_discipline",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Big stopwatch without numbers with red star, militia cap resting against it.",
+      "master": "masters/focus/STG_discipline.png",
+      "game": "game/gfx/interface/goals/STG/STG_discipline.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7ff040c786de9a75e4fcbf206e4e40e4df6376460e70410f15fef7710c20bfa1",
+      "center": "masters/centers/STG_discipline.png"
+    },
+    {
+      "id": "STG_free_soviets",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Many raised hooves holding red voting cards, big red banner rising above, politically neutral.",
+      "master": "masters/focus/STG_free_soviets.png",
+      "game": "game/gfx/interface/goals/STG/STG_free_soviets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "40669fdef49535d8b54583a8cbe2e92f88abcb346f8a2ac6159fb0e625ede565",
+      "center": "masters/centers/STG_free_soviets.png"
+    },
+    {
+      "id": "STG_ind_bases",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Massive armoured door set in snowy mountainside, factory light spilling from gap, pines.",
+      "master": "masters/focus/STG_ind_bases.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_bases.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "19e26ccae4239b9c5f2d11a27b9eefd7b52cdb4ea5741c2d5e02c62a287e6e0a",
+      "center": "masters/centers/STG_ind_bases.png"
+    },
+    {
+      "id": "STG_ind_giganto",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Colossal blast furnace and factory chimneys above tiny steppe settlement, red glow from furnace mouth.",
+      "master": "masters/focus/STG_ind_giganto.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_giganto.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "9e2584c745fab398ce786c6481a0c3ac8746fa523e4ce097107677fcb818b2f6",
+      "center": "masters/centers/STG_ind_giganto.png"
+    },
+    {
+      "id": "STG_pio_artek",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Tents and bonfire on seashore under mountains, bugle hanging on pole.",
+      "master": "masters/focus/STG_pio_artek.png",
+      "game": "game/gfx/interface/goals/STG/STG_pio_artek.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "33bb747801b6be76759fce970a06857d9fd02f25369e8869be9b93d532328f44",
+      "center": "masters/centers/STG_pio_artek.png"
+    },
+    {
+      "id": "STG_ogas_crystal",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Unicorn horn shooting blue sparks into glowing purple crystals wired into computer.",
+      "master": "masters/focus/STG_ogas_crystal.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_crystal.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7d7b40be0a7c3cd1df86041d20433a879df146cf79738a10708bdaa5f9c022dc",
+      "center": "masters/centers/STG_ogas_crystal.png"
+    },
+    {
+      "id": "STG_ogas_optimal_planning",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Factory chimney rising out of glowing network of lines and nodes, red star on top.",
+      "master": "masters/focus/STG_ogas_optimal_planning.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_optimal_planning.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b28235f30fda0847fd7bb1298b0d145c88cc2f2671c8f2031574140702dfbdf0",
+      "center": "masters/centers/STG_ogas_optimal_planning.png"
+    },
+    {
+      "id": "STG_ogas_red_book",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Red book with military star on cover, radar dish rising behind.",
+      "master": "masters/focus/STG_ogas_red_book.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_red_book.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "cc2aafe7f577b1877ec72a5779d86ca802302a5360af416cbbc436f79e3de6ee",
+      "center": "masters/centers/STG_ogas_red_book.png"
+    },
+    {
+      "id": "STG_ogas_who_controls",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Big red switch lever, half background bright and open, half dark with watching eye.",
+      "master": "masters/focus/STG_ogas_who_controls.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_who_controls.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ad90aa667de2ba497352e69d3c4b4416a722a19e0b1a4618d3dc7daeb474b59b",
+      "center": "masters/centers/STG_ogas_who_controls.png"
+    },
+    {
+      "id": "STG_ogas",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Glowing map of North covered with computing centres joined by bright network lines, red star at centre node.",
+      "master": "masters/focus/STG_ogas.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "957c1c10e82669272a9b21d27754e0d7f36e4e3cc33a80323cfeb03a183f4e7b",
+      "center": "masters/centers/STG_ogas.png"
+    },
+    {
+      "id": "STG_ogas_all_seeing",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Huge glowing eye made of computer lights over city of identical blocks, searchlights.",
+      "master": "masters/focus/STG_ogas_all_seeing.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_all_seeing.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "56f716b689b6774233ccdd534a8cfda498018b6442b0b57a596809839e92dcb6",
+      "center": "masters/centers/STG_ogas_all_seeing.png"
+    },
+    {
+      "id": "STG_ind_quality",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Rounded 1960s refrigerator with small embossed pentagon quality mark on door, no letters.",
+      "master": "masters/focus/STG_ind_quality.png",
+      "game": "game/gfx/interface/goals/STG/STG_ind_quality.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "0a0a59b68149c659977fbb4863b9ec6e88ee42039f0d2667a3411033616bc9fc",
+      "center": "masters/centers/STG_ind_quality.png"
+    },
+    {
+      "id": "STG_wr_comintern",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Globe-shaped lectern draped red banner, three small flags with pony griffon feather zebra stripe motifs.",
+      "master": "masters/focus/STG_wr_comintern.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_comintern.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "0c820b51e92d482251e1d0407e3930a6185106faf14bb1120e97a7f9d15c2f54",
+      "center": "masters/centers/STG_wr_comintern.png"
+    },
+    {
+      "id": "STG_wr_liberation",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Landing ship bow ramp dropping onto foreign palm-lined beach, red pennant on mast.",
+      "master": "masters/focus/STG_wr_liberation.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_liberation.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f9a21f2d75cc3b9c7d8aa37a0701cc96f377be7d3231bcbe3f0658b07bf8e0f0",
+      "center": "masters/centers/STG_wr_liberation.png"
+    },
+    {
+      "id": "STG_wr_doomsday",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Plain clock face without numerals, both hands almost at top, faint mushroom cloud behind.",
+      "master": "masters/focus/STG_wr_doomsday.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_doomsday.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "01d8dded3d8b07ae85fe81eb35ad8cb4be83862892250993a00f63664f1fcb4c",
+      "center": "masters/centers/STG_wr_doomsday.png"
+    },
+    {
+      "id": "STG_wr_world_soviets",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Globe with three continents glowing red, red star orbiting like satellite.",
+      "master": "masters/focus/STG_wr_world_soviets.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_world_soviets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "660bd0777002f50783f05f642dc2966e965722e22bfdde11fab6c74be4a205ba",
+      "center": "masters/centers/STG_wr_world_soviets.png"
+    },
+    {
+      "id": "STG_vas_socialist_camp",
+      "type": "focus",
+      "priority": "A",
+      "subject": "One large red banner surrounded by five smaller red banners on poles in fan arrangement.",
+      "master": "masters/focus/STG_vas_socialist_camp.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_socialist_camp.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ea572ebc386f0c4758a34a9e380035dd86c029bcd2c69f51e087db523dd4051a",
+      "center": "masters/centers/STG_vas_socialist_camp.png"
+    },
+    {
+      "id": "STG_vas_anadyr",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Long missile under canvas tarpaulin on cargo ship deck at night, spray.",
+      "master": "masters/focus/STG_vas_anadyr.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_anadyr.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d68976bb958fbf2d34b3d56e8bb786b7bcf22325d063bc12fe824d7143e3b982",
+      "center": "masters/centers/STG_vas_anadyr.png"
+    },
+    {
+      "id": "STG_vas_projects",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Railway cutting straight through dense taiga toward low mountains, tent and red flag beside rails.",
+      "master": "masters/focus/STG_vas_projects.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_projects.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "32fed0bc726f0211f26bc493d57741613127a21d8189bbf14691d9507111c21d",
+      "center": "masters/centers/STG_vas_projects.png"
+    },
+    {
+      "id": "STG_vas_dear_comrade",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Dark suit jacket chest completely covered with medals and five golden hero stars.",
+      "master": "masters/focus/STG_vas_dear_comrade.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_dear_comrade.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2737839d8e7e91584ebf83e4d5618f56b8f36704b9f14653165ad0a8cc006e62",
+      "center": "masters/centers/STG_vas_dear_comrade.png"
+    },
+    {
+      "id": "STG_sin_permanent_revolution",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Flaming torch whose fire spirals upward in endless red helix.",
+      "master": "masters/focus/STG_sin_permanent_revolution.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_permanent_revolution.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1135f8e1d3c36ad6ff2e71402352566bdeaff092a8d6b41bd21264d5b7e6260d",
+      "center": "masters/centers/STG_sin_permanent_revolution.png"
+    },
+    {
+      "id": "STG_sin_red_north",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Blazing red north star over snowy mountain peaks.",
+      "master": "masters/focus/STG_sin_red_north.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_red_north.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1d9bebcbbb1b6ba69afd356f31fde0dac5232155deef725f044b859de1f798e5",
+      "center": "masters/centers/STG_sin_red_north.png"
+    },
+    {
+      "id": "STG_sin_armored_train",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Front of 1920s armoured train with red star on boiler, steam and searchlight.",
+      "master": "masters/focus/STG_sin_armored_train.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_armored_train.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a6e81a6938cdd8ba71b0a4300745baef229e318d9fca18909b8d074b4a869359",
+      "center": "masters/centers/STG_sin_armored_train.png"
+    },
+    {
+      "id": "STG_alt_state_and_revolution",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Open book and oil lantern inside small reed hut by marsh.",
+      "master": "masters/focus/STG_alt_state_and_revolution.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_state_and_revolution.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1d53af2c213c764ce471d94a68da7ae210d1bedd7e881efeb7ad26c80c7ac234",
+      "center": "masters/centers/STG_alt_state_and_revolution.png"
+    },
+    {
+      "id": "STG_alt_letter_to_congress",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Sealed envelope with large red wax seal bearing horseshoe.",
+      "master": "masters/focus/STG_alt_letter_to_congress.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_letter_to_congress.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "943b7ae15a598dd5d5e728fa19d8070160110279cd887d1daa115343142e9275",
+      "center": "masters/centers/STG_alt_letter_to_congress.png"
+    },
+    {
+      "id": "STG_alt_goelro",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Single glowing light bulb hanging from wire above wooden village cottage.",
+      "master": "masters/focus/STG_alt_goelro.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_goelro.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2e89fd93d734755ed5e03f273b832ae717dfaf1d4491c3c8170c8331c055587f",
+      "center": "masters/centers/STG_alt_goelro.png"
+    },
+    {
+      "id": "STG_dw_process",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Heavy door swinging open, warm daylight pouring into dark office.",
+      "master": "masters/focus/STG_dw_process.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_process.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ea3460aa0babff526bdea029513288d27c00950e10de179eb68e3b7319f4004b",
+      "center": "masters/centers/STG_dw_process.png"
+    },
+    {
+      "id": "STG_dw_new_thinking",
+      "type": "focus",
+      "priority": "A",
+      "subject": "White dove perched on missile cut in half.",
+      "master": "masters/focus/STG_dw_new_thinking.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_new_thinking.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "76c0cf958854283e7087d47c205eaeddc82cafcabc1ad54dc9e2610d07bb816b",
+      "center": "masters/centers/STG_dw_new_thinking.png"
+    },
+    {
+      "id": "STG_dw_glasnost",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Megaphone with newspapers flying out, no readable text.",
+      "master": "masters/focus/STG_dw_glasnost.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_glasnost.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ae88c566ab08b25ca9e8de3d941da51e523c3111ac82fc2cc8b3033d2e97310f",
+      "center": "masters/centers/STG_dw_glasnost.png"
+    },
+    {
+      "id": "STG_dw_union_treaty",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Golden sun and red star intertwined above signed treaty with several wax seals, no letters.",
+      "master": "masters/focus/STG_dw_union_treaty.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_union_treaty.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "e8ba910a920c58d8ff2dccbd3c9bd546f5df953f39596dbe1fedb6e6b72667a5",
+      "center": "masters/centers/STG_dw_union_treaty.png"
+    },
+    {
+      "id": "STG_int_party_enrollment",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Stack of small red party membership booklets without text beside a fountain pen.",
+      "master": "masters/focus/STG_int_party_enrollment.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_party_enrollment.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "73b69cd35bb7f3bfe84b2083b26e1b079ec3644c2d377d6f8ef146cfb77e5e06",
+      "center": "masters/centers/STG_int_party_enrollment.png"
+    },
+    {
+      "id": "STG_int_army_outside",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Peaked officer's cap resting on closed map case, rifle leaning against it, back turned to red flag.",
+      "master": "masters/focus/STG_int_army_outside.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_army_outside.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "8cf19e91a63dead322faec5167f9a3ba8d8fd82668220a5e28e3490ce80c8c09",
+      "center": "masters/centers/STG_int_army_outside.png"
+    },
+    {
+      "id": "STG_int_apparatus",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Rows of telephones on office desk, all receivers on hooks, one light still burning.",
+      "master": "masters/focus/STG_int_apparatus.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_apparatus.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "4c8aec53ef6f8e32f626793fba95e65285f9402a444cd56d092308c18ec402d3",
+      "center": "masters/centers/STG_int_apparatus.png"
+    },
+    {
+      "id": "STG_int_amnesty",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Barred prison gate half open, warm daylight and birch tree outside.",
+      "master": "masters/focus/STG_int_amnesty.png",
+      "game": "game/gfx/interface/goals/STG/STG_int_amnesty.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "420af6c498fc9af5ceae5dee3a0244c378df8a2fa078a759b3dda4e3d84455ab",
+      "center": "masters/centers/STG_int_amnesty.png"
+    },
+    {
+      "id": "STG_dz_catch_up",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Two locomotives racing side by side on parallel rails, nearer one with red star pulling ahead.",
+      "master": "masters/focus/STG_dz_catch_up.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_catch_up.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "764e0c0cb54dcac8f69abcbb94595faa4e8c43d2c58057eb7c2cea52c6e2a4e9",
+      "center": "masters/centers/STG_dz_catch_up.png"
+    },
+    {
+      "id": "STG_sin_equusianism",
+      "type": "focus",
+      "priority": "A",
+      "subject": "Stylised continent map silhouette entirely in red, north star above.",
+      "master": "masters/focus/STG_sin_equusianism.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_equusianism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "9398904d89d00a8db199e750829da6f23950861b5e94500924df359224a0d393",
+      "center": "masters/centers/STG_sin_equusianism.png"
+    },
+    {
+      "id": "STG_dz_ryazan",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Butcher's hook with ribbon-decorated hero star hanging on it, empty cattle stall behind.",
+      "master": "masters/focus/STG_dz_ryazan.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_ryazan.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "8e1d1af68b1144b06456bf229c4956c933d8890e136f5e5f62f86e3fe31d1916",
+      "center": "masters/centers/STG_dz_ryazan.png"
+    },
+    {
+      "id": "STG_dz_soft_landing",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Parachute gently lowering a factory chimney onto a field.",
+      "master": "masters/focus/STG_dz_soft_landing.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_soft_landing.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3e7ddfa364311e216ca05928c5a09ae90cecbc2ecce15d5515b7c9095dca3d43",
+      "center": "masters/centers/STG_dz_soft_landing.png"
+    },
+    {
+      "id": "STG_dz_fix_errors",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Red pencil crossing out soaring graph line and drawing lower honest one.",
+      "master": "masters/focus/STG_dz_fix_errors.png",
+      "game": "game/gfx/interface/goals/STG/STG_dz_fix_errors.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "517ab091017a15c19fe14bfa85207bd6511e80db37f5106a2cdac9003485154c",
+      "center": "masters/centers/STG_dz_fix_errors.png"
+    },
+    {
+      "id": "STG_mil_mech_corps",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Tractor turning into tank, half wheels and half tracks, factory floor.",
+      "master": "masters/focus/STG_mil_mech_corps.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_mech_corps.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "aa86962594a0c6da88a196182a168ae244cde6d941c1ef5bfb7fe9689d46d719",
+      "center": "masters/centers/STG_mil_mech_corps.png"
+    },
+    {
+      "id": "STG_mil_shock_armies",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Massed pony infantry assault with fixed bayonets behind creeping artillery barrage.",
+      "master": "masters/focus/STG_mil_shock_armies.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_shock_armies.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b90c31fbc2d4b6e29825f2bb8818a42de0fe0728eb763c3b7ecc6f08baddac56",
+      "center": "masters/centers/STG_mil_shock_armies.png"
+    },
+    {
+      "id": "STG_mil_airborne",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Pegasus soldiers in leather helmets diving in formation from transport plane.",
+      "master": "masters/focus/STG_mil_airborne.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_airborne.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "255ff94d35332629d7867dff9d5c37f888f34e211695dc9e1a703ce49d67dad1",
+      "center": "masters/centers/STG_mil_airborne.png"
+    },
+    {
+      "id": "STG_mil_god_of_war",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Row of heavy howitzers firing at night, muzzle flashes lighting snow.",
+      "master": "masters/focus/STG_mil_god_of_war.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_god_of_war.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "90e548bc3c0c11ed12503cb5b7e1f4d6309660daa9f78aa5b71389c077edae1c",
+      "center": "masters/centers/STG_mil_god_of_war.png"
+    },
+    {
+      "id": "STG_mil_northern_rampart",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Concrete pillbox under snow with camouflage net, pine forest behind.",
+      "master": "masters/focus/STG_mil_northern_rampart.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_northern_rampart.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "9b9f0e3719b08fcb89ee98fa98dc1e01b59affc050937ee424439c996477628c",
+      "center": "masters/centers/STG_mil_northern_rampart.png"
+    },
+    {
+      "id": "STG_mil_all_for_front",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Worker ponies in factory hall pushing repaired tank toward open gate, sparks.",
+      "master": "masters/focus/STG_mil_all_for_front.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_all_for_front.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "fe16c01d097b1c5f9de7aed33dac2aff3f70bb73ddce3f3ddbfbc7200632d6c4",
+      "center": "masters/centers/STG_mil_all_for_front.png"
+    },
+    {
+      "id": "STG_mil_defense_in_depth",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Many trench lines stacked behind one another to horizon, aerial view.",
+      "master": "masters/focus/STG_mil_defense_in_depth.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_defense_in_depth.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "c531a32549d2f9356d3afff436f7865d87589c741cc78d501e722c139a51f281",
+      "center": "masters/centers/STG_mil_defense_in_depth.png"
+    },
+    {
+      "id": "STG_mil_people_avengers",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Partisan pony in fur hat with rifle among birch trees, railway explosion in distance.",
+      "master": "masters/focus/STG_mil_people_avengers.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_people_avengers.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "36ebd1d1fb2c0a93c8c7de2358955071827a0b0baf5d3837994c85e5bd682d3d",
+      "center": "masters/centers/STG_mil_people_avengers.png"
+    },
+    {
+      "id": "STG_sov_village_soviets",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Log village hall with red flag and blank notice board, horses' carts outside.",
+      "master": "masters/focus/STG_sov_village_soviets.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_village_soviets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "46c06ed2115ba56f9c7d5b53196c904d0764fc39638344320ad9fb03c634697e",
+      "center": "masters/centers/STG_sov_village_soviets.png"
+    },
+    {
+      "id": "STG_mil_northern_yard",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Patrol ship launching down slipway into icy water, cranes around.",
+      "master": "masters/focus/STG_mil_northern_yard.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_northern_yard.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "9b9e86a015629c66519e646dc010449bc493b19dc9af7386df827bb37e48eb38",
+      "center": "masters/centers/STG_mil_northern_yard.png"
+    },
+    {
+      "id": "STG_mil_hawks",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Small agile fighter plane banking sharply, hawk silhouette in shadow.",
+      "master": "masters/focus/STG_mil_hawks.png",
+      "game": "game/gfx/interface/goals/STG/STG_mil_hawks.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "16cc7cfb279a3a67494178fb1e870aea5a616b8956dfdac8bb6cc45556c82fbb",
+      "center": "masters/centers/STG_mil_hawks.png"
+    },
+    {
+      "id": "STG_sov_chervonets",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Gold coin embossed with horseshoe and star, no numbers, stacked on ledger.",
+      "master": "masters/focus/STG_sov_chervonets.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_chervonets.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "60ee6e87d78bca907ced90a48cac2b22f9b3254107dfa10f33e5fb56a8ecac24",
+      "center": "masters/centers/STG_sov_chervonets.png"
+    },
+    {
+      "id": "STG_sov_free_press",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Hand printing press with fresh sheets, grey lines only, hanging to dry.",
+      "master": "masters/focus/STG_sov_free_press.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_free_press.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "caef2e01d5c6c03df642c03f3745bcf2418acb40c38f711fa50a6d477fdca640",
+      "center": "masters/centers/STG_sov_free_press.png"
+    },
+    {
+      "id": "STG_sov_open_sessions",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Wide open double doors of council hall with ponies streaming in.",
+      "master": "masters/focus/STG_sov_open_sessions.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_open_sessions.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "fbbdfe49a0434e34f63aed169b3fb8e8478f6d3070ffd025cdc73fa7f20612a7",
+      "center": "masters/centers/STG_sov_open_sessions.png"
+    },
+    {
+      "id": "STG_sov_rotation",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Wooden blank nameplate holder on desk turning like revolving door.",
+      "master": "masters/focus/STG_sov_rotation.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_rotation.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "5c75db44d1ed3ec1d9d14a50131c8bf49bae7ff8da7e2e71803c5cbd2d67acde",
+      "center": "masters/centers/STG_sov_rotation.png"
+    },
+    {
+      "id": "STG_sov_elected_commanders",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Soldier ponies in greatcoats raising rifles to vote around officer pony.",
+      "master": "masters/focus/STG_sov_elected_commanders.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_elected_commanders.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ccd4e5f13acbb569082519d417a95202608a2d595fe58bc1dcc7a56ec4c8d05b",
+      "center": "masters/centers/STG_sov_elected_commanders.png"
+    },
+    {
+      "id": "STG_disc_labour_norms",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Stopwatch hanging over factory conveyor belt, no numbers.",
+      "master": "masters/focus/STG_disc_labour_norms.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_labour_norms.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7efa5d1cc6ee221f27b3b5d14d19d2f344aa2f92d09115bd2360fd04141e277f",
+      "center": "masters/centers/STG_disc_labour_norms.png"
+    },
+    {
+      "id": "STG_sov_peoples_army",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Column of pony militia in mismatched coats marching with red banner.",
+      "master": "masters/focus/STG_sov_peoples_army.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_peoples_army.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "e2ff539bfc01be99c244da34ccce928450dffdbbbd65c17a321f502fc3967a2f",
+      "center": "masters/centers/STG_sov_peoples_army.png"
+    },
+    {
+      "id": "STG_disc_subbotnik",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Ponies carrying log together in spring yard, red banner on fence.",
+      "master": "masters/focus/STG_disc_subbotnik.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_subbotnik.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b0656e58f4adfd2a8968093c537c9ad64b4ac64d8e113fc754e502b398225328",
+      "center": "masters/centers/STG_disc_subbotnik.png"
+    },
+    {
+      "id": "STG_disc_honor_board",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Wooden honour board with rows of blank portrait frames and red star on top.",
+      "master": "masters/focus/STG_disc_honor_board.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_honor_board.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "eb26ac587e2f3e1077c1465bbe98d0f58b0d333119782dd172155942c5fc50b5",
+      "center": "masters/centers/STG_disc_honor_board.png"
+    },
+    {
+      "id": "STG_disc_fifth_directorate",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Typewriter under desk lamp with carbon copy sheet, dossier stamp without text.",
+      "master": "masters/focus/STG_disc_fifth_directorate.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_fifth_directorate.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "31a94206ba04262f5a83b5af9f82a8a714e128ddcf833ea1f83eaf6cf26a371b",
+      "center": "masters/centers/STG_disc_fifth_directorate.png"
+    },
+    {
+      "id": "STG_disc_people_control",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Magnifying glass over warehouse ledger without text.",
+      "master": "masters/focus/STG_disc_people_control.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_people_control.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f3f4236e7e00c69be9ecc4d652bf832024d94b266ee2cfeb6e0cf90dd80e8310",
+      "center": "masters/centers/STG_disc_people_control.png"
+    },
+    {
+      "id": "STG_disc_jamming",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Radio mast spraying zigzag interference waves into night sky.",
+      "master": "masters/focus/STG_disc_jamming.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_jamming.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d8f71965b9da1ef9d8eeba70d4c7034ba2e76c251390d75808484bd80636ef33",
+      "center": "masters/centers/STG_disc_jamming.png"
+    },
+    {
+      "id": "STG_disc_closed_cities",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Barrier gate on forest road before secret town of white apartment blocks.",
+      "master": "masters/focus/STG_disc_closed_cities.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_closed_cities.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "71cb3e2e82e8f0f915040838bde93c1bce9f64104eda2f136578f8335c395e88",
+      "center": "masters/centers/STG_disc_closed_cities.png"
+    },
+    {
+      "id": "STG_pio_zarnitsa",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Foals in caps playing war game in forest, toy rifles and flag.",
+      "master": "masters/focus/STG_pio_zarnitsa.png",
+      "game": "game/gfx/interface/goals/STG/STG_pio_zarnitsa.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "eb33b7d321501779ed3b051c25c7abb0e87670a610192630120c35b172270246",
+      "center": "masters/centers/STG_pio_zarnitsa.png"
+    },
+    {
+      "id": "STG_pio_suvorov",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Cadet's black uniform cap with red band, white gloves laid beside.",
+      "master": "masters/focus/STG_pio_suvorov.png",
+      "game": "game/gfx/interface/goals/STG/STG_pio_suvorov.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "fb8afde77347951d4ddc87ae1bbfb426ebd70bce361559795b42f9d0ef53f479",
+      "center": "masters/centers/STG_pio_suvorov.png"
+    },
+    {
+      "id": "STG_ogas_setun",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Computer panel with three big glowing lamps red yellow green, surprised scientist pony behind.",
+      "master": "masters/focus/STG_ogas_setun.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_setun.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "454776a77985e78d16c92030ee1cec6b7b6943036859b39ce1573c5631b92726",
+      "center": "masters/centers/STG_ogas_setun.png"
+    },
+    {
+      "id": "STG_ogas_besm",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Room-sized computer cabinet with glowing valves and magnetic tape reels, unicorn engineer in white coat.",
+      "master": "masters/focus/STG_ogas_besm.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_besm.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "08d69a4c5a69deb1bd43340580075be7c2d4c66ba0b399a910972741babbdf6a",
+      "center": "masters/centers/STG_ogas_besm.png"
+    },
+    {
+      "id": "STG_ogas_cemi",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Blackboard-green disc with glowing golden graph lines and slide rule, professor pony with glasses.",
+      "master": "masters/focus/STG_ogas_cemi.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_cemi.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "8609d6c7ec3848433ab1bc9a35c59edcb39286856d5d0e041ac2544b9b4a8698",
+      "center": "masters/centers/STG_ogas_cemi.png"
+    },
+    {
+      "id": "STG_ogas_gosplan",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Thick plan folder turning into punched tape streaming into computer.",
+      "master": "masters/focus/STG_ogas_gosplan.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_gosplan.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "dab8815748e7b10af2098f0b47d90be40d834adf146989ef5be9071c207dc3cf",
+      "center": "masters/centers/STG_ogas_gosplan.png"
+    },
+    {
+      "id": "STG_bas_northern_forge",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Anvil and hammer in rock cavern, sparks, horseshoe glowing on anvil.",
+      "master": "masters/focus/STG_bas_northern_forge.png",
+      "game": "game/gfx/interface/goals/STG/STG_bas_northern_forge.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7b584ec379612713d4b64de2360100f8a7e84a66db923288c196951f1025444c",
+      "center": "masters/centers/STG_bas_northern_forge.png"
+    },
+    {
+      "id": "STG_gig_two_plus_two",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Monumental stepped pyramidal ministry building of white concrete, single huge watching eye-shaped window, searchlights.",
+      "master": "masters/focus/STG_gig_two_plus_two.png",
+      "game": "game/gfx/interface/goals/STG/STG_gig_two_plus_two.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f6a97e0a5649a80627c0adaf4a5d2e405699ef61f06c6c3cec9f63e3191b5079",
+      "center": "masters/centers/STG_gig_two_plus_two.png"
+    },
+    {
+      "id": "STG_ogas_cashless",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Paper banknote without text dissolving into glowing digital squares above open hoof.",
+      "master": "masters/focus/STG_ogas_cashless.png",
+      "game": "game/gfx/interface/goals/STG/STG_ogas_cashless.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "1e45c1c4c88831f49919871da471791e8e9b20b459d92204b906a370ec0cb89e",
+      "center": "masters/centers/STG_ogas_cashless.png"
+    },
+    {
+      "id": "STG_q_science_towns",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Modern laboratory towers among tall northern pines, small radio dish, glowing window.",
+      "master": "masters/focus/STG_q_science_towns.png",
+      "game": "game/gfx/interface/goals/STG/STG_q_science_towns.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2dff6718b187a2d744434e0cbf7cfa0ef4f59634c7b6bf7f2348bd1830f9d7b7",
+      "center": "masters/centers/STG_q_science_towns.png"
+    },
+    {
+      "id": "STG_wr_coups",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Shadowy pegasus in grey coat at telegraph key, sealed red envelope beside.",
+      "master": "masters/focus/STG_wr_coups.png",
+      "game": "game/gfx/interface/goals/STG/STG_wr_coups.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "305707a88bd8dc08407865890084f45caadd95d6c54d3abfc3f2834aa42b473f",
+      "center": "masters/centers/STG_wr_coups.png"
+    },
+    {
+      "id": "STG_vas_pact",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Steel shield with five small red stars in circle, two crossed rifles behind.",
+      "master": "masters/focus/STG_vas_pact.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_pact.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ba80649e4b6ebecc464005780488a263b4a301fa19e910d227a8f9b15c073aca",
+      "center": "masters/centers/STG_vas_pact.png"
+    },
+    {
+      "id": "STG_vas_comecon",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Five interlocking brass cogwheels of different sizes forming ring.",
+      "master": "masters/focus/STG_vas_comecon.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_comecon.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "eda14e7d6a4893fcaff003e83540f54fef2d9672df267a922bcdb94ef8f85d73",
+      "center": "masters/centers/STG_vas_comecon.png"
+    },
+    {
+      "id": "STG_vas_psychiatry",
+      "type": "focus",
+      "priority": "B",
+      "subject": "White hospital door with small barred window, hanging straitjacket beside, cold blue light.",
+      "master": "masters/focus/STG_vas_psychiatry.png",
+      "game": "game/gfx/interface/goals/STG/STG_vas_psychiatry.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "fa653ba515a94faf3da5433902331ab523145557a15608042c74ab133d116446",
+      "center": "masters/centers/STG_vas_psychiatry.png"
+    },
+    {
+      "id": "STG_sin_labour_armies",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Shovel and rifle crossed, soldier's greatcoat hanging over them.",
+      "master": "masters/focus/STG_sin_labour_armies.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_labour_armies.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2acf20309fb5067a4fae94df3ee31c49ea5158fb2e52fbc515fc102ed13878c3",
+      "center": "masters/centers/STG_sin_labour_armies.png"
+    },
+    {
+      "id": "STG_sin_bunker",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Basement door covered in punk paper flyers without text, original grenade-shaped red-black badge above.",
+      "master": "masters/focus/STG_sin_bunker.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_bunker.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f9aa22ca9f4d6c17fd44b1ca65d84bfd067349875bb178a0e41f0fa82b4e6e14",
+      "center": "masters/centers/STG_sin_bunker.png"
+    },
+    {
+      "id": "STG_sin_posadism",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Small mushroom cloud on distant horizon, three glowing round lights hovering above.",
+      "master": "masters/focus/STG_sin_posadism.png",
+      "game": "game/gfx/interface/goals/STG/STG_sin_posadism.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "0cda14075bfdb608f832b4c21613c7005c2d793594f87bf90d695e6376de7312",
+      "center": "masters/centers/STG_sin_posadism.png"
+    },
+    {
+      "id": "STG_alt_kitchen_maid",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Kitchen ladle crossed with fountain pen over official paper without letters with red seal.",
+      "master": "masters/focus/STG_alt_kitchen_maid.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_kitchen_maid.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "581ba82cd92d688afd77f4110ace9ab800982b28dcc455bca7cf16eb9a243ab3",
+      "center": "masters/centers/STG_alt_kitchen_maid.png"
+    },
+    {
+      "id": "STG_alt_niichavo",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Unicorn horn crackling with blue sparks above laboratory flask and punched tape.",
+      "master": "masters/focus/STG_alt_niichavo.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_niichavo.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f8aab63b6397a1e1e3da3d9d426257eb0508958946480fbc81eb36972fc2a7df",
+      "center": "masters/centers/STG_alt_niichavo.png"
+    },
+    {
+      "id": "STG_alt_tenth_congress",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Many raised hooves holding red voting cards in hall, seen from behind.",
+      "master": "masters/focus/STG_alt_tenth_congress.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_tenth_congress.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2efe304a01ac422c31296c5b4b87e6d4d478e624b018bf8c9c06c006b39571b7",
+      "center": "masters/centers/STG_alt_tenth_congress.png"
+    },
+    {
+      "id": "STG_dw_archipelago",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Barbed wire unwinding and turning into pages of open book.",
+      "master": "masters/focus/STG_dw_archipelago.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_archipelago.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ad8cee12d78a260fcfd18d13d274bf94561fae138f4700d75b08b9fa4e8504cd",
+      "center": "masters/centers/STG_dw_archipelago.png"
+    },
+    {
+      "id": "STG_dw_free_elections",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Transparent ballot box full of folded papers, different coloured ballots on top.",
+      "master": "masters/focus/STG_dw_free_elections.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_free_elections.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "53b6234b9f4753fc3e5bfda7a5a1dcd1c53b5e0f048ca4cd35f55c6733c20157",
+      "center": "masters/centers/STG_dw_free_elections.png"
+    },
+    {
+      "id": "STG_event_security_chief",
+      "type": "event",
+      "priority": "A",
+      "subject": "Officers entering meeting room while pony in rimless glasses rises from seat, thick folder on table. 1953 photo.",
+      "master": "masters/event/STG_event_security_chief.png",
+      "game": "game/gfx/event_pictures/STG_event_security_chief.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7fee7590d4637e19174b7f1ab7913f208108fc6d4d3e3ef2ae814de2442bac73"
+    },
+    {
+      "id": "STG_event_portraits",
+      "type": "event",
+      "priority": "B",
+      "subject": "School corridor, caretaker pony on ladder holding three framed portraits unsure which to hang. 1950s photo.",
+      "master": "masters/event/STG_event_portraits.png",
+      "game": "game/gfx/event_pictures/STG_event_portraits.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "3f1946da72d79f14583b04cf5cf6c461ccb1f996d1726d7e2796d83101348bd5"
+    },
+    {
+      "id": "STG_event_troika",
+      "type": "event",
+      "priority": "A",
+      "subject": "Long session table, central chair empty, three ponies at sides not looking at each other. 1953 photo.",
+      "master": "masters/event/STG_event_troika.png",
+      "game": "game/gfx/event_pictures/STG_event_troika.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "5d4ca477351077eac8b6eeac50093d5e0c58f2996eb16a557d0a7d709808f4ea"
+    },
+    {
+      "id": "STG_event_cold_summer",
+      "type": "event",
+      "priority": "B",
+      "subject": "Small northern river village in summer, released prisoners in padded jackets walking along dirt road. 1950s photo.",
+      "master": "masters/event/STG_event_cold_summer.png",
+      "game": "game/gfx/event_pictures/STG_event_cold_summer.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "be0809305adb527b192d53924b3aa5c5df3f1112d4d3f8901d9a1c49faf0ca6c"
+    },
+    {
+      "id": "STG_event_records",
+      "type": "event",
+      "priority": "A",
+      "subject": "Rally in factory yard, huge rising-arrow poster without text, orchestra, workers cheering. 1958 colour photo.",
+      "master": "masters/event/STG_event_records.png",
+      "game": "game/gfx/event_pictures/STG_event_records.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b4224bd812292dce3195e61e136006f60c6130760407aef977a331318ee51e78"
+    },
+    {
+      "id": "STG_event_this_generation",
+      "type": "event",
+      "priority": "B",
+      "subject": "Congress hall on feet applauding, red banners and stage with giant futuristic city model. 1961 colour photo.",
+      "master": "masters/event/STG_event_this_generation.png",
+      "game": "game/gfx/event_pictures/STG_event_this_generation.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "4d2647f65f6bbb7a7eb07c950cda9e876f2ed7ab2719912dfb93401330ccff9a"
+    },
+    {
+      "id": "STG_event_hangover",
+      "type": "event",
+      "priority": "A",
+      "subject": "Empty shop shelves, long queue outside in rain, dust storm over fields seen through window. 1963 photo.",
+      "master": "masters/event/STG_event_hangover.png",
+      "game": "game/gfx/event_pictures/STG_event_hangover.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a303a650b65f0ec470223ac74f2bc1a4cc172bf7852a75a4935296aa170c84f6"
+    },
+    {
+      "id": "STG_event_ryazan",
+      "type": "event",
+      "priority": "A",
+      "subject": "Empty cowshed, single milking stool, regional secretary's car leaving in background. 1960 photo.",
+      "master": "masters/event/STG_event_ryazan.png",
+      "game": "game/gfx/event_pictures/STG_event_ryazan.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "47df34f075b7339a584bbefe7a9cfd8f6c1e31a60f680cb6765588fa491b1d78"
+    },
+    {
+      "id": "STG_event_famine_map",
+      "type": "event",
+      "priority": "A",
+      "subject": "Official pony pinning black flags to regional map, grain train loaded through window. 1932 photo.",
+      "master": "masters/event/STG_event_famine_map.png",
+      "game": "game/gfx/event_pictures/STG_event_famine_map.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d3474a261a14ed92f0b71e8393940359995a3806415a9c015efc70d3368ec006"
+    },
+    {
+      "id": "STG_event_seed_dispute",
+      "type": "event",
+      "priority": "B",
+      "subject": "Old academic pony with seed jars facing young agronomist pony with wheat sheaf across laboratory table. 1930s photo.",
+      "master": "masters/event/STG_event_seed_dispute.png",
+      "game": "game/gfx/event_pictures/STG_event_seed_dispute.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "c16769ae4be8cf954115903cdc2ed486e6f633d3af361f87601932664b68a4bd"
+    },
+    {
+      "id": "STG_event_academy_debate",
+      "type": "event",
+      "priority": "A",
+      "subject": "Amphitheatre lecture hall packed with pony officers, two speakers at blackboard covered in arrows. 1930s photo.",
+      "master": "masters/event/STG_event_academy_debate.png",
+      "game": "game/gfx/event_pictures/STG_event_academy_debate.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "a08ad366be507a9980c60e1c44c60760ed43a25f1a15fc65b25c15c0e40d541b"
+    },
+    {
+      "id": "STG_event_nowhere_to_retreat",
+      "type": "event",
+      "priority": "A",
+      "subject": "Pony soldiers in snowy trenches outside city, political officer speaking, anti-tank hedgehogs. 1941 photo.",
+      "master": "masters/event/STG_event_nowhere_to_retreat.png",
+      "game": "game/gfx/event_pictures/STG_event_nowhere_to_retreat.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "8157c21045425a31c287557f4ca36befdf1cd329b5b559cdaa7d53f6e194bc50"
+    },
+    {
+      "id": "STG_event_if_war_tomorrow",
+      "type": "event",
+      "priority": "B",
+      "subject": "Cinema audience of ponies leaving hall singing, film poster with tanks without text. 1938 photo.",
+      "master": "masters/event/STG_event_if_war_tomorrow.png",
+      "game": "game/gfx/event_pictures/STG_event_if_war_tomorrow.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "c13f14634fd3fb3953edcd4c25030f5a00a67bc43ab4e7c2df9097f831275dd6"
+    },
+    {
+      "id": "STG_event_congress_of_soviets",
+      "type": "event",
+      "priority": "A",
+      "subject": "Pony delegates in work clothes filling opera house, voting cards raised. 1918 photo.",
+      "master": "masters/event/STG_event_congress_of_soviets.png",
+      "game": "game/gfx/event_pictures/STG_event_congress_of_soviets.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "af72d4f188492e048fd1db176e44fa568fc57fef86a2f380d6fbec78d4131ded"
+    },
+    {
+      "id": "STG_event_factory_committee",
+      "type": "event",
+      "priority": "B",
+      "subject": "Workshop meeting on factory floor, ministry pony clerks in suits standing aside while workers on crates vote. 1920s photo.",
+      "master": "masters/event/STG_event_factory_committee.png",
+      "game": "game/gfx/event_pictures/STG_event_factory_committee.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d4302e5db8d42341010332be3109e792a72a753faf9ed57c44535e817b02cf73"
+    },
+    {
+      "id": "STG_event_gastronom_arrest",
+      "type": "event",
+      "priority": "A",
+      "subject": "Luxurious grocery store back room, pony investigators opening crates of caviar and cash without lettering. 1983 colour photo.",
+      "master": "masters/event/STG_event_gastronom_arrest.png",
+      "game": "game/gfx/event_pictures/STG_event_gastronom_arrest.dds",
+      "master_size": [
+        1050,
+        880
+      ],
+      "game_size": [
+        210,
+        176
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b00992022e8dfc4b862bd591c37f728b13d7c881f3904ed45baee2310e71975d"
+    }
+  ],
+  "omitted_by_user": [
+    {
+      "id": "STG_sov_commune_state",
+      "status": "omitted_by_user",
+      "user_instruction": "\u041f\u0440\u043e\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u043e\u0442\u043a\u043b\u043e\u043d\u0451\u043d\u043d\u044b\u0435",
+      "reason": "Image generator rejected output with moderation_blocked, safety_violations=[abuse]. No asset produced.",
+      "request_id": "a74b0506-9115-4a73-b062-74b5b9b80463",
+      "authorization": "General instruction applies to current and future moderation rejections"
+    },
+    {
+      "id": "STG_pio_young_technicians",
+      "status": "omitted_by_user",
+      "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 80cc1480-2511-40e7-b0ae-aa69d92c4fbf. safety_violations=[violence].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "user_instruction": "\u041f\u0440\u043e\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u043e\u0442\u043a\u043b\u043e\u043d\u0451\u043d\u043d\u044b\u0435",
+      "authorization": "General instruction applies to current and future moderation rejections"
+    },
+    {
+      "id": "STG_event_general_call",
+      "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 517c4014-41b7-4c10-a468-5991e1a46e5d. safety_violations=[abuse].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "status": "omitted_by_user",
+      "user_instruction": "\u041f\u0440\u043e\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u043e\u0442\u043a\u043b\u043e\u043d\u0451\u043d\u043d\u044b\u0435",
+      "authorization": "General instruction applies to current and future moderation rejections"
+    }
+  ],
+  "blocked": [],
+  "pending": [
+    "STG_event_truancy_raid",
+    "STG_event_zheglov",
+    "STG_event_closed_city",
+    "STG_event_dossier_altidiya",
+    "STG_event_dossier_nestor",
+    "STG_event_staff_of_equality",
+    "STG_konzan_heavy",
+    "STG_tupokrylov",
+    "STG_chaika",
+    "STG_glubina",
+    "STG_polar_instrument",
+    "STG_severny_molot",
+    "STG_tyl_workshops",
+    "STG_polyarny_auto",
+    "STG_yastrebok",
+    "STG_northern_yard",
+    "STG_cat_interregnum",
+    "STG_cat_dizzy",
+    "STG_cat_agroprom",
+    "STG_town_rovnya"
+  ],
+  "frame_asset": {
+    "id": "STG_focus_frame",
+    "type": "frame",
+    "master": "masters/STG_focus_frame.png",
+    "master_size": [
+      1024,
+      1024
+    ],
+    "transparent_center": true,
+    "transparent_exterior": true,
+    "sha256": "e47c863dc0a6adc91deface7784b5e4528a099c46c61acce5d656832f7834f25"
+  }
+}
