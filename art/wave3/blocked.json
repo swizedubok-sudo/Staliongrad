@@ -2,7 +2,7 @@
   {
     "id": "STG_sov_commune_state",
     "status": "omitted_by_user",
-    "user_instruction": "\u0420\u045f\u0421\u0402\u0420\u0455\u0420\u0457\u0421\u0453\u0421\u0403\u0420\u0454\u0420\u00b0\u0421\u201a\u0421\u040a \u0420\u0455\u0421\u201a\u0420\u0454\u0420\u00bb\u0420\u0455\u0420\u0405\u0421\u2018\u0420\u0405\u0420\u0405\u0421\u2039\u0420\u00b5",
+    "user_instruction": "\u041f\u0440\u043e\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u043e\u0442\u043a\u043b\u043e\u043d\u0451\u043d\u043d\u044b\u0435",
     "reason": "Image generator rejected output with moderation_blocked, safety_violations=[abuse]. No asset produced.",
     "request_id": "a74b0506-9115-4a73-b062-74b5b9b80463",
     "authorization": "General instruction applies to current and future moderation rejections"
@@ -11,14 +11,14 @@
     "id": "STG_pio_young_technicians",
     "status": "omitted_by_user",
     "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 80cc1480-2511-40e7-b0ae-aa69d92c4fbf. safety_violations=[violence].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")",
-    "user_instruction": "\u0420\u045f\u0421\u0402\u0420\u0455\u0420\u0457\u0421\u0453\u0421\u0403\u0420\u0454\u0420\u00b0\u0421\u201a\u0421\u040a \u0420\u0455\u0421\u201a\u0420\u0454\u0420\u00bb\u0420\u0455\u0420\u0405\u0421\u2018\u0420\u0405\u0420\u0405\u0421\u2039\u0420\u00b5",
+    "user_instruction": "\u041f\u0440\u043e\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u043e\u0442\u043a\u043b\u043e\u043d\u0451\u043d\u043d\u044b\u0435",
     "authorization": "General instruction applies to current and future moderation rejections"
   },
   {
     "id": "STG_event_general_call",
     "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 517c4014-41b7-4c10-a468-5991e1a46e5d. safety_violations=[abuse].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
     "status": "omitted_by_user",
-    "user_instruction": "\u0420\u045f\u0421\u0402\u0420\u0455\u0420\u0457\u0421\u0453\u0421\u0403\u0420\u0454\u0420\u00b0\u0421\u201a\u0421\u040a \u0420\u0455\u0421\u201a\u0420\u0454\u0420\u00bb\u0420\u0455\u0420\u0405\u0421\u2018\u0420\u0405\u0420\u0405\u0421\u2039\u0420\u00b5",
+    "user_instruction": "\u041f\u0440\u043e\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u043e\u0442\u043a\u043b\u043e\u043d\u0451\u043d\u043d\u044b\u0435",
     "authorization": "General instruction applies to current and future moderation rejections"
   }
 ]
