@@ -1,6 +1,6 @@
 {
   "status": "in_progress",
-  "completed_files": 109,
+  "completed_files": 114,
   "total_original_files": 153,
   "effective_required_files": 152,
   "frame": "masters/STG_focus_frame.png",
@@ -22,7 +22,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "e2d71ddf94435c955529f89a8d46712c414947059792cc92c05e8d376d37fc8e"
+      "sha256": "e2d71ddf94435c955529f89a8d46712c414947059792cc92c05e8d376d37fc8e",
+      "center": "masters/centers/STG_int_collective_leadership.png"
     },
     {
       "id": "STG_int_security_chief",
@@ -41,7 +42,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "c30f1df2e7a127f770a34c0e4dd5169ee2a482dd041ab4d866851de0c26b547e"
+      "sha256": "c30f1df2e7a127f770a34c0e4dd5169ee2a482dd041ab4d866851de0c26b547e",
+      "center": "masters/centers/STG_int_security_chief.png"
     },
     {
       "id": "STG_int_platforms",
@@ -60,7 +62,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "3419728334b06f8cac675710c9ec1ab30086859ccba9e3ff123791a70d41bceb"
+      "sha256": "3419728334b06f8cac675710c9ec1ab30086859ccba9e3ff123791a70d41bceb",
+      "center": "masters/centers/STG_int_platforms.png"
     },
     {
       "id": "STG_dz_dizzy",
@@ -79,7 +82,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "3d1d173b25a0b7ac8541465ef898192b88b7ed2928e09f27a91bd73246a8a8d3"
+      "sha256": "3d1d173b25a0b7ac8541465ef898192b88b7ed2928e09f27a91bd73246a8a8d3",
+      "center": "masters/centers/STG_dz_dizzy.png"
     },
     {
       "id": "STG_dz_virgin_lands",
@@ -98,7 +102,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "98ed7e21fc76a393a864ef6e96e2618d682338e3c4a170801e0831f5daf3c3d3"
+      "sha256": "98ed7e21fc76a393a864ef6e96e2618d682338e3c4a170801e0831f5daf3c3d3",
+      "center": "masters/centers/STG_dz_virgin_lands.png"
     },
     {
       "id": "STG_dz_corn",
@@ -117,7 +122,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "a27e19524573e6ebbc5b1284742a3a8596ada183f49c1c2417bc6e488201b286"
+      "sha256": "a27e19524573e6ebbc5b1284742a3a8596ada183f49c1c2417bc6e488201b286",
+      "center": "masters/centers/STG_dz_corn.png"
     },
     {
       "id": "STG_dz_communism",
@@ -136,7 +142,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "ee55c02694ca2c5b2ac0d391f0f19a87a6b804fd1eacc0fcd1a84f2b7da0fb79"
+      "sha256": "ee55c02694ca2c5b2ac0d391f0f19a87a6b804fd1eacc0fcd1a84f2b7da0fb79",
+      "center": "masters/centers/STG_dz_communism.png"
     },
     {
       "id": "STG_mil_doctrine_debate",
@@ -155,7 +162,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "bcfd0e12f921c96aaec0fa93e0019b9c5e016a2b7fcce47200cde10b6887cf4e"
+      "sha256": "bcfd0e12f921c96aaec0fa93e0019b9c5e016a2b7fcce47200cde10b6887cf4e",
+      "center": "masters/centers/STG_mil_doctrine_debate.png"
     },
     {
       "id": "STG_mil_deep_battle",
@@ -174,7 +182,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "4d8e176aa46b77d8f46cfe6f8555aaa90c760bf0acb3a8843bf496bbf570b693"
+      "sha256": "4d8e176aa46b77d8f46cfe6f8555aaa90c760bf0acb3a8843bf496bbf570b693",
+      "center": "masters/centers/STG_mil_deep_battle.png"
     },
     {
       "id": "STG_mil_if_war_tomorrow",
@@ -193,7 +202,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "a7dfa3e833cc9798ae4dfdc8630c19632dddfafd55c2476fcfbe8c3884d64ecb"
+      "sha256": "a7dfa3e833cc9798ae4dfdc8630c19632dddfafd55c2476fcfbe8c3884d64ecb",
+      "center": "masters/centers/STG_mil_if_war_tomorrow.png"
     },
     {
       "id": "STG_mil_no_retreat",
@@ -212,7 +222,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "3c7a7e45e31bd3a8a58b84c43f4957fa55999a890ff17a394f32cba10a9cab87"
+      "sha256": "3c7a7e45e31bd3a8a58b84c43f4957fa55999a890ff17a394f32cba10a9cab87",
+      "center": "masters/centers/STG_mil_no_retreat.png"
     },
     {
       "id": "STG_mil_brain_of_army",
@@ -231,7 +242,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "7875f4dee86373ad9ca07ba29b8dfba83b4b10e182eac6670d6db4e67d304a3e"
+      "sha256": "7875f4dee86373ad9ca07ba29b8dfba83b4b10e182eac6670d6db4e67d304a3e",
+      "center": "masters/centers/STG_mil_brain_of_army.png"
     },
     {
       "id": "STG_sov_red_guard",
@@ -250,7 +262,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "256b654500841b79c9d4424838d69e6c3ec197777cac3be62ab1b294e7169a08"
+      "sha256": "256b654500841b79c9d4424838d69e6c3ec197777cac3be62ab1b294e7169a08",
+      "center": "masters/centers/STG_sov_red_guard.png"
     },
     {
       "id": "STG_sov_self_management",
@@ -269,7 +282,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "25741ced48858e7d63701853036f5f828085c987ff8a7699e62c158f1073273a"
+      "sha256": "25741ced48858e7d63701853036f5f828085c987ff8a7699e62c158f1073273a",
+      "center": "masters/centers/STG_sov_self_management.png"
     },
     {
       "id": "STG_sov_congress",
@@ -288,7 +302,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "130f8951eb9bf6c2abcb5a7b6cde2b83998e46393e629f218ec57146fc6f461b"
+      "sha256": "130f8951eb9bf6c2abcb5a7b6cde2b83998e46393e629f218ec57146fc6f461b",
+      "center": "masters/centers/STG_sov_congress.png"
     },
     {
       "id": "STG_sov_federation",
@@ -307,7 +322,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "1c19deba2982eb35deeafecdddb8e2d3771d21e86345f90b82c6886837c6c4e7"
+      "sha256": "1c19deba2982eb35deeafecdddb8e2d3771d21e86345f90b82c6886837c6c4e7",
+      "center": "masters/centers/STG_sov_federation.png"
     },
     {
       "id": "STG_mil_active_defense",
@@ -326,7 +342,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "bb267281763196ec1eb0c9ec11c8ddbab38e230d04d3dca35dd356744b2ef0fa"
+      "sha256": "bb267281763196ec1eb0c9ec11c8ddbab38e230d04d3dca35dd356744b2ef0fa",
+      "center": "masters/centers/STG_mil_active_defense.png"
     },
     {
       "id": "STG_disc_truancy_raids",
@@ -345,7 +362,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "b08a1855938ede516ac83b9f70b50ef727f5e8af66a52ffeafa79c9c36f3f6a0"
+      "sha256": "b08a1855938ede516ac83b9f70b50ef727f5e8af66a52ffeafa79c9c36f3f6a0",
+      "center": "masters/centers/STG_disc_truancy_raids.png"
     },
     {
       "id": "STG_disc_cotton_case",
@@ -364,7 +382,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "87a5e21ccf564f7969e8bb4852195df4be6d720b89ebcf38887d2d44871e2df7"
+      "sha256": "87a5e21ccf564f7969e8bb4852195df4be6d720b89ebcf38887d2d44871e2df7",
+      "center": "masters/centers/STG_disc_cotton_case.png"
     },
     {
       "id": "STG_disc_iron_order",
@@ -383,7 +402,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "d073154a1c7435ea9a23255155734497a7a42112979a8207a53835d984dccfd4"
+      "sha256": "d073154a1c7435ea9a23255155734497a7a42112979a8207a53835d984dccfd4",
+      "center": "masters/centers/STG_disc_iron_order.png"
     },
     {
       "id": "STG_pio_palaces",
@@ -402,7 +422,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "5cf37a6867bf236b1c8ca26e1c1deacb91f0f275c13305b847b7e8d67cc9776d"
+      "sha256": "5cf37a6867bf236b1c8ca26e1c1deacb91f0f275c13305b847b7e8d67cc9776d",
+      "center": "masters/centers/STG_pio_palaces.png"
     },
     {
       "id": "STG_ogas_red_plenty",
@@ -421,7 +442,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "f02d1f1cdb94ca5863f280d518592a78c772b495ddaf37637af9df1da5529a11"
+      "sha256": "f02d1f1cdb94ca5863f280d518592a78c772b495ddaf37637af9df1da5529a11",
+      "center": "masters/centers/STG_ogas_red_plenty.png"
     },
     {
       "id": "STG_disc_gastronom",
@@ -440,7 +462,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "1a469493acb659dc7505014cb0d1875b6265dbf0e2d075bd391d9085ff896a45"
+      "sha256": "1a469493acb659dc7505014cb0d1875b6265dbf0e2d075bd391d9085ff896a45",
+      "center": "masters/centers/STG_disc_gastronom.png"
     },
     {
       "id": "STG_disc_zheglov",
@@ -459,7 +482,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "1ed4cb0e3ce23c3ff87f43c734f307cfe532332ebb04edaa4160b527fd3536b4"
+      "sha256": "1ed4cb0e3ce23c3ff87f43c734f307cfe532332ebb04edaa4160b527fd3536b4",
+      "center": "masters/centers/STG_disc_zheglov.png"
     },
     {
       "id": "STG_ogas_situation_room",
@@ -478,7 +502,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "b0749daae246c01555c210fbef21fe48d8deeb2f1f15bca87811c8d95d9a385b"
+      "sha256": "b0749daae246c01555c210fbef21fe48d8deeb2f1f15bca87811c8d95d9a385b",
+      "center": "masters/centers/STG_ogas_situation_room.png"
     },
     {
       "id": "STG_market_socialism",
@@ -497,7 +522,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "f10329b68ac7ed50737d5cc2c4443f9d0ba04406529b3c743077c09b13d9ff82"
+      "sha256": "f10329b68ac7ed50737d5cc2c4443f9d0ba04406529b3c743077c09b13d9ff82",
+      "center": "masters/centers/STG_market_socialism.png"
     },
     {
       "id": "STG_perestroika",
@@ -516,7 +542,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "cb80ee692b24e3c6a7ec6044b8a216a2ac254b6184d07f525d77d18817b84392"
+      "sha256": "cb80ee692b24e3c6a7ec6044b8a216a2ac254b6184d07f525d77d18817b84392",
+      "center": "masters/centers/STG_perestroika.png"
     },
     {
       "id": "STG_kosygin_reform",
@@ -535,7 +562,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "3203b630142321a28ecac0a0f5c1a8f97f07d1a12121c8b5c33a65487c554d63"
+      "sha256": "3203b630142321a28ecac0a0f5c1a8f97f07d1a12121c8b5c33a65487c554d63",
+      "center": "masters/centers/STG_kosygin_reform.png"
     },
     {
       "id": "STG_discipline",
@@ -554,7 +582,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "7ff040c786de9a75e4fcbf206e4e40e4df6376460e70410f15fef7710c20bfa1"
+      "sha256": "7ff040c786de9a75e4fcbf206e4e40e4df6376460e70410f15fef7710c20bfa1",
+      "center": "masters/centers/STG_discipline.png"
     },
     {
       "id": "STG_free_soviets",
@@ -573,7 +602,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "40669fdef49535d8b54583a8cbe2e92f88abcb346f8a2ac6159fb0e625ede565"
+      "sha256": "40669fdef49535d8b54583a8cbe2e92f88abcb346f8a2ac6159fb0e625ede565",
+      "center": "masters/centers/STG_free_soviets.png"
     },
     {
       "id": "STG_ind_bases",
@@ -592,7 +622,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "19e26ccae4239b9c5f2d11a27b9eefd7b52cdb4ea5741c2d5e02c62a287e6e0a"
+      "sha256": "19e26ccae4239b9c5f2d11a27b9eefd7b52cdb4ea5741c2d5e02c62a287e6e0a",
+      "center": "masters/centers/STG_ind_bases.png"
     },
     {
       "id": "STG_ind_giganto",
@@ -611,7 +642,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "9e2584c745fab398ce786c6481a0c3ac8746fa523e4ce097107677fcb818b2f6"
+      "sha256": "9e2584c745fab398ce786c6481a0c3ac8746fa523e4ce097107677fcb818b2f6",
+      "center": "masters/centers/STG_ind_giganto.png"
     },
     {
       "id": "STG_pio_artek",
@@ -630,7 +662,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "33bb747801b6be76759fce970a06857d9fd02f25369e8869be9b93d532328f44"
+      "sha256": "33bb747801b6be76759fce970a06857d9fd02f25369e8869be9b93d532328f44",
+      "center": "masters/centers/STG_pio_artek.png"
     },
     {
       "id": "STG_ogas_crystal",
@@ -649,7 +682,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "7d7b40be0a7c3cd1df86041d20433a879df146cf79738a10708bdaa5f9c022dc"
+      "sha256": "7d7b40be0a7c3cd1df86041d20433a879df146cf79738a10708bdaa5f9c022dc",
+      "center": "masters/centers/STG_ogas_crystal.png"
     },
     {
       "id": "STG_ogas_optimal_planning",
@@ -668,7 +702,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "b28235f30fda0847fd7bb1298b0d145c88cc2f2671c8f2031574140702dfbdf0"
+      "sha256": "b28235f30fda0847fd7bb1298b0d145c88cc2f2671c8f2031574140702dfbdf0",
+      "center": "masters/centers/STG_ogas_optimal_planning.png"
     },
     {
       "id": "STG_ogas_red_book",
@@ -687,7 +722,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "cc2aafe7f577b1877ec72a5779d86ca802302a5360af416cbbc436f79e3de6ee"
+      "sha256": "cc2aafe7f577b1877ec72a5779d86ca802302a5360af416cbbc436f79e3de6ee",
+      "center": "masters/centers/STG_ogas_red_book.png"
     },
     {
       "id": "STG_ogas_who_controls",
@@ -706,7 +742,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "ad90aa667de2ba497352e69d3c4b4416a722a19e0b1a4618d3dc7daeb474b59b"
+      "sha256": "ad90aa667de2ba497352e69d3c4b4416a722a19e0b1a4618d3dc7daeb474b59b",
+      "center": "masters/centers/STG_ogas_who_controls.png"
     },
     {
       "id": "STG_ogas",
@@ -725,7 +762,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "957c1c10e82669272a9b21d27754e0d7f36e4e3cc33a80323cfeb03a183f4e7b"
+      "sha256": "957c1c10e82669272a9b21d27754e0d7f36e4e3cc33a80323cfeb03a183f4e7b",
+      "center": "masters/centers/STG_ogas.png"
     },
     {
       "id": "STG_ogas_all_seeing",
@@ -744,7 +782,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "56f716b689b6774233ccdd534a8cfda498018b6442b0b57a596809839e92dcb6"
+      "sha256": "56f716b689b6774233ccdd534a8cfda498018b6442b0b57a596809839e92dcb6",
+      "center": "masters/centers/STG_ogas_all_seeing.png"
     },
     {
       "id": "STG_ind_quality",
@@ -763,7 +802,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "0a0a59b68149c659977fbb4863b9ec6e88ee42039f0d2667a3411033616bc9fc"
+      "sha256": "0a0a59b68149c659977fbb4863b9ec6e88ee42039f0d2667a3411033616bc9fc",
+      "center": "masters/centers/STG_ind_quality.png"
     },
     {
       "id": "STG_wr_comintern",
@@ -782,7 +822,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "0c820b51e92d482251e1d0407e3930a6185106faf14bb1120e97a7f9d15c2f54"
+      "sha256": "0c820b51e92d482251e1d0407e3930a6185106faf14bb1120e97a7f9d15c2f54",
+      "center": "masters/centers/STG_wr_comintern.png"
     },
     {
       "id": "STG_wr_liberation",
@@ -801,7 +842,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "f9a21f2d75cc3b9c7d8aa37a0701cc96f377be7d3231bcbe3f0658b07bf8e0f0"
+      "sha256": "f9a21f2d75cc3b9c7d8aa37a0701cc96f377be7d3231bcbe3f0658b07bf8e0f0",
+      "center": "masters/centers/STG_wr_liberation.png"
     },
     {
       "id": "STG_wr_doomsday",
@@ -820,7 +862,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "01d8dded3d8b07ae85fe81eb35ad8cb4be83862892250993a00f63664f1fcb4c"
+      "sha256": "01d8dded3d8b07ae85fe81eb35ad8cb4be83862892250993a00f63664f1fcb4c",
+      "center": "masters/centers/STG_wr_doomsday.png"
     },
     {
       "id": "STG_wr_world_soviets",
@@ -839,7 +882,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "660bd0777002f50783f05f642dc2966e965722e22bfdde11fab6c74be4a205ba"
+      "sha256": "660bd0777002f50783f05f642dc2966e965722e22bfdde11fab6c74be4a205ba",
+      "center": "masters/centers/STG_wr_world_soviets.png"
     },
     {
       "id": "STG_vas_socialist_camp",
@@ -858,7 +902,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "ea572ebc386f0c4758a34a9e380035dd86c029bcd2c69f51e087db523dd4051a"
+      "sha256": "ea572ebc386f0c4758a34a9e380035dd86c029bcd2c69f51e087db523dd4051a",
+      "center": "masters/centers/STG_vas_socialist_camp.png"
     },
     {
       "id": "STG_vas_anadyr",
@@ -877,7 +922,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "d68976bb958fbf2d34b3d56e8bb786b7bcf22325d063bc12fe824d7143e3b982"
+      "sha256": "d68976bb958fbf2d34b3d56e8bb786b7bcf22325d063bc12fe824d7143e3b982",
+      "center": "masters/centers/STG_vas_anadyr.png"
     },
     {
       "id": "STG_vas_projects",
@@ -896,7 +942,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "32fed0bc726f0211f26bc493d57741613127a21d8189bbf14691d9507111c21d"
+      "sha256": "32fed0bc726f0211f26bc493d57741613127a21d8189bbf14691d9507111c21d",
+      "center": "masters/centers/STG_vas_projects.png"
     },
     {
       "id": "STG_vas_dear_comrade",
@@ -915,7 +962,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "2737839d8e7e91584ebf83e4d5618f56b8f36704b9f14653165ad0a8cc006e62"
+      "sha256": "2737839d8e7e91584ebf83e4d5618f56b8f36704b9f14653165ad0a8cc006e62",
+      "center": "masters/centers/STG_vas_dear_comrade.png"
     },
     {
       "id": "STG_sin_permanent_revolution",
@@ -934,7 +982,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "1135f8e1d3c36ad6ff2e71402352566bdeaff092a8d6b41bd21264d5b7e6260d"
+      "sha256": "1135f8e1d3c36ad6ff2e71402352566bdeaff092a8d6b41bd21264d5b7e6260d",
+      "center": "masters/centers/STG_sin_permanent_revolution.png"
     },
     {
       "id": "STG_sin_red_north",
@@ -953,7 +1002,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "1d9bebcbbb1b6ba69afd356f31fde0dac5232155deef725f044b859de1f798e5"
+      "sha256": "1d9bebcbbb1b6ba69afd356f31fde0dac5232155deef725f044b859de1f798e5",
+      "center": "masters/centers/STG_sin_red_north.png"
     },
     {
       "id": "STG_sin_armored_train",
@@ -972,7 +1022,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "a6e81a6938cdd8ba71b0a4300745baef229e318d9fca18909b8d074b4a869359"
+      "sha256": "a6e81a6938cdd8ba71b0a4300745baef229e318d9fca18909b8d074b4a869359",
+      "center": "masters/centers/STG_sin_armored_train.png"
     },
     {
       "id": "STG_alt_state_and_revolution",
@@ -991,7 +1042,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "1d53af2c213c764ce471d94a68da7ae210d1bedd7e881efeb7ad26c80c7ac234"
+      "sha256": "1d53af2c213c764ce471d94a68da7ae210d1bedd7e881efeb7ad26c80c7ac234",
+      "center": "masters/centers/STG_alt_state_and_revolution.png"
     },
     {
       "id": "STG_alt_letter_to_congress",
@@ -1010,7 +1062,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "943b7ae15a598dd5d5e728fa19d8070160110279cd887d1daa115343142e9275"
+      "sha256": "943b7ae15a598dd5d5e728fa19d8070160110279cd887d1daa115343142e9275",
+      "center": "masters/centers/STG_alt_letter_to_congress.png"
     },
     {
       "id": "STG_alt_goelro",
@@ -1029,7 +1082,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "2e89fd93d734755ed5e03f273b832ae717dfaf1d4491c3c8170c8331c055587f"
+      "sha256": "2e89fd93d734755ed5e03f273b832ae717dfaf1d4491c3c8170c8331c055587f",
+      "center": "masters/centers/STG_alt_goelro.png"
     },
     {
       "id": "STG_dw_process",
@@ -1048,7 +1102,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "ea3460aa0babff526bdea029513288d27c00950e10de179eb68e3b7319f4004b"
+      "sha256": "ea3460aa0babff526bdea029513288d27c00950e10de179eb68e3b7319f4004b",
+      "center": "masters/centers/STG_dw_process.png"
     },
     {
       "id": "STG_dw_new_thinking",
@@ -1067,7 +1122,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "76c0cf958854283e7087d47c205eaeddc82cafcabc1ad54dc9e2610d07bb816b"
+      "sha256": "76c0cf958854283e7087d47c205eaeddc82cafcabc1ad54dc9e2610d07bb816b",
+      "center": "masters/centers/STG_dw_new_thinking.png"
     },
     {
       "id": "STG_dw_glasnost",
@@ -1086,7 +1142,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "ae88c566ab08b25ca9e8de3d941da51e523c3111ac82fc2cc8b3033d2e97310f"
+      "sha256": "ae88c566ab08b25ca9e8de3d941da51e523c3111ac82fc2cc8b3033d2e97310f",
+      "center": "masters/centers/STG_dw_glasnost.png"
     },
     {
       "id": "STG_dw_union_treaty",
@@ -1105,7 +1162,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "e8ba910a920c58d8ff2dccbd3c9bd546f5df953f39596dbe1fedb6e6b72667a5"
+      "sha256": "e8ba910a920c58d8ff2dccbd3c9bd546f5df953f39596dbe1fedb6e6b72667a5",
+      "center": "masters/centers/STG_dw_union_treaty.png"
     },
     {
       "id": "STG_int_party_enrollment",
@@ -1124,7 +1182,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "73b69cd35bb7f3bfe84b2083b26e1b079ec3644c2d377d6f8ef146cfb77e5e06"
+      "sha256": "73b69cd35bb7f3bfe84b2083b26e1b079ec3644c2d377d6f8ef146cfb77e5e06",
+      "center": "masters/centers/STG_int_party_enrollment.png"
     },
     {
       "id": "STG_int_army_outside",
@@ -1143,7 +1202,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "8cf19e91a63dead322faec5167f9a3ba8d8fd82668220a5e28e3490ce80c8c09"
+      "sha256": "8cf19e91a63dead322faec5167f9a3ba8d8fd82668220a5e28e3490ce80c8c09",
+      "center": "masters/centers/STG_int_army_outside.png"
     },
     {
       "id": "STG_int_apparatus",
@@ -1162,7 +1222,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "4c8aec53ef6f8e32f626793fba95e65285f9402a444cd56d092308c18ec402d3"
+      "sha256": "4c8aec53ef6f8e32f626793fba95e65285f9402a444cd56d092308c18ec402d3",
+      "center": "masters/centers/STG_int_apparatus.png"
     },
     {
       "id": "STG_int_amnesty",
@@ -1181,7 +1242,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "420af6c498fc9af5ceae5dee3a0244c378df8a2fa078a759b3dda4e3d84455ab"
+      "sha256": "420af6c498fc9af5ceae5dee3a0244c378df8a2fa078a759b3dda4e3d84455ab",
+      "center": "masters/centers/STG_int_amnesty.png"
     },
     {
       "id": "STG_dz_catch_up",
@@ -1200,7 +1262,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "764e0c0cb54dcac8f69abcbb94595faa4e8c43d2c58057eb7c2cea52c6e2a4e9"
+      "sha256": "764e0c0cb54dcac8f69abcbb94595faa4e8c43d2c58057eb7c2cea52c6e2a4e9",
+      "center": "masters/centers/STG_dz_catch_up.png"
     },
     {
       "id": "STG_sin_equusianism",
@@ -1219,7 +1282,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "9398904d89d00a8db199e750829da6f23950861b5e94500924df359224a0d393"
+      "sha256": "9398904d89d00a8db199e750829da6f23950861b5e94500924df359224a0d393",
+      "center": "masters/centers/STG_sin_equusianism.png"
     },
     {
       "id": "STG_dz_ryazan",
@@ -1238,7 +1302,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "8e1d1af68b1144b06456bf229c4956c933d8890e136f5e5f62f86e3fe31d1916"
+      "sha256": "8e1d1af68b1144b06456bf229c4956c933d8890e136f5e5f62f86e3fe31d1916",
+      "center": "masters/centers/STG_dz_ryazan.png"
     },
     {
       "id": "STG_dz_soft_landing",
@@ -1257,7 +1322,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "3e7ddfa364311e216ca05928c5a09ae90cecbc2ecce15d5515b7c9095dca3d43"
+      "sha256": "3e7ddfa364311e216ca05928c5a09ae90cecbc2ecce15d5515b7c9095dca3d43",
+      "center": "masters/centers/STG_dz_soft_landing.png"
     },
     {
       "id": "STG_dz_fix_errors",
@@ -1276,7 +1342,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "517ab091017a15c19fe14bfa85207bd6511e80db37f5106a2cdac9003485154c"
+      "sha256": "517ab091017a15c19fe14bfa85207bd6511e80db37f5106a2cdac9003485154c",
+      "center": "masters/centers/STG_dz_fix_errors.png"
     },
     {
       "id": "STG_mil_mech_corps",
@@ -1295,7 +1362,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "aa86962594a0c6da88a196182a168ae244cde6d941c1ef5bfb7fe9689d46d719"
+      "sha256": "aa86962594a0c6da88a196182a168ae244cde6d941c1ef5bfb7fe9689d46d719",
+      "center": "masters/centers/STG_mil_mech_corps.png"
     },
     {
       "id": "STG_mil_shock_armies",
@@ -1314,7 +1382,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "b90c31fbc2d4b6e29825f2bb8818a42de0fe0728eb763c3b7ecc6f08baddac56"
+      "sha256": "b90c31fbc2d4b6e29825f2bb8818a42de0fe0728eb763c3b7ecc6f08baddac56",
+      "center": "masters/centers/STG_mil_shock_armies.png"
     },
     {
       "id": "STG_mil_airborne",
@@ -1333,7 +1402,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "255ff94d35332629d7867dff9d5c37f888f34e211695dc9e1a703ce49d67dad1"
+      "sha256": "255ff94d35332629d7867dff9d5c37f888f34e211695dc9e1a703ce49d67dad1",
+      "center": "masters/centers/STG_mil_airborne.png"
     },
     {
       "id": "STG_mil_god_of_war",
@@ -1352,7 +1422,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "90e548bc3c0c11ed12503cb5b7e1f4d6309660daa9f78aa5b71389c077edae1c"
+      "sha256": "90e548bc3c0c11ed12503cb5b7e1f4d6309660daa9f78aa5b71389c077edae1c",
+      "center": "masters/centers/STG_mil_god_of_war.png"
     },
     {
       "id": "STG_mil_northern_rampart",
@@ -1371,7 +1442,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "9b9f0e3719b08fcb89ee98fa98dc1e01b59affc050937ee424439c996477628c"
+      "sha256": "9b9f0e3719b08fcb89ee98fa98dc1e01b59affc050937ee424439c996477628c",
+      "center": "masters/centers/STG_mil_northern_rampart.png"
     },
     {
       "id": "STG_mil_all_for_front",
@@ -1390,7 +1462,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "fe16c01d097b1c5f9de7aed33dac2aff3f70bb73ddce3f3ddbfbc7200632d6c4"
+      "sha256": "fe16c01d097b1c5f9de7aed33dac2aff3f70bb73ddce3f3ddbfbc7200632d6c4",
+      "center": "masters/centers/STG_mil_all_for_front.png"
     },
     {
       "id": "STG_mil_defense_in_depth",
@@ -1409,7 +1482,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "c531a32549d2f9356d3afff436f7865d87589c741cc78d501e722c139a51f281"
+      "sha256": "c531a32549d2f9356d3afff436f7865d87589c741cc78d501e722c139a51f281",
+      "center": "masters/centers/STG_mil_defense_in_depth.png"
     },
     {
       "id": "STG_mil_people_avengers",
@@ -1428,7 +1502,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "36ebd1d1fb2c0a93c8c7de2358955071827a0b0baf5d3837994c85e5bd682d3d"
+      "sha256": "36ebd1d1fb2c0a93c8c7de2358955071827a0b0baf5d3837994c85e5bd682d3d",
+      "center": "masters/centers/STG_mil_people_avengers.png"
     },
     {
       "id": "STG_sov_village_soviets",
@@ -1447,7 +1522,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "46c06ed2115ba56f9c7d5b53196c904d0764fc39638344320ad9fb03c634697e"
+      "sha256": "46c06ed2115ba56f9c7d5b53196c904d0764fc39638344320ad9fb03c634697e",
+      "center": "masters/centers/STG_sov_village_soviets.png"
     },
     {
       "id": "STG_mil_northern_yard",
@@ -1466,7 +1542,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "9b9e86a015629c66519e646dc010449bc493b19dc9af7386df827bb37e48eb38"
+      "sha256": "9b9e86a015629c66519e646dc010449bc493b19dc9af7386df827bb37e48eb38",
+      "center": "masters/centers/STG_mil_northern_yard.png"
     },
     {
       "id": "STG_mil_hawks",
@@ -1485,7 +1562,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "16cc7cfb279a3a67494178fb1e870aea5a616b8956dfdac8bb6cc45556c82fbb"
+      "sha256": "16cc7cfb279a3a67494178fb1e870aea5a616b8956dfdac8bb6cc45556c82fbb",
+      "center": "masters/centers/STG_mil_hawks.png"
     },
     {
       "id": "STG_sov_chervonets",
@@ -1504,7 +1582,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "60ee6e87d78bca907ced90a48cac2b22f9b3254107dfa10f33e5fb56a8ecac24"
+      "sha256": "60ee6e87d78bca907ced90a48cac2b22f9b3254107dfa10f33e5fb56a8ecac24",
+      "center": "masters/centers/STG_sov_chervonets.png"
     },
     {
       "id": "STG_sov_free_press",
@@ -1523,7 +1602,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "caef2e01d5c6c03df642c03f3745bcf2418acb40c38f711fa50a6d477fdca640"
+      "sha256": "caef2e01d5c6c03df642c03f3745bcf2418acb40c38f711fa50a6d477fdca640",
+      "center": "masters/centers/STG_sov_free_press.png"
     },
     {
       "id": "STG_sov_open_sessions",
@@ -1542,7 +1622,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "fbbdfe49a0434e34f63aed169b3fb8e8478f6d3070ffd025cdc73fa7f20612a7"
+      "sha256": "fbbdfe49a0434e34f63aed169b3fb8e8478f6d3070ffd025cdc73fa7f20612a7",
+      "center": "masters/centers/STG_sov_open_sessions.png"
     },
     {
       "id": "STG_sov_rotation",
@@ -1561,7 +1642,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "5c75db44d1ed3ec1d9d14a50131c8bf49bae7ff8da7e2e71803c5cbd2d67acde"
+      "sha256": "5c75db44d1ed3ec1d9d14a50131c8bf49bae7ff8da7e2e71803c5cbd2d67acde",
+      "center": "masters/centers/STG_sov_rotation.png"
     },
     {
       "id": "STG_sov_elected_commanders",
@@ -1580,7 +1662,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "ccd4e5f13acbb569082519d417a95202608a2d595fe58bc1dcc7a56ec4c8d05b"
+      "sha256": "ccd4e5f13acbb569082519d417a95202608a2d595fe58bc1dcc7a56ec4c8d05b",
+      "center": "masters/centers/STG_sov_elected_commanders.png"
     },
     {
       "id": "STG_disc_labour_norms",
@@ -1599,7 +1682,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "7efa5d1cc6ee221f27b3b5d14d19d2f344aa2f92d09115bd2360fd04141e277f"
+      "sha256": "7efa5d1cc6ee221f27b3b5d14d19d2f344aa2f92d09115bd2360fd04141e277f",
+      "center": "masters/centers/STG_disc_labour_norms.png"
     },
     {
       "id": "STG_sov_peoples_army",
@@ -1618,7 +1702,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "e2ff539bfc01be99c244da34ccce928450dffdbbbd65c17a321f502fc3967a2f"
+      "sha256": "e2ff539bfc01be99c244da34ccce928450dffdbbbd65c17a321f502fc3967a2f",
+      "center": "masters/centers/STG_sov_peoples_army.png"
     },
     {
       "id": "STG_disc_subbotnik",
@@ -1637,7 +1722,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "b0656e58f4adfd2a8968093c537c9ad64b4ac64d8e113fc754e502b398225328"
+      "sha256": "b0656e58f4adfd2a8968093c537c9ad64b4ac64d8e113fc754e502b398225328",
+      "center": "masters/centers/STG_disc_subbotnik.png"
     },
     {
       "id": "STG_disc_honor_board",
@@ -1656,7 +1742,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "eb26ac587e2f3e1077c1465bbe98d0f58b0d333119782dd172155942c5fc50b5"
+      "sha256": "eb26ac587e2f3e1077c1465bbe98d0f58b0d333119782dd172155942c5fc50b5",
+      "center": "masters/centers/STG_disc_honor_board.png"
     },
     {
       "id": "STG_disc_fifth_directorate",
@@ -1675,7 +1762,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "31a94206ba04262f5a83b5af9f82a8a714e128ddcf833ea1f83eaf6cf26a371b"
+      "sha256": "31a94206ba04262f5a83b5af9f82a8a714e128ddcf833ea1f83eaf6cf26a371b",
+      "center": "masters/centers/STG_disc_fifth_directorate.png"
     },
     {
       "id": "STG_disc_people_control",
@@ -1694,7 +1782,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "f3f4236e7e00c69be9ecc4d652bf832024d94b266ee2cfeb6e0cf90dd80e8310"
+      "sha256": "f3f4236e7e00c69be9ecc4d652bf832024d94b266ee2cfeb6e0cf90dd80e8310",
+      "center": "masters/centers/STG_disc_people_control.png"
     },
     {
       "id": "STG_disc_jamming",
@@ -1713,7 +1802,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "d8f71965b9da1ef9d8eeba70d4c7034ba2e76c251390d75808484bd80636ef33"
+      "sha256": "d8f71965b9da1ef9d8eeba70d4c7034ba2e76c251390d75808484bd80636ef33",
+      "center": "masters/centers/STG_disc_jamming.png"
     },
     {
       "id": "STG_disc_closed_cities",
@@ -1732,7 +1822,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "71cb3e2e82e8f0f915040838bde93c1bce9f64104eda2f136578f8335c395e88"
+      "sha256": "71cb3e2e82e8f0f915040838bde93c1bce9f64104eda2f136578f8335c395e88",
+      "center": "masters/centers/STG_disc_closed_cities.png"
     },
     {
       "id": "STG_pio_zarnitsa",
@@ -1751,7 +1842,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "eb33b7d321501779ed3b051c25c7abb0e87670a610192630120c35b172270246"
+      "sha256": "eb33b7d321501779ed3b051c25c7abb0e87670a610192630120c35b172270246",
+      "center": "masters/centers/STG_pio_zarnitsa.png"
     },
     {
       "id": "STG_pio_suvorov",
@@ -1770,7 +1862,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "fb8afde77347951d4ddc87ae1bbfb426ebd70bce361559795b42f9d0ef53f479"
+      "sha256": "fb8afde77347951d4ddc87ae1bbfb426ebd70bce361559795b42f9d0ef53f479",
+      "center": "masters/centers/STG_pio_suvorov.png"
     },
     {
       "id": "STG_ogas_setun",
@@ -1789,7 +1882,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "454776a77985e78d16c92030ee1cec6b7b6943036859b39ce1573c5631b92726"
+      "sha256": "454776a77985e78d16c92030ee1cec6b7b6943036859b39ce1573c5631b92726",
+      "center": "masters/centers/STG_ogas_setun.png"
     },
     {
       "id": "STG_ogas_besm",
@@ -1808,7 +1902,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "08d69a4c5a69deb1bd43340580075be7c2d4c66ba0b399a910972741babbdf6a"
+      "sha256": "08d69a4c5a69deb1bd43340580075be7c2d4c66ba0b399a910972741babbdf6a",
+      "center": "masters/centers/STG_ogas_besm.png"
     },
     {
       "id": "STG_ogas_cemi",
@@ -1827,7 +1922,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "8609d6c7ec3848433ab1bc9a35c59edcb39286856d5d0e041ac2544b9b4a8698"
+      "sha256": "8609d6c7ec3848433ab1bc9a35c59edcb39286856d5d0e041ac2544b9b4a8698",
+      "center": "masters/centers/STG_ogas_cemi.png"
     },
     {
       "id": "STG_ogas_gosplan",
@@ -1846,7 +1942,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "dab8815748e7b10af2098f0b47d90be40d834adf146989ef5be9071c207dc3cf"
+      "sha256": "dab8815748e7b10af2098f0b47d90be40d834adf146989ef5be9071c207dc3cf",
+      "center": "masters/centers/STG_ogas_gosplan.png"
     },
     {
       "id": "STG_bas_northern_forge",
@@ -1865,7 +1962,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "7b584ec379612713d4b64de2360100f8a7e84a66db923288c196951f1025444c"
+      "sha256": "7b584ec379612713d4b64de2360100f8a7e84a66db923288c196951f1025444c",
+      "center": "masters/centers/STG_bas_northern_forge.png"
     },
     {
       "id": "STG_gig_two_plus_two",
@@ -1884,7 +1982,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "f6a97e0a5649a80627c0adaf4a5d2e405699ef61f06c6c3cec9f63e3191b5079"
+      "sha256": "f6a97e0a5649a80627c0adaf4a5d2e405699ef61f06c6c3cec9f63e3191b5079",
+      "center": "masters/centers/STG_gig_two_plus_two.png"
     },
     {
       "id": "STG_ogas_cashless",
@@ -1903,7 +2002,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "1e45c1c4c88831f49919871da471791e8e9b20b459d92204b906a370ec0cb89e"
+      "sha256": "1e45c1c4c88831f49919871da471791e8e9b20b459d92204b906a370ec0cb89e",
+      "center": "masters/centers/STG_ogas_cashless.png"
     },
     {
       "id": "STG_q_science_towns",
@@ -1922,7 +2022,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "2dff6718b187a2d744434e0cbf7cfa0ef4f59634c7b6bf7f2348bd1830f9d7b7"
+      "sha256": "2dff6718b187a2d744434e0cbf7cfa0ef4f59634c7b6bf7f2348bd1830f9d7b7",
+      "center": "masters/centers/STG_q_science_towns.png"
     },
     {
       "id": "STG_wr_coups",
@@ -1941,7 +2042,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "305707a88bd8dc08407865890084f45caadd95d6c54d3abfc3f2834aa42b473f"
+      "sha256": "305707a88bd8dc08407865890084f45caadd95d6c54d3abfc3f2834aa42b473f",
+      "center": "masters/centers/STG_wr_coups.png"
     },
     {
       "id": "STG_vas_pact",
@@ -1960,7 +2062,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "ba80649e4b6ebecc464005780488a263b4a301fa19e910d227a8f9b15c073aca"
+      "sha256": "ba80649e4b6ebecc464005780488a263b4a301fa19e910d227a8f9b15c073aca",
+      "center": "masters/centers/STG_vas_pact.png"
     },
     {
       "id": "STG_vas_comecon",
@@ -1979,7 +2082,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "eda14e7d6a4893fcaff003e83540f54fef2d9672df267a922bcdb94ef8f85d73"
+      "sha256": "eda14e7d6a4893fcaff003e83540f54fef2d9672df267a922bcdb94ef8f85d73",
+      "center": "masters/centers/STG_vas_comecon.png"
     },
     {
       "id": "STG_vas_psychiatry",
@@ -1998,7 +2102,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "fa653ba515a94faf3da5433902331ab523145557a15608042c74ab133d116446"
+      "sha256": "fa653ba515a94faf3da5433902331ab523145557a15608042c74ab133d116446",
+      "center": "masters/centers/STG_vas_psychiatry.png"
     },
     {
       "id": "STG_sin_labour_armies",
@@ -2017,7 +2122,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "2acf20309fb5067a4fae94df3ee31c49ea5158fb2e52fbc515fc102ed13878c3"
+      "sha256": "2acf20309fb5067a4fae94df3ee31c49ea5158fb2e52fbc515fc102ed13878c3",
+      "center": "masters/centers/STG_sin_labour_armies.png"
     },
     {
       "id": "STG_sin_bunker",
@@ -2036,7 +2142,8 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "f9aa22ca9f4d6c17fd44b1ca65d84bfd067349875bb178a0e41f0fa82b4e6e14"
+      "sha256": "f9aa22ca9f4d6c17fd44b1ca65d84bfd067349875bb178a0e41f0fa82b4e6e14",
+      "center": "masters/centers/STG_sin_bunker.png"
     },
     {
       "id": "STG_sin_posadism",
@@ -2055,7 +2162,108 @@
       ],
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
-      "sha256": "0cda14075bfdb608f832b4c21613c7005c2d793594f87bf90d695e6376de7312"
+      "sha256": "0cda14075bfdb608f832b4c21613c7005c2d793594f87bf90d695e6376de7312",
+      "center": "masters/centers/STG_sin_posadism.png"
+    },
+    {
+      "id": "STG_alt_kitchen_maid",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Kitchen ladle crossed with fountain pen over official paper without letters with red seal.",
+      "master": "masters/focus/STG_alt_kitchen_maid.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_kitchen_maid.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "581ba82cd92d688afd77f4110ace9ab800982b28dcc455bca7cf16eb9a243ab3",
+      "center": "masters/centers/STG_alt_kitchen_maid.png"
+    },
+    {
+      "id": "STG_alt_niichavo",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Unicorn horn crackling with blue sparks above laboratory flask and punched tape.",
+      "master": "masters/focus/STG_alt_niichavo.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_niichavo.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f8aab63b6397a1e1e3da3d9d426257eb0508958946480fbc81eb36972fc2a7df",
+      "center": "masters/centers/STG_alt_niichavo.png"
+    },
+    {
+      "id": "STG_alt_tenth_congress",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Many raised hooves holding red voting cards in hall, seen from behind.",
+      "master": "masters/focus/STG_alt_tenth_congress.png",
+      "game": "game/gfx/interface/goals/STG/STG_alt_tenth_congress.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "2efe304a01ac422c31296c5b4b87e6d4d478e624b018bf8c9c06c006b39571b7",
+      "center": "masters/centers/STG_alt_tenth_congress.png"
+    },
+    {
+      "id": "STG_dw_archipelago",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Barbed wire unwinding and turning into pages of open book.",
+      "master": "masters/focus/STG_dw_archipelago.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_archipelago.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ad8cee12d78a260fcfd18d13d274bf94561fae138f4700d75b08b9fa4e8504cd",
+      "center": "masters/centers/STG_dw_archipelago.png"
+    },
+    {
+      "id": "STG_dw_free_elections",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Transparent ballot box full of folded papers, different coloured ballots on top.",
+      "master": "masters/focus/STG_dw_free_elections.png",
+      "game": "game/gfx/interface/goals/STG/STG_dw_free_elections.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "53b6234b9f4753fc3e5bfda7a5a1dcd1c53b5e0f048ca4cd35f55c6733c20157",
+      "center": "masters/centers/STG_dw_free_elections.png"
     }
   ],
   "omitted_by_user": [
@@ -2075,11 +2283,6 @@
     }
   ],
   "pending": [
-    "STG_alt_tenth_congress",
-    "STG_alt_kitchen_maid",
-    "STG_alt_niichavo",
-    "STG_dw_archipelago",
-    "STG_dw_free_elections",
     "STG_event_troika",
     "STG_event_security_chief",
     "STG_event_cold_summer",
@@ -2117,5 +2320,17 @@
     "STG_cat_dizzy",
     "STG_cat_agroprom",
     "STG_town_rovnya"
-  ]
+  ],
+  "frame_asset": {
+    "id": "STG_focus_frame",
+    "type": "frame",
+    "master": "masters/STG_focus_frame.png",
+    "master_size": [
+      1024,
+      1024
+    ],
+    "transparent_center": true,
+    "transparent_exterior": true,
+    "sha256": "e47c863dc0a6adc91deface7784b5e4528a099c46c61acce5d656832f7834f25"
+  }
 }
