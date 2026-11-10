@@ -1,6 +1,6 @@
 {
   "status": "in_progress",
-  "completed_files": 80,
+  "completed_files": 94,
   "total_original_files": 153,
   "effective_required_files": 152,
   "frame": "masters/STG_focus_frame.png",
@@ -1505,6 +1505,272 @@
       "format": "DDS BC3/DXT5",
       "mipmaps": 0,
       "sha256": "60ee6e87d78bca907ced90a48cac2b22f9b3254107dfa10f33e5fb56a8ecac24"
+    },
+    {
+      "id": "STG_sov_free_press",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Hand printing press with fresh sheets, grey lines only, hanging to dry.",
+      "master": "masters/focus/STG_sov_free_press.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_free_press.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "caef2e01d5c6c03df642c03f3745bcf2418acb40c38f711fa50a6d477fdca640"
+    },
+    {
+      "id": "STG_sov_open_sessions",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Wide open double doors of council hall with ponies streaming in.",
+      "master": "masters/focus/STG_sov_open_sessions.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_open_sessions.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "fbbdfe49a0434e34f63aed169b3fb8e8478f6d3070ffd025cdc73fa7f20612a7"
+    },
+    {
+      "id": "STG_sov_rotation",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Wooden blank nameplate holder on desk turning like revolving door.",
+      "master": "masters/focus/STG_sov_rotation.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_rotation.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "5c75db44d1ed3ec1d9d14a50131c8bf49bae7ff8da7e2e71803c5cbd2d67acde"
+    },
+    {
+      "id": "STG_sov_elected_commanders",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Soldier ponies in greatcoats raising rifles to vote around officer pony.",
+      "master": "masters/focus/STG_sov_elected_commanders.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_elected_commanders.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "ccd4e5f13acbb569082519d417a95202608a2d595fe58bc1dcc7a56ec4c8d05b"
+    },
+    {
+      "id": "STG_disc_labour_norms",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Stopwatch hanging over factory conveyor belt, no numbers.",
+      "master": "masters/focus/STG_disc_labour_norms.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_labour_norms.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "7efa5d1cc6ee221f27b3b5d14d19d2f344aa2f92d09115bd2360fd04141e277f"
+    },
+    {
+      "id": "STG_sov_peoples_army",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Column of pony militia in mismatched coats marching with red banner.",
+      "master": "masters/focus/STG_sov_peoples_army.png",
+      "game": "game/gfx/interface/goals/STG/STG_sov_peoples_army.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "e2ff539bfc01be99c244da34ccce928450dffdbbbd65c17a321f502fc3967a2f"
+    },
+    {
+      "id": "STG_disc_subbotnik",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Ponies carrying log together in spring yard, red banner on fence.",
+      "master": "masters/focus/STG_disc_subbotnik.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_subbotnik.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "b0656e58f4adfd2a8968093c537c9ad64b4ac64d8e113fc754e502b398225328"
+    },
+    {
+      "id": "STG_disc_honor_board",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Wooden honour board with rows of blank portrait frames and red star on top.",
+      "master": "masters/focus/STG_disc_honor_board.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_honor_board.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "eb26ac587e2f3e1077c1465bbe98d0f58b0d333119782dd172155942c5fc50b5"
+    },
+    {
+      "id": "STG_disc_fifth_directorate",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Typewriter under desk lamp with carbon copy sheet, dossier stamp without text.",
+      "master": "masters/focus/STG_disc_fifth_directorate.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_fifth_directorate.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "31a94206ba04262f5a83b5af9f82a8a714e128ddcf833ea1f83eaf6cf26a371b"
+    },
+    {
+      "id": "STG_disc_people_control",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Magnifying glass over warehouse ledger without text.",
+      "master": "masters/focus/STG_disc_people_control.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_people_control.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "f3f4236e7e00c69be9ecc4d652bf832024d94b266ee2cfeb6e0cf90dd80e8310"
+    },
+    {
+      "id": "STG_disc_jamming",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Radio mast spraying zigzag interference waves into night sky.",
+      "master": "masters/focus/STG_disc_jamming.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_jamming.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "d8f71965b9da1ef9d8eeba70d4c7034ba2e76c251390d75808484bd80636ef33"
+    },
+    {
+      "id": "STG_disc_closed_cities",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Barrier gate on forest road before secret town of white apartment blocks.",
+      "master": "masters/focus/STG_disc_closed_cities.png",
+      "game": "game/gfx/interface/goals/STG/STG_disc_closed_cities.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "71cb3e2e82e8f0f915040838bde93c1bce9f64104eda2f136578f8335c395e88"
+    },
+    {
+      "id": "STG_pio_zarnitsa",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Foals in caps playing war game in forest, toy rifles and flag.",
+      "master": "masters/focus/STG_pio_zarnitsa.png",
+      "game": "game/gfx/interface/goals/STG/STG_pio_zarnitsa.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "eb33b7d321501779ed3b051c25c7abb0e87670a610192630120c35b172270246"
+    },
+    {
+      "id": "STG_pio_suvorov",
+      "type": "focus",
+      "priority": "B",
+      "subject": "Cadet's black uniform cap with red band, white gloves laid beside.",
+      "master": "masters/focus/STG_pio_suvorov.png",
+      "game": "game/gfx/interface/goals/STG/STG_pio_suvorov.dds",
+      "master_size": [
+        1024,
+        1024
+      ],
+      "game_size": [
+        89,
+        80
+      ],
+      "format": "DDS BC3/DXT5",
+      "mipmaps": 0,
+      "sha256": "fb8afde77347951d4ddc87ae1bbfb426ebd70bce361559795b42f9d0ef53f479"
     }
   ],
   "omitted_by_user": [
@@ -1516,23 +1782,14 @@
       "request_id": "a74b0506-9115-4a73-b062-74b5b9b80463"
     }
   ],
-  "blocked": [],
+  "blocked": [
+    {
+      "id": "STG_pio_young_technicians",
+      "status": "blocked",
+      "reason": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 80cc1480-2511-40e7-b0ae-aa69d92c4fbf. safety_violations=[violence].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"violence\\\"\\n      ]\\n    }\\n  }\\n}\")"
+    }
+  ],
   "pending": [
-    "STG_sov_open_sessions",
-    "STG_sov_free_press",
-    "STG_sov_rotation",
-    "STG_sov_elected_commanders",
-    "STG_sov_peoples_army",
-    "STG_disc_labour_norms",
-    "STG_disc_subbotnik",
-    "STG_disc_honor_board",
-    "STG_disc_people_control",
-    "STG_disc_fifth_directorate",
-    "STG_disc_jamming",
-    "STG_disc_closed_cities",
-    "STG_pio_young_technicians",
-    "STG_pio_zarnitsa",
-    "STG_pio_suvorov",
     "STG_ogas_besm",
     "STG_ogas_setun",
     "STG_ogas_cemi",
